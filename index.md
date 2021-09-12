@@ -18,6 +18,10 @@ style= "margin:0; padding:0; float:bottom; width: 3%; height: auto;" /> </span>
 <!--If you landed here, you probably wish to know a bit about me and my work. If it was an accidental click however, no hard feelings… You are still welcome to skim through the page, get to know a bit about me, and connect to my social networks – for feedback, professional contact or just plain good old friendship. <img src="ICQ-icon.png" alt="ICQ icon"
 style="float: bottom; margin-right: 10px; width: 5%; height: auto;" /> -->
 
+<br/>
+<br/>
+<br/>
+
 ## Bio
 #### A matter of Curiosity, Accessibility and Avocados 
 
