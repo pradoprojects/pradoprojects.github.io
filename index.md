@@ -23,7 +23,7 @@ style="float: bottom; margin-right: 10px; width: 5%; height: auto;" /> -->
 <br/>
 
 ## Bio
-#### A matter of Curiosity, Accessibility and Avocados 
+#### A matter of curiosity, accessibility and avocados 
 
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 🦝 + 👨‍🦽 + 🥑 </p>
