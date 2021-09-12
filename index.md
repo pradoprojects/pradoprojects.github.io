@@ -35,6 +35,11 @@ Long story short, I was a young STEAM (Science, technology, engineering, and mat
 
 My professional story with UX remounts the beginning of the 90’s when I got my first job as a multimedia developer for high-school classes. It was a fantastic digital creativity experience that helped me feel in love with many activities that were later coined under the User Experience label. Time flew by at work in those times and the salary helped me pay my bills! It also gave me confidence to course the Computer Science program two years later. During the CS program, I developed a lot of mathematical/programming skills. However, because the bachelor program lacked a Human Computer Interaction professor in that time, I couldn’t pursue my former passion and ended up doing my final project in software testing – an area that arouse my interest both because of the supervision of my excellent advisor (Auri Vincenzi) and the load of problem-solving skills that software testing demanded and motivated me to pursue. This work opened the doors to my Master degree, where I could sharpen my scientific mindset and prepare to my PhD. During my PhD, I could observe that many of the testing tools were cumbersome to use and related in the literature to low effectiveness and efficacy of testing in practice. This instigated my curiosity to research the problem, in special the lack of cognitive support provided by unit testing tools. Summarizing, my years as a testing researcher slowly brought me back to the User Experience field -- and I am super thankful for this fate!
 
+<br/>
+<br/>
+<br/>
+
+
 You can use the [editor on GitHub](https://github.com/pradoprojects/pradoprojects.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
