@@ -1,4 +1,4 @@
-<font size="0"> ## Marllos P. Prado </font>
+## Marllos P. Prado
 
 <img src="lZgWcQEQ_400x400.jpg"
      alt="Markdown Monster icon"
