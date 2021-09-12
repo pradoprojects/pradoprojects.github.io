@@ -1,7 +1,7 @@
 ## Marllos P. Prado
 
      
-UX Enthusiast | Teacher | Learner
+UX Enthusiast. Teacher. Learner.
 
 
 
