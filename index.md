@@ -5,11 +5,11 @@
 
 <img src="lZgWcQEQ_400x400.jpg"
      alt="profile photo"
-     style="width: 50%;
+     style="width: 30%;
             height: auto;
             border-radius: 50%;
             float: right;
-            margin-lefts: 10px;"/>
+            margin-lefts: 20px;"/>
 
 ### Dear visitor, welcome to my personal webpage!
 <span> If you landed here, you probably wish to know a bit about me and my work. If it was an accidental click however, no hard feelings… You are still welcome to skim through the page, get to know a bit about me, and connect to my social networks – for feedback, professional contact or just plain good old friendship. <img src="ICQ-icon.png" alt="ICQ icon"
