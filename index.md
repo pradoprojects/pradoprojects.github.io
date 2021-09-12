@@ -26,9 +26,14 @@ style="float: bottom; margin-right: 10px; width: 5%; height: auto;" /> -->
 #### A matter of Curiosity, Accessibility and Avocados 
 
 
-<p style="padding: 50px; font-size: xx-large; text-align: center;"> 🦝 + 👨‍🦽 + 🥑 </p>
+<p style="padding: 30px; font-size: xx-large; text-align: center;"> 🦝 + 👨‍🦽 + 🥑 </p>
 
 Long story short, I was a young STEAM (Science, technology, engineering, and mathematics) passionate boy, born and raised in the 80/90’s in a rural region of Brazil that grew into a 36 year old User Experience (UX) enthusiast, tech curious and nature lover. So yes, the child alive inside me keeps bugging me to constantly analyze my innumerous daily experiences going from the new gadgets and packages in the market shelf, to the accessibility issues in the closest pharmacy store -- that weirdly demands people having a car to get tested for Covid-19! It is also this inner energy that motivates me to disassemble and repair my (and my friends') broken device – just for the sake of curiosity and self-compensation if I succeed in bringing it back to life. Oh, and last but not least, there is a lot of this youth solicitude behind the many hours I spent along my life planting avocado seeds -- just because they look chock-full of life to be trashed away after giving me a delicious morning milkshake.
+
+## My Route to UX
+#### ... a testing fate | or a test of fate ...
+
+My professional story with UX remounts the beginning of the 90’s when I got my first job as a multimedia developer for high-school classes. It was a fantastic digital creativity experience that helped me feel in love with many activities that were later coined under the User Experience label. Time flew by at work in those times and the salary helped me pay my bills! It also gave me confidence to course the Computer Science program two years later. During the CS program, I developed a lot of mathematical/programming skills. However, because the bachelor program lacked a Human Computer Interaction professor in that time, I couldn’t pursue my former passion and ended up doing my final project in software testing – an area that arouse my interest both because of the supervision of my excellent advisor (Auri Vincenzi) and the load of problem-solving skills that software testing demanded and motivated me to pursue. This work opened the doors to my Master degree, where I could sharpen my scientific mindset and prepare to my PhD. During my PhD, I could observe that many of the testing tools were cumbersome to use and related in the literature to low effectiveness and efficacy of testing in practice. This instigated my curiosity to research the problem, in special the lack of cognitive support provided by unit testing tools. Summarizing, my years as a testing researcher slowly brought me back to the User Experience field -- and I am super thankful for this fate!
 
 You can use the [editor on GitHub](https://github.com/pradoprojects/pradoprojects.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
