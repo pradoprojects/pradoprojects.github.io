@@ -3,7 +3,7 @@
 <details><summary></summary>
 
 
-## Marllos P. Prado
+## Marllos P. Prado | UX Enthusiast. Teacher. Learner.
 
 
 </details>
