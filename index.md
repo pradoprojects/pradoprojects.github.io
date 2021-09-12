@@ -7,12 +7,12 @@
             border-radius: 50%;
             float: right;
             margin-right: 10px;"/>
-### UX Enthusiast - Teacher - Learner.
+#### UX Enthusiast - Teacher - Learner.
 
 
 
 
-## Dear visitor, welcome to my personal webpage!
+### Dear visitor, welcome to my personal webpage!
 
 If you landed here, you probably wish to know a bit about me and my work. If it was an accidental click however, no hard feelings… You are still welcome to skim through the page, get to know a bit about me, and connect to my social networks – for feedback, professional contact or just plain good old friendship. (icq icon)
 
