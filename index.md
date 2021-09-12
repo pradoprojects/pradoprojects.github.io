@@ -1,8 +1,12 @@
 Marllos P. Prado
 
 <img src="lZgWcQEQ_400x400.jpg"
-     alt="Markdown Monster icon"
-     style="border-radius: 50%; float: left; margin-right: 10px;" />
+     alt="profile photo"
+     style="width: 50%;
+            height: auto;
+            border-radius: 50%;
+            float: center;
+            margin-right: 10px;"/>
 
 ## Dear visitor, welcome to my personal webpage!
 If you landed here, you probably wish to know a bit about me and my work. If it was an accidental click however, no hard feelings… You are still welcome to skim through the page, get to know a bit about me, and connect to my social networks – for feedback, professional contact or just plain good old friendship. (icq icon)
