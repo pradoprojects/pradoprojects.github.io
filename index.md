@@ -1,6 +1,8 @@
 
-## Marllos P. Prado
-## UX Enthusiast | Teacher | Learner
+<div align="center"> 
+     ## Marllos P. Prado
+     ### UX Enthusiast | Teacher | Learner
+<div>
 
 
 <img src="lZgWcQEQ_400x400.jpg"
