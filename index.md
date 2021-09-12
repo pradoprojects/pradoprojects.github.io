@@ -1,7 +1,4 @@
-Marllos P. Prado
-
-     
-UX Enthusiast. Teacher. Learner.
+Marllos P. Prado | UX Enthusiast - Teacher - Learner.
 
 
 
@@ -10,7 +7,7 @@ UX Enthusiast. Teacher. Learner.
      style="width: 50%;
             height: auto;
             border-radius: 50%;
-            float: left;
+            float: enter;
             margin-right: 10px;"/>
 
 ## Dear visitor, welcome to my personal webpage!
