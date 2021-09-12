@@ -13,7 +13,7 @@
      style="width: 50%;
             height: auto;
             border-radius: 50%;
-            float: center;
+            float: left;
             margin-right: 10px;"/>
 
 ## Dear visitor, welcome to my personal webpage!
