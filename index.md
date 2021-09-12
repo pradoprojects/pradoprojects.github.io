@@ -1,13 +1,9 @@
 
 
-<details><summary>CLICK ME</summary>
+<details><summary></summary>
 <p>
 
 ### Marllos P. Prado
-
-```python
-print("")
-```
 
 </p>
 </details>
