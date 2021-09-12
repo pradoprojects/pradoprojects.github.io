@@ -1,4 +1,5 @@
 # Marllos P. Prado 
+#### UX Enthusiast \| Teacher \| Learner.
 
 <img src="lZgWcQEQ_400x400.jpg"
      alt="profile photo"
@@ -6,8 +7,9 @@
             height: auto;
             border-radius: 50%;
             float: right;
-            margin-right: 10px;"/>
-#### UX Enthusiast - Teacher - Learner.
+            margin-lefts: 10px;"/>
+            
+
 
 
 
