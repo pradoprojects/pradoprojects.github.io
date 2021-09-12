@@ -1,5 +1,7 @@
-![Me](lZgWcQEQ_400x400.jpg)
-
+<img src="lZgWcQEQ_400x400.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px; border-radius: 50%;" />
+     
 ## Marllos P. Prado 
 
 ##Dear visitor, welcome to my personal webpage!
