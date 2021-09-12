@@ -1,5 +1,5 @@
 <img src="lZgWcQEQ_400x400.png"
-     alt="Markdown Monster icon"
+     alt="profile photo"
      style="float: left; margin-right: 10px; border-radius: 50%;" />
      
      
