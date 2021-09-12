@@ -1,6 +1,6 @@
 <img src="lZgWcQEQ_400x400.png"
      alt="profile photo"
-     style="float: left; margin-right: 10px; border-radius: 50%;" />
+     style="float: left; margin-right: 10px;" />
      
      
 ## Marllos P. Prado 
