@@ -1,4 +1,4 @@
-## Marllos P. Prado
+Marllos P. Prado
 
 <img src="lZgWcQEQ_400x400.jpg"
      alt="Markdown Monster icon"
