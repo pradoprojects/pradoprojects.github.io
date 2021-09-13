@@ -49,6 +49,23 @@ My professional story with UX remounts the beginning of the 90’s when I got my
 <br/>
 
 
+## What it takes to be a UX designer.
+#### Cousine with a grain of teaching
+
+<p style="padding: 30px; font-size: xx-large; text-align: center;">  👨‍🍳 | 👨‍🏫 </p>
+
+The same way STEAM activities were a thing way before someone coined a name, I consider that User Experience took the same evolutionary route. Both are an amalgam of practical and subjective multidisciplinary concepts that we finally have a name to designate.
+
+From my perspective and experience, User Experience shares a lot of commonalities with gastronomy and teaching: It doesn’t matter the amount of ingredients or theoretical knowledge you have at your disposal. If you can’t put things nicely together for YOUR audience you’ll fail to captivate them, convey your message and create a remarkable memory. I am not saying you must award the equivalent to a Michelin or Global Teacher Prize before adventuring yourself into the UX field. But your UX design output must at least provoke similar feelings to that memorable dish that you tasted a decade ago during a trip, in a remote underrated restaurant – or the classes of that teacher in your old school who immersed you and your classmates in a journey through space and time. In this sense, I’d risk to say that UX is part art, part science, but invariable driven by PURPOSE in every point of decision – put in or taken out.  
+
+As precisely coined by Louis Sullivan: “form follows function”. This max should guide all the points of decisions in a project that takes UX into consideration. This means that the focus for modeling the solution should not be in the product or service alone, but in the story that the person will live when in contact with the designed experience. It can’t come before or after, but along and intertwined in the project. This entails two major aspects: developing UX skills demands sharpening empathy and critical sense in ourselves. 
+
+<br/>
+<br/>
+<br/>
+
+
+
 You can use the [editor on GitHub](https://github.com/pradoprojects/pradoprojects.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
