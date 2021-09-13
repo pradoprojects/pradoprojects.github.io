@@ -60,8 +60,6 @@ From my perspective and experience, User Experience shares a lot of commonalitie
 
 As precisely coined by Louis Sullivan: “form follows function”. This max should guide all the points of decisions in a project that takes UX into consideration. This means that the focus for modeling the solution should not be in the product or service alone, but in the story that the person will live when in contact with the designed experience. It can’t come before or after, but along and intertwined in the project. This entails two major aspects: developing UX skills demands sharpening empathy and critical sense in ourselves. 
 
-<br/>
-
 #### 👂 Empathy  
 
 Empathy is directly connected to the artistic portion of UX. Without empathy you can’t wear somebody’s shoes and truly access their necessities, emotions, aims and claims. Put simply for Marvel fans, lack of empathy in UX design is your passport into Wandavision World. For non-marvel fans, lack of empathy is your passport for Wishful Thinking… You will fail in providing an effective experience because you will be mirroring your inner feelings in the design. It can sound true, vibrant and energetic to you. But it is as ineffective to others as you trying to recognize yourself in a mirror that reflects somebody else’s image.  This is easier said than done, especially in a world that discourages empathy in many areas. The good news is that you can always revive and channel empathy towards design if caring about people is something that triggers your self-reward mechanism. It surely does on me.
