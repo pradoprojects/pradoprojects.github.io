@@ -23,7 +23,7 @@ style="float: bottom; margin-right: 10px; width: 5%; height: auto;" /> -->
 <br/>
 
 ## Bio
-#### A matter of curiosity, accessibility and avocados 
+#### A matter of curiosity, accessibility and avocados. 
 
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 🦝 + 👨‍🦽 + 🥑 </p>
@@ -50,7 +50,7 @@ My professional story with UX remounts the beginning of the 90’s when I got my
 
 
 ## Becoming a UX designer
-#### Cuisine with a grain of Class
+#### Cuisine with a grain of Class.
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;">  👨‍🍳 && 👨‍🏫 </p>
 
@@ -68,6 +68,10 @@ Empathy is directly connected to the artistic portion of UX. Without empathy you
 
 I tend to see the critical sense as the main scientific skill demanded in UX design. By sharpening critical sense, you are mastering your ability to take different perspectives in the analyses of the problem. That means you must be relentlessly open to evaluate and reevaluate the problem and the methods employed. You shall visit past success and failures in similar and opposite projects. You must be willing to break apart and recombine the original problem, flip it upside-down as many time as possible, until the “form follows function” key is activated. True critical sense demands high-doses of persistence and resilience to failure. Of course the “fail fast, learn fast” approach is always welcome when it fits the problem. But as history teaches us, Thomas Edison made around 1K unsuccessful attempts at inventing the light bulb. In such cases, recalibrating the speed of “fast” can be an exercise of humbleness and acknowledging boundaries. Nonetheless, no one can deny the impact that electrical light had to modern life experience.
 
+## My 1st (amatour) UX design
+#### Nothing like two unattended kids and a tired mom.
+
+<p style="padding: 30px; font-size: xx-large; text-align: center;"> 🏃‍♀️🏃‍♂ && 👩‍⚕️ </p>
 
 
 You can use the [editor on GitHub](https://github.com/pradoprojects/pradoprojects.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
