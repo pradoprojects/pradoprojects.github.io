@@ -22,7 +22,7 @@ style="float: bottom; margin-right: 10px; width: 5%; height: auto;" /> -->
 <br/>
 <br/>
 
-## Bio
+## Bio in less than 200 words
 #### A matter of curiosity, accessibility and avocados. 
 
 
