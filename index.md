@@ -64,11 +64,11 @@ As precisely coined by Louis Sullivan: “form follows function”. This max sho
 <br/>
 <br/>
 
-#### Empathy 
+#### 👂Empathy 
 
 Empathy is directly connected to the artistic portion of UX. Without empathy you can’t wear somebody’s shoes and truly access their necessities, emotions, aims. Put simply for Marvel fans, lack of empathy in UX design is your passport into Wandavision World. For non-marvel fans, lack of empathy is your passport for Wishful Thinking… You will fail in providing an effective experience because you will be mirroring your inner feelings in the design. It can sound true, vibrant and energetic to you. But it is as ineffective to others as you trying to recognize yourself in a mirror that reflects somebody else’s image.  This is easier said than done, especially in a world that discourages empathy in many areas. The good news is that you can always revive and channel empathy towards design if caring about people is something that triggers your self-reward mechanism. It surely does on me.
 
-##### Critical Sense
+#### 🔬Critical Sense
 
 I tend to see the critical sense as the main scientific skill demanded in UX design. By sharpening critical sense, you are mastering your ability to take different perspectives in the analyses of the problem. That means you must be relentlessly open to evaluate and reevaluate the problem and the methods employed. You shall visit past success and failures in similar and opposite projects. You must be willing to break apart and recombine the original problem, flip it upside-down as many time as possible, until the “form follows function” key is activated. True critical sense demands high-doses of persistence and resilience to failure. Of course the “fail fast, learn fast” approach is always welcome when it fits the problem. But as history teaches us, Thomas Edison made around 1K unsuccessful attempts at inventing the light bulb. In such cases, recalibrating the speed of “fast” can be an exercise of humbleness and acknowledging boundaries. Nonetheless, no one can deny the impact that electrical light had to modern life experience.
 
