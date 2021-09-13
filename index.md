@@ -38,9 +38,9 @@ Long story short, I was a young STEAM (Science, technology, engineering, and mat
 
 
 ## My Route to UX
-#### ... a testing fate \| or a test of fate ...
+#### ... a testing fate or a test of fate ...
 
-<p style="padding: 30px; font-size: xx-large; text-align: center;">  🐜 | 🎲 </p>
+<p style="padding: 30px; font-size: xx-large; text-align: center;">  🐜 || 🎲 </p>
 
 My professional story with UX remounts the beginning of the 90’s when I got my first job as a multimedia developer for high-school classes. It was a fantastic digital creativity experience that helped me feel in love with many activities that were later coined under the User Experience label. Time flew by at work in those times and the salary helped me pay my bills! It also gave me confidence to course the Computer Science program two years later. During the CS program, I developed a lot of mathematical/programming skills. However, because the bachelor program lacked a Human Computer Interaction professor in that time, I couldn’t pursue my former passion and ended up doing my final project in software testing – an area that arouse my interest both because of the supervision of my excellent advisor (Auri Vincenzi) and the load of problem-solving skills that software testing demanded and motivated me to pursue. This work opened the doors to my Master degree, where I could sharpen my scientific mindset and prepare to my PhD. During my PhD, I could observe that many of the testing tools were cumbersome to use and related in the literature to low effectiveness and efficacy of testing in practice. This instigated my curiosity to research the problem, in special the lack of cognitive support provided by unit testing tools. Summarizing, my years as a testing researcher slowly brought me back to the User Experience field -- and I am super thankful for this fate!
 
@@ -49,10 +49,10 @@ My professional story with UX remounts the beginning of the 90’s when I got my
 <br/>
 
 
-## What it takes to be a UX designer.
-#### Cousine with a grain of teaching
+## What it takes to be a UX designer
+#### Cuisine with a grain of Class
 
-<p style="padding: 30px; font-size: xx-large; text-align: center;">  👨‍🍳 | 👨‍🏫 </p>
+<p style="padding: 30px; font-size: xx-large; text-align: center;">  👨‍🍳 && 👨‍🏫 </p>
 
 The same way STEAM activities were a thing way before someone coined a name, I consider that User Experience took the same evolutionary route. Both are an amalgam of practical and subjective multidisciplinary concepts that we finally have a name to designate.
 
