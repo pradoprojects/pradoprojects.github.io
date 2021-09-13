@@ -61,8 +61,6 @@ From my perspective and experience, User Experience shares a lot of commonalitie
 As precisely coined by Louis Sullivan: “form follows function”. This max should guide all the points of decisions in a project that takes UX into consideration. This means that the focus for modeling the solution should not be in the product or service alone, but in the story that the person will live when in contact with the designed experience. It can’t come before or after, but along and intertwined in the project. This entails two major aspects: developing UX skills demands sharpening empathy and critical sense in ourselves. 
 
 <br/>
-<br/>
-<br/>
 
 #### 👂 Empathy  
 
