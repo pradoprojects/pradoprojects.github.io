@@ -49,7 +49,7 @@ My professional story with UX remounts the beginning of the 90’s when I got my
 <br/>
 
 
-## What it takes to be a UX designer
+## Becoming a UX designer
 #### Cuisine with a grain of Class
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;">  👨‍🍳 && 👨‍🏫 </p>
