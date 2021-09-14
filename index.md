@@ -15,9 +15,7 @@
 <span> If you landed here, you probably wish to know a bit about me and my work. If it was an accidental click however, no hard feelings… You are still welcome to skim through the page, get to know a bit about me, and connect to my social networks – for [feedback](https://twitter.com/MarllosP), [professional contact](mailto: marllosprado@gmail.com) or just the old plain good friendship. <img src="ICQ-icon.png" alt="ICQ icon"
 style= "margin:0; padding:0; float:bottom; width: 3%; height: auto;" /> </span>
 
-#### My Portfolio platforms
 
-GitHub | Figma | Dribble |
 
 <!--If you landed here, you probably wish to know a bit about me and my work. If it was an accidental click however, no hard feelings… You are still welcome to skim through the page, get to know a bit about me, and connect to my social networks – for feedback, professional contact or just plain good old friendship. <img src="ICQ-icon.png" alt="ICQ icon"
 style="float: bottom; margin-right: 10px; width: 5%; height: auto;" /> -->
@@ -83,4 +81,8 @@ I think my first act trying to design user experience happened in the form of a 
 #### ❣ A takeaway message
 
 One important thing that I notice nowadays, looking back to this “LM moment” game, was that as in a user-centered design, all of our decisions had my mothers' desires and context in mind: what food does she like? Is it too heavy for the sleep? what singer she enjoys? Are the songs and volume calm enough for the moment? What soap and incense are we going to use to make her comfortable? Is the bath towel fluffy? Are the furnitures in a welcoming position – or will this swap just make her angry? Are the dogs already fed so that their barking doesn’t disrupt her relaxing moment? Details, details, details… all decisions having her in mind and each of them driven by a purpose. I know, I know… this may sound a silly idea of UX and not applied to tech. But who says UX is something exclusive to tech? Even intuitively, we had to make up all the five design thinking stages in our preparation: Empathizing, Defining, Ideating, Prototyping and Testing. For two young unsupervised kids in the 90s, it was a big accomplishment. And without any doubt a huge mom experience. All motivated by pure empathy!
+
+## My Portfolio platforms
+
+GitHub | Figma | Dribble |
 
