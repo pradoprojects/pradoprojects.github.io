@@ -14,7 +14,7 @@
 <p> Dear visitor, welcome to my personal webpage! </p>
 <span> If you landed here, you probably wish to know a bit about me and my work. If it was an accidental click however, no hard feelings… You are still welcome to skim through the page, get to know a bit about me, and connect to my social networks – for [feedback](mailto: marllosprado@gmail.com), [professional contact](https://www.linkedin.com/in/marllos-p-a383641b2) or just the old plain good friendship. <img src="ICQ-icon.png" alt="ICQ icon"
 style= "margin:0; padding:0; float:bottom; width: 3%; height: auto;" /> <img src="twitter.png" alt="twitter icon"
-style= "margin:0; padding:0; float:bottom; width: 50%; height: auto;" />
+style= "margin:0; padding:0; float:bottom; width: 5%; height: auto;" />
 
 
 
