@@ -82,41 +82,5 @@ I think my first act trying to design user experience happened in the form of a 
 
 #### ❣ A takeaway message
 
-One important thing that I notice nowadays, looking back to this “LM moment” game, was that as in a user-centered design, all of our decisions had her desires and context in mind: what food does she like? Is it too heavy for the sleep? what singer she enjoys? Are the songs and volume calm enough for the moment? What soap and incense are we going to use to make her comfortable? Is the bath towel fluffy? Are the furnitures in a welcoming position – or will this swap just make her angry? Are the dogs already fed so that their barking doesn’t disrupt her relaxing moment? Details, details, details… all decisions having her in mind and each of them driven by a purpose. I know, I know… this may sound a silly idea of UX and not applied to tech. But who says UX is something exclusive to tech? Even intuitively, we had to make up all the five design thinking stages in our preparation: Empathizing, Defining, Ideating, Prototyping and Testing. For two young unsupervised kids in the 90s, it was a big accomplishment. And without any doubt a huge mom experience. All motivated by pure empathy!
+One important thing that I notice nowadays, looking back to this “LM moment” game, was that as in a user-centered design, all of our decisions had my mothers' desires and context in mind: what food does she like? Is it too heavy for the sleep? what singer she enjoys? Are the songs and volume calm enough for the moment? What soap and incense are we going to use to make her comfortable? Is the bath towel fluffy? Are the furnitures in a welcoming position – or will this swap just make her angry? Are the dogs already fed so that their barking doesn’t disrupt her relaxing moment? Details, details, details… all decisions having her in mind and each of them driven by a purpose. I know, I know… this may sound a silly idea of UX and not applied to tech. But who says UX is something exclusive to tech? Even intuitively, we had to make up all the five design thinking stages in our preparation: Empathizing, Defining, Ideating, Prototyping and Testing. For two young unsupervised kids in the 90s, it was a big accomplishment. And without any doubt a huge mom experience. All motivated by pure empathy!
 
-
-You can use the [editor on GitHub](https://github.com/pradoprojects/pradoprojects.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pradoprojects/pradoprojects.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
