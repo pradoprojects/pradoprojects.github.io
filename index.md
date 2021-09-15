@@ -80,7 +80,7 @@ I think my first act trying to design a user experience happened in the form of 
 
 One important thing that I notice nowadays, looking back to this “LM moment” game, was that as in a user-centered design, all of our decisions had my mother's desires and the context in mind: what food does she like? Is it too heavy for her sleep? what singer does she enjoy? Are the songs and volume calm enough for the moment? What soap and incense are we going to use to make her comfortable? Is the bath towel fluffy? Is the furniture in a welcoming position – or will this swap just make her angry? Are the dogs already fed so that their barking doesn’t disrupt her relaxing moment? Details, details, details… all decisions having her in mind and each of them driven by a purpose. I know, I know… this may sound like a silly idea of UX and not applied to tech. But who says UX is something exclusive to tech? Even intuitively, we had to make up all the five design thinking stages in our preparation: Empathizing, Defining, Ideating, Prototyping, and Testing. For two young unsupervised kids in the 90s, it was a big accomplishment. And without any doubt a huge mom experience. All motivated by pure empathy!
 
-## My Portfolio platforms
+## My Portfolio
 
 <span> <a href="http://pradoprojects.github.io"> <img src="Octocat.svg" alt="GitHub icon" style= "margin:0; padding:0; float:bottom; width: 3%; height: auto;"/> You can access most of the artifacts that I designed/wrote/coded along my career in my GitHub repository. </a> </span>
 
