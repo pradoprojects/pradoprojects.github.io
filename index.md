@@ -84,7 +84,7 @@ One important thing that I notice nowadays, looking back to this “LM moment”
 
 <span> <a href="http://pradoprojects.github.io"> <img src="Github-Free-Download-PNG.png" alt="GitHub icon" style= "margin:0; padding:0; float:bottom; width: 7%; height: auto;"/> You can access most of the artifacts that I designed/wrote/code along my career in my GitHub repository. </a> </span>
 
-<span> <a href="https://www.figma.com/@marllos"> <img src="Figma-logo.svg" alt="Figma icon" style= "margin:0; padding:0; float:bottom; width: 2%; height: auto;"/> I have also a Figma profile with some recent works that I designed during my participation at the Reskill Americans Program. </a>  </span>
+<span> <a href="https://www.figma.com/@marllos"> <img src="Octocat.png" alt="Figma icon" style= "margin:0; padding:0; float:bottom; width: 2%; height: auto;"/> I have also a Figma profile with some recent works that I designed during my participation at the Reskill Americans Program. </a>  </span>
 
 
 
