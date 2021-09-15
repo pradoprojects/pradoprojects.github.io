@@ -5,7 +5,7 @@
 
 <img src="lZgWcQEQ_400x400.jpg"
      alt="profile photo"
-     style="width: 30%;
+     style="width: 35%;
             height: auto;
             border-radius: 50%;
             float: right;
