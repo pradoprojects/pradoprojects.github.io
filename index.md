@@ -5,14 +5,14 @@
 
 <img src="lZgWcQEQ_400x400.jpg"
      alt="profile photo"
-     style="width: 35%;
+     style="width: 30%;
             height: auto;
             border-radius: 50%;
             float: right;
             margin-lefts: 20px;"/>
 
 <p> Dear visitor, welcome to my personal webpage! </p>
-<span> If you landed here, you probably wish to know a bit about me and my work. If it was an accidental click however, no hard feelings… You are still welcome to skim through the page, get to know a bit about me, and connect to my social networks – for [feedback](mailto: marllosprado@gmail.com), [professional contact](https://www.linkedin.com/in/marllos-p-a383641b2), [sharing](https://twitter.com/marllosp) or just the old plain good friendship. <a href="https://icq.im/marllosp"> <img src="ICQ-icon.png" alt="ICQ icon" style= "margin:0; padding:0; float:bottom; width: 3%; height: auto;"/> </a></span>
+<span> If you landed here, you probably wish to know a bit about me and my work. If it was an accidental click however, no hard feelings… You are still welcome to skim through the page, get to know a bit about me, and connect to my social networks – for [feedback](mailto: marllosprado@gmail.com), [professional contact](https://www.linkedin.com/in/marllos-p-a383641b2), [tweets](https://twitter.com/marllosp) or just the old plain good friendship. <a href="https://icq.im/marllosp"> <img src="ICQ-icon.png" alt="ICQ icon" style= "margin:0; padding:0; float:bottom; width: 3%; height: auto;"/> </a></span>
 
 
 <!--If you landed here, you probably wish to know a bit about me and my work. If it was an accidental click however, no hard feelings… You are still welcome to skim through the page, get to know a bit about me, and connect to my social networks – for feedback, professional contact or just plain good old friendship. <img src="ICQ-icon.png" alt="ICQ icon"
