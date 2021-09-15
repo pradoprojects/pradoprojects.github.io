@@ -82,5 +82,6 @@ One important thing that I notice nowadays, looking back to this “LM moment”
 
 ## My Portfolio platforms
 
-GitHub | Figma | Dribble |
+You can access most of the artifacts that I designed/wrote/code along my career in my GitHub repository. <a href="http://pradoprojects.github.io"> <img src="Github-Free-Download-PNG.png" alt="GitHub icon" style= "margin:0; padding:0; float:bottom; width: 3%; height: auto;"/> </a>
+I have also a Figma profile with some recent work that I designed during my participation at the Reskill American Program. <a href="figma.com/@marllos"> <img src="Github-Free-Download-PNG.png" alt="GitHub icon" style= "margin:0; padding:0; float:bottom; width: 3%; height: auto;"/> </a>
 
