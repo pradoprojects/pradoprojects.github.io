@@ -33,7 +33,7 @@ Long story short, I was a young STEAM (Science, Technology, Engineering, and Mat
 | Syntax      | Description |
 | :-----------: | :-----------: |
 | Header      | Title       |
-| <img src="Octocat.svg" alt="Avatar" src="style="border-radius: 50%; width:48px; height:auto;"/>   | <img src="Octocat.svg" alt="Avatar" src="style="border-radius: 50%; width:48px; height:auto;"> |
+| <img src="Octocat.svg" alt="Avatar" style="border-radius: 50%; width:48px; height:auto;"/>   | <img src="Octocat.svg" alt="Avatar" style="border-radius: 50%; width:48px; height:auto;"> |
 
 
 
