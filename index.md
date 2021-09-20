@@ -32,7 +32,7 @@ Long story short, I was a young STEAM (Science, Technology, Engineering, and Mat
 
 
 
-<iframe src="./frame1.html" title="Me in < 200 word" style="border:none; height:500px; width:500px;" scrolling="no" class="responsive"> </iframe>
+<iframe src="./frame1.html" title="Me in < 200 word" style="border:none; height:auto; width:auto;" scrolling="no" class="responsive"> </iframe>
 
 <br/>
 <br/>
