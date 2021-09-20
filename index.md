@@ -35,8 +35,9 @@ Long story short, I was a young STEAM (Science, Technology, Engineering, and Mat
 |       |        |
 | <img src="Octocat.svg" alt="Avatar" style="border-radius: 200%; width:48px; height:auto;" class="responsive"/>   | <img src="Octocat.svg" alt="Avatar" style="border-radius: 200%; width:48px; height:auto;" class="responsive"> |
 
+<frameset>
 <frame src="./frame_1.html">
-
+</frameset>
 
 <br/>
 <br/>
