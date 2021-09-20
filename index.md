@@ -113,7 +113,8 @@ Below are some book references about UX/Human-Computer Interaction topics that I
 - [Orchestrating Experiences](https://rosenfeldmedia.com/books/orchestrating-experiences/)
 - [The User Experience Team of One](https://rosenfeldmedia.com/books/the-user-experience-team-of-one/)
 - [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X/ref=sr_1_1?dchild=1&keywords=Sprint%21&qid=1631310196&s=books&sr=1-1)
-- [Just Enough Research](https://abookapart.com/products/just-enough-research) <!--- recommended --->
+- [Just Enough Research](https://abookapart.com/products/just-enough-research) 
+<!--- recommended --->
 - [DataStory](https://www.amazon.com/dp/1940858984/ref=sspa_dk_detail_6?psc=1&pd_rd_i=1940858984&pd_rd_w=01yrs&pf_rd_p=91afecf5-8b2e-41e2-9f11-dc6992c6eaa1&pd_rd_wg=C4L5Q&pf_rd_r=HB323TR2SVHVC51217MN&pd_rd_r=43ed2a4e-2c91-4265-99d7-af8e02d8aa06&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUTNTQ0pXRkNVOUFDJmVuY3J5cHRlZElkPUEwNTAzNjE3MzM0TjJURTVBVE9PVSZlbmNyeXB0ZWRBZElkPUEwMTIyMjY5MTdSQlVYNUFISkNDUSZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 - [Handbook of Usability Testing](https://www.amazon.com/Handbook-Usability-Testing-Conduct-Effective/dp/0470185481/ref=sr_1_1?dchild=1&keywords=Handbook+of+Usability+Testing&qid=1626719142&sr=8-1)
 - [Remote Research](https://rosenfeldmedia.com/books/remote-research/)
