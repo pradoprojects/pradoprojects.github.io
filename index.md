@@ -28,7 +28,7 @@ style="float: bottom; margin-right: 10px; width: 5%; height: auto;" /> -->
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 🦝 + 👨‍🦽 + 🥑 </p>
 
-Long story short, I was a young STEAM (Science, Technology, Engineering, and Mathematics) passionate boy, born and raised in the 80/90’s in a rural region of Brazil, who grew up into a 36-year-old User Experience (UX) enthusiast, tech curious, and nature lover. So yes, the child alive inside me keeps bugging me to constantly analyze my numerous daily experiences as a user going from the new gadgets and packages on the market shelf to the accessibility issues in the closest pharmacy store -- which weirdly request that people have a car in order to get tested for Covid-19 (no, no pedestrian in the drive-thru, nor alternative option)! It is also this inner energy that motivates me to disassemble and reassemble my (and my friends') broken devices, just for the sake of curiosity and self-compensation if I succeed in bringing them back to life. Oh, and last but not least, there is a lot of this youth solicitude behind the many hours I spent along my life planting the seeds of my foods -- avocados in special, as they look too chock-full of life to be trashed away after giving me a delicious matinal avo-shake!
+Long story short, I was a young STEAM (Science, Technology, Engineering, and Mathematics) passionate boy, born and raised in the 80/90’s in Brazil, who grew up into a 36-year-old User Experience (UX) enthusiast, tech curious, and nature lover. So yes, the child alive inside me keeps bugging me to constantly analyze my numerous daily experiences as a user going from the new gadgets and packages on the market shelf to the accessibility issues in the closest pharmacy store -- which weirdly request that people have a car in order to get tested for Covid-19 (no, no pedestrian in the drive-thru, nor alternative option)! It is also this inner energy that motivates me to disassemble and reassemble my (and my friends') broken devices, just for the sake of curiosity and self-compensation if I succeed in bringing them back to life. Oh, and last but not least, there is a lot of this youth solicitude behind the many hours I spent along my life planting the seeds of my foods -- avocados in special, as they look too chock-full of life to be trashed away after giving me a delicious matinal avo-shake!
 
 
 
@@ -117,7 +117,7 @@ Below are some book references about UX/Human-Computer Interaction topics that I
 - [Validating Product Ideas: Through Lean User Research](https://rosenfeldmedia.com/books/lean-user-research/)
 - [Card Sorting](https://rosenfeldmedia.com/books/card-sorting/)
 - [Interviewing Users](https://rosenfeldmedia.com/books/interviewing-users/)
-
+- [Cognitive Psychology](https://www.amazon.com/dp/1305644654/ref=cm_sw_r_tw_dp_RESXS179F7GXDDTC69WJ?_encoding=UTF8&psc=1)
 
 
 
