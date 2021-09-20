@@ -93,6 +93,26 @@ One important thing that I notice nowadays, looking back to this “LM moment”
 <span> <a href="https://www.figma.com/@marllos"> <img src="Figma-logo.svg" alt="Figma icon" style= "margin:0; padding:0; float:bottom; width: 2%; height: auto;"/> I have also a Figma profile with some recent works that I designed during my participation at the Reskill Americans Program. </a>  </span>
 
 
+HCI Books and Readings
+
+Below are some book references about Human-Computer Interaction topics that I like to read, skim through.
+
+- [Human-Computer Interaction](https://www.amazon.com/dp/0130461091/ref=cm_sw_r_tw_dp_SJFH5RA08NZ6HE6WP983) 
+- [Interaction Design: Beyond Human-Computer Interaction by Helen Sharp](https://www.amazon.com/dp/1119547253/ref=cm_sw_r_tw_dp_PCHGZED2CQAB2C2DW180?_encoding=UTF8&psc=1) 
+- [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
+- [Don't Make Me Think!](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758)
+- [Writing is Designing](https://rosenfeldmedia.com/books/writing-is-designing/)
+- [Prototyping](https://rosenfeldmedia.com/books/prototyping/)
+- [The User’s Journey](https://rosenfeldmedia.com/books/storymapping/)
+- [Figure It Out: Getting from Information to Understanding](https://rosenfeldmedia.com/books/figure-it-out/)
+- [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879)
+- [Lean UX](https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652)
+- [Blind Spot](https://rosenfeldmedia.com/books/blind-spot/)
+- [The Jobs To Be Done Playbook](https://rosenfeldmedia.com/books/jobs-to-be-done-book/)
+- [About Face: The Essentials of Interaction Design](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571)
+- [Orchestrating Experiences](https://rosenfeldmedia.com/books/orchestrating-experiences/)
+- [The User Experience Team of One](https://rosenfeldmedia.com/books/the-user-experience-team-of-one/)
+- [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X/ref=sr_1_1?dchild=1&keywords=Sprint%21&qid=1631310196&s=books&sr=1-1)
 
 
 
