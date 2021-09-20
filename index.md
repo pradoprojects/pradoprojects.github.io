@@ -35,7 +35,7 @@ Long story short, I was a young STEAM (Science, Technology, Engineering, and Mat
 |       |        |
 | <img src="Octocat.svg" alt="Avatar" style="border-radius: 200%; width:48px; height:auto;" class="responsive"/>   | <img src="Octocat.svg" alt="Avatar" style="border-radius: 200%; width:48px; height:auto;" class="responsive"> |
 
-<iframe src="./frame1.html" title="Me in < 200 word" style="border:none; height:auto; width:500px; scrollingattribute:scrolling="no" " class="responsive"> </iframe>
+<iframe src="./frame1.html" title="Me in < 200 word" style="border:none; height:auto; width:500px;" scrolling="no" class="responsive"> </iframe>
 
 <br/>
 <br/>
