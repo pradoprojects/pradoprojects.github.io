@@ -32,8 +32,6 @@ Long story short, I was a young STEAM (Science, Technology, Engineering, and Mat
 
 
 
-<iframe src="./frame1.html" title="Me in less than 200 photos" style="margin: 0 auto; border:none; height:500px; width:50px; display: block;" scrolling="no" class="responsive" > </iframe>
-
 <br/>
 <br/>
 <br/>
