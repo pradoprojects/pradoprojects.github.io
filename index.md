@@ -85,6 +85,10 @@ One important thing that I notice nowadays, looking back to this “LM moment”
 
 <span> <a href="https://www.figma.com/@marllos"> <img src="Figma-logo.svg" alt="Figma icon" style= "margin:0; padding:0; float:bottom; width: 2%; height: auto;"/> I have also a Figma profile with some recent works that I designed during my participation at the Reskill Americans Program. </a>  </span>
 
+## My Resume
+
+<span> <a href="https://github.com/pradoprojects/pradoprojects.github.io/blob/main/Resume%20Marllos%20UX.pdf"> <img src="resume-svgrepo-com.svg" alt="Resume icon" style= "margin:0; padding:0; float:bottom; width: 2%; height: auto;"/> This is my Resume. Some compare resumes to professional obituaries... I'd rather have a more positive view about it... I see my Resume as an ongoing script of my career journey and the footprints of my constant seek for knowledge and adaptation. </a> </span>
+
 
 ## UX Books and Readings
 
