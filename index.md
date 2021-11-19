@@ -87,7 +87,7 @@ One important thing that I notice nowadays, looking back to this “LM moment”
 
 ## My Resume
 
-<span> <a href="https://github.com/pradoprojects/pradoprojects.github.io/blob/main/Resume%20Marllos%20UX.pdf"> <img src="resume-svgrepo-com.svg" alt="Resume icon" style= "margin:0; padding:0; float:bottom; width: 2%; height: auto;"/> This is my Resume. Some compare resumes to professional obituaries... I'd rather have a more positive view about it... I see my Resume as an ongoing script of my career journey and the footprints of my constant seek for knowledge and adaptation. </a> </span>
+<span> <a href="https://gist.github.com/pradoprojects/b6f758eb1b844dca07dc4c1b03f940b3"> <img src="resume-svgrepo-com.svg" alt="Resume icon" style= "margin:0; padding:0; float:bottom; width: 2%; height: auto;"/> This is my Resume. Some compare resumes to professional obituaries... I'd rather have a more positive view about it... I see my Resume as an ongoing script of my career journey and the footprints of my constant seek for knowledge and adaptation. </a> </span>
 
 
 ## UX Books and Readings
