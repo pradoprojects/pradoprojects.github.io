@@ -7,8 +7,9 @@
      alt="profile photo"
      style="width: 30%;
             height: auto;
-            border-radius: 80%;
-            float: center;
+            border-radius: 50%;
+            float: right;
+            margin-lefts: 20px;"/>
             "/>
 
 <p> Dear visitor, welcome to my personal webpage! </p>
@@ -53,8 +54,7 @@ My professional history with UX remounts the beginning of the 2000s when, yet a 
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 
 </p> 
 
-<img src="Seedlerslogo.png" alt="Seedlers Logo" style="width: 30%; height: auto; border-radius: 50%; float: right; margin-lefts: 20px;"/>
-
+<img src="Seedlerslogo.png" alt="Seedlers Logo" style="width: 30%; height: auto; border-radius: 80%; float: right;"/>
 
 
 This is an ongoing UX project to design an app that will let plants enthusiasts connect to each other and share seeds/cuttings/ tips of their plants with other gardeners. The idea is to leverage users' well-being and environmentally sustainable attitudes by nurturing communities that share a common interest in plants.
