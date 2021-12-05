@@ -50,7 +50,7 @@ My professional history with UX remounts the beginning of the 2000s when, yet a 
 
 ## My Portfolio
 
-#### Seedlers App [In progress] - 🍅🥕🥔 
+#### Seedlers App - 🍅🥕🥔 [In Progress]
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 
 <img src="Seedlerslogo.png" alt="Seedlers Logo" style="width: 50%; height: auto; border-radius: 10%; float: center;"/>
