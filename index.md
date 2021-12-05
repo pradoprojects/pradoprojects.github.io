@@ -8,7 +8,7 @@
      style="width: 30%;
             height: auto;
             border-radius: 50%;
-            float: right;
+            float: center;
             margin-lefts: 20px;"/>
 
 <p> Dear visitor, welcome to my personal webpage! </p>
