@@ -50,7 +50,7 @@ My professional history with UX remounts the beginning of the 2000s when, yet a 
 ## My Portfolio
 
 # Seedlers App [In progress]
-<p style="padding: 30px; font-size: xx-large; text-align: center;"> <img src="Group 77 (1).png" alt="profile photo"\> </p> 
+<p style="padding: 30px; font-size: xx-large; text-align: center;"> <img src="Group 77 (1).png" alt="Seedlers Logo"\> </p> 
 
 
 
