@@ -2,7 +2,6 @@
 #### UX Enthusiast \| Tech Passionate \| Learner.
 
 
-
 <img src="lZgWcQEQ_400x400.jpg"
      alt="profile photo"
      style="width: 30%;
@@ -51,8 +50,7 @@ My professional history with UX remounts the beginning of the 2000s when, yet a 
 ## My Portfolio
 
 # Seedlers App [In progress]
-<p style="padding: 30px; font-size: xx-large; text-align: center;"> 
-</p> 
+
 
 <img src="Seedlerslogo.png" alt="Seedlers Logo" style="width: 30%; height: auto; border-radius: 80%; float: right;"/>
 
