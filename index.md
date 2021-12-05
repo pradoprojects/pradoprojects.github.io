@@ -47,6 +47,31 @@ My professional history with UX remounts the beginning of the 2000s when, yet a 
 <br/>
 <br/>
 
+## My Portfolio
+
+# Seedlers App [In progress]
+<p style="padding: 30px; font-size: xx-large; text-align: center;">  🍅🥕🥔 </p> 
+
+<img src="Group 77 (1).png"
+     alt="profile photo"
+     style="width: 30%;
+            height: auto;
+            border-radius: 50%;
+            float: right;
+            margin-lefts: 20px;"/>
+
+
+This is an ongoing UX project to design an app that will let plants enthusiasts connect to each other and share seeds/cuttings/ tips of their plants with other gardeners. The idea is to leverage users' well-being and environmentally sustainable attitudes by nurturing communities that share a common interest in plants.
+
+
+<span> <a href="https://github.com/pradoprojects"> <img src="Octocat.svg" alt="GitHub icon" style= "margin:0; padding:0; float:bottom; width: 3%; height: auto;"/> You can access most of the artifacts that I designed/wrote/coded along my career in my GitHub repository. </a> </span>
+
+<span> <a href="https://www.figma.com/@marllos"> <img src="Figma-logo.svg" alt="Figma icon" style= "margin:0; padding:0; float:bottom; width: 2%; height: auto;"/> I have also a Figma profile with some recent works that I designed during my participation at the Reskill Americans Program. </a>  </span>
+
+
+<br/>
+<br/>
+<br/>
 
 ## Becoming a UX designer
 #### Cuisine with a grain of Class.
@@ -69,11 +94,6 @@ I tend to see critical sense as the main scientific skill demanded in UX design.
      
 
 
-## My Portfolio
-
-<span> <a href="https://github.com/pradoprojects"> <img src="Octocat.svg" alt="GitHub icon" style= "margin:0; padding:0; float:bottom; width: 3%; height: auto;"/> You can access most of the artifacts that I designed/wrote/coded along my career in my GitHub repository. </a> </span>
-
-<span> <a href="https://www.figma.com/@marllos"> <img src="Figma-logo.svg" alt="Figma icon" style= "margin:0; padding:0; float:bottom; width: 2%; height: auto;"/> I have also a Figma profile with some recent works that I designed during my participation at the Reskill Americans Program. </a>  </span>
 
 ## My Resume
 
