@@ -52,10 +52,10 @@ My professional history with UX remounts the beginning of the 2000s when, yet a 
 # Seedlers App [In progress]
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 
-<img src="Seedlerslogo.png" alt="Seedlers Logo" style="width: 50%; height: auto; border-radius: 90%; float: center;"/>
+<img src="Seedlerslogo.png" alt="Seedlers Logo" style="width: 50%; height: auto; border-radius: 95%; float: center;"/>
 </p> 
 
-This is an ongoing UX project to design an app that will let plants enthusiasts connect to each other and share seeds/cuttings/ tips of their plants with other gardeners. The idea is to leverage users' well-being and environmentally sustainable attitudes by nurturing communities that share a common interest in plants.
+This is an ongoing UX project to design an app that will let plants enthusiasts connect to each other and share seeds/cuttings/ tips of their plants with other gardeners. The idea is to leverage users' well-being and environmentally sustainable attitudes by nurturing communities that share a common interest in plants. [See more info at Git Repository](https://github.com/pradoprojects/Seedlers)
 
 
 <span> <a href="https://github.com/pradoprojects"> <img src="Octocat.svg" alt="GitHub icon" style= "margin:0; padding:0; float:bottom; width: 3%; height: auto;"/> You can access most of the artifacts that I designed/wrote/coded along my career in my GitHub repository. </a> </span>
