@@ -59,9 +59,28 @@ My professional history with UX remounts the beginning of the 2000s when, yet a 
 This is an ongoing UX project to design an app that will let plants enthusiasts connect to each other and share seeds/cuttings/ tips of their plants with other gardeners. The idea is to leverage users' well-being and environmentally sustainable attitudes by nurturing communities that share a common interest in plants. [See more info at Git Repository...](https://github.com/pradoprojects/Seedlers)
 
 
-<span> <a href="https://github.com/pradoprojects"> <img src="Octocat.svg" alt="GitHub icon" style= "margin:0; padding:0; float:bottom; width: 3%; height: auto;"/> You can access most of the artifacts that I designed/wrote/coded along my career in my GitHub repository. </a> </span>
+#### LetMHelp! App - 📱🎓📱
 
-<span> <a href="https://www.figma.com/@marllos"> <img src="Figma-logo.svg" alt="Figma icon" style= "margin:0; padding:0; float:bottom; width: 2%; height: auto;"/> I have also a Figma profile with some recent works that I designed during my participation at the Reskill Americans Program. </a>  </span>
+<p style="padding: 30px; font-size: xx-large; text-align: center;"> 
+<img src="https://github.com/pradoprojects/Self-Learning-App/blob/main/LetMhelp!.svg" alt="Seedlers Logo" style="width: 50%; height: auto; border-radius: 10%; float: center;"/>
+</p> 
+
+LetMHelp! was designed under the Reskill Americans Program as a team project carried by me and my teammates. The problem statement for our team established that we had to design and implement an App to support self-learning students to find and connect to voluntary tutors in the tech field. Most of the high-level requirements were pre-defined by the program. I was the UX designer of my team and my duties involved going through the Defining, Ideating, Prototyping stages. I was also responsible for defining and designing the name and logo of the App. [See more info at Git Repository...](https://github.com/pradoprojects/Self-Learning-App)
+
+
+#### WorldCitizen DonActor App - 📱🎓📱
+
+<p style="padding: 30px; font-size: xx-large; text-align: center;"> 
+<img src="https://github.com/pradoprojects/DonActor/blob/main/Logo.svg" alt="Seedlers Logo" style="width: 50%; height: auto; border-radius: 10%; float: center;"/>
+</p> 
+
+DonActor App was my first project at Reskill Americans Program. The app was intended to facilitate the donation process of clothes. In this project, I conducted the five design thinking stages (Empathize, Define, Ideate, Prototype, Test). I designed the UX/UI for the app itself as well as the name and Logo. All the artifacts in this repo were designed in a time window of four weeks (average hours rate: 2 hours/business day). [See more info at Git Repository...](https://github.com/pradoprojects/DonActor)
+
+
+
+<span> <a href="https://github.com/pradoprojects"> <img src="Octocat.svg" alt="GitHub icon" style= "margin:0; padding:0; float:bottom; width: 3%; height: auto;"/> You can also check other projects that I designed/wrote/coded along my career in my GitHub repository. </a> </span>
+
+<span> <a href="https://www.figma.com/@marllos"> <img src="Figma-logo.svg" alt="Figma icon" style= "margin:0; padding:0; float:bottom; width: 2%; height: auto;"/> My Figma profile with some recent works that I designed during my participation at the Reskill Americans Program. </a>  </span>
 
 
 <br/>
