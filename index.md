@@ -103,7 +103,7 @@ DonActor App was my first project at Reskill Americans Program. The app was inte
 <br/>
 
 
-#### Cognitive Support for Unit Testing - 🧠🧪🧠 [In Progress]
+#### Cognitive Support for Unit Testing - 🧠🧪🧠
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 
 <img src="graph.png" alt="Seedlers Logo" style="width: 50%; height: auto; border-radius: 0%; float: center;"/>
