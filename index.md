@@ -93,6 +93,12 @@ LetMHelp! was designed under the Reskill Americans Program as a team project car
 DonActor App was my first project at Reskill Americans Program. The app was intended to facilitate the donation process of clothes. In this project, I conducted the five design thinking stages (Empathize, Define, Ideate, Prototype, Test). I designed the UX/UI for the app itself as well as the name and Logo. All the artifacts in this repo were designed in a time window of four weeks (average hours rate: 2 hours/business day). [See more info at Git Repository...](https://github.com/pradoprojects/DonActor)
 </div>
 
+<br/>
+<br/>
+<br/>
+
+#### Other Projects
+
 <div style="text-align: justify">
 <span> <a href="https://github.com/pradoprojects"> <img src="Octocat.svg" alt="GitHub icon" style= "margin:0; padding:0; float:bottom; width: 3%; height: auto;"/> You can also check other projects that I designed/wrote/coded along my career in my GitHub repository. </a> </span>
 
@@ -116,12 +122,14 @@ From my perspective, User Experience shares a lot of commonalities with gastrono
 As precisely coined by Louis Sullivan: “form follows function”. This max should guide all the points of decisions in a project that considers UX. This means that the focus for modeling the solution should not be in the product or service alone, but in the story that the person will live when in contact with the designed experience. It can’t come before or after, but along and intertwined in the project. Thus, developing UX skills entail two major aspects: sharpening empathy and critical sense in ourselves. 
 </div>
 
+<br/>
 #### 👂 Empathy  
 
 <div style="text-align: justify">
 Empathy is directly connected to the artistic portion of UX. Without empathy, you can’t wear somebody’s shoes and truly access their necessities, emotions, aims, and claims. Put simply for Marvel fans, lack of empathy in UX design is your passport into Wandavision World. For non-marvel fans, lack of empathy is your passport for Wishful Thinking… You will fail in providing an effective experience because you will be mirroring your inner feelings in the design. It can sound true, vibrant, and energetic to you. But putting in perspective, it is as ineffective as you trying to recognize yourself in a mirror that reflects somebody else’s image.  This is easier said than done, especially in a world that discourages empathy in many areas. The good news is that you can always revive and channel empathy towards design if caring about people is something that triggers your self-reward mechanism. Surely, it does in me.
 </div>
 
+<br/>
 #### 🔬 Critical Sense
 
 <div style="text-align: justify">
@@ -131,7 +139,7 @@ I tend to see critical sense as the main scientific skill demanded in UX design.
 
 
 ## My Resume
-
+<p style="padding: 30px; font-size: xx-large; text-align: center;"> 👣👣👣 </p>
 <div style="text-align: justify">
 <span> <a href="https://gist.github.com/pradoprojects/b6f758eb1b844dca07dc4c1b03f940b3"> <img src="resume-svgrepo-com.svg" alt="Resume icon" style= "margin:0; padding:0; float:bottom; width: 2%; height: auto;"/> This is my Resume. Some compare resumes to professional obituaries... I'd rather have a more positive view about it... I see my Resume as an ongoing script of my career journey and the footprints of my constant seek for knowledge and adaptation. </a> </span>
 </div>
