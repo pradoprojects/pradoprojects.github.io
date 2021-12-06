@@ -62,7 +62,7 @@ This is an ongoing UX project to design an app that will let plants enthusiasts 
 #### LetMHelp! App - 📱🎓📱
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 
-<img src="LetMhelp!.svg" alt="Seedlers Logo" style="width: 50%; height: auto; border-radius: 10%; float: center;"/>
+<img src="LetMhelp!.png" alt="Seedlers Logo" style="width: 50%; height: auto; border-radius: 10%; float: center;"/>
 </p> 
 
 LetMHelp! was designed under the Reskill Americans Program as a team project carried by me and my teammates. The problem statement for our team established that we had to design and implement an App to support self-learning students to find and connect to voluntary tutors in the tech field. Most of the high-level requirements were pre-defined by the program. I was the UX designer of my team and my duties involved going through the Defining, Ideating, Prototyping stages. I was also responsible for defining and designing the name and logo of the App. [See more info at Git Repository...](https://github.com/pradoprojects/Self-Learning-App)
