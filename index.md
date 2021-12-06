@@ -70,7 +70,7 @@ This is an ongoing UX project to design an app that will let plants enthusiasts 
 #### LetMHelp! App - 📱🎓📱
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 
-<img src="LetMhelp!.png" alt="Seedlers Logo" style="width: 50%; height: auto; border-radius: 50%; float: center;"/>
+<img src="LetMhelp!.png" alt="Seedlers Logo" style="width: 50%; height: auto; border-radius: 0%; float: center;"/>
 </p> 
 
 <div style="text-align: justify">
