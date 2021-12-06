@@ -49,7 +49,6 @@ My professional history with UX remounts the beginning of the 2000s when, yet a 
 
 <br/>
 <br/>
-<br/>
 
 ## My Portfolio
 
@@ -64,7 +63,6 @@ This is an ongoing UX project to design an app that will let plants enthusiasts 
 </div>
 [See more info at Git Repository...](https://github.com/pradoprojects/Seedlers)
 
-<br/>
 <br/>
 <br/>
 
@@ -82,7 +80,6 @@ LetMHelp! was designed under the Reskill Americans Program as a team project car
 
 <br/>
 <br/>
-<br/>
 
 
 #### WorldCitizen DonActor App - 🎁👖🎁
@@ -98,13 +95,14 @@ DonActor App was my first project at Reskill Americans Program. The app was inte
 
 <br/>
 <br/>
-<br/>
+
 
 #### Other Projects
 
 <div style="text-align: justify">
 <span> <a href="https://github.com/pradoprojects"> <img src="Octocat.svg" alt="GitHub icon" style= "margin:0; padding:0; float:bottom; width: 3%; height: auto;"/> You can also check other projects that I designed/wrote/coded along my career in my GitHub repository. </a> </span>
 
+<br/>
 <br/>
      
 <span> <a href="https://www.figma.com/@marllos"> <img src="Figma-logo.svg" alt="Figma icon" style= "margin:0; padding:0; float:bottom; width: 2%; height: auto;"/> My Figma profile with some recent works that I designed during my participation at the Reskill Americans Program. </a>  </span>
