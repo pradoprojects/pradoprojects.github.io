@@ -58,6 +58,10 @@ My professional history with UX remounts the beginning of the 2000s when, yet a 
 
 This is an ongoing UX project to design an app that will let plants enthusiasts connect to each other and share seeds/cuttings/ tips of their plants with other gardeners. The idea is to leverage users' well-being and environmentally sustainable attitudes by nurturing communities that share a common interest in plants. [See more info at Git Repository...](https://github.com/pradoprojects/Seedlers)
 
+<br/>
+<br/>
+<br/>
+
 
 #### LetMHelp! App - 📱🎓📱
 
@@ -66,6 +70,10 @@ This is an ongoing UX project to design an app that will let plants enthusiasts 
 </p> 
 
 LetMHelp! was designed under the Reskill Americans Program as a team project carried by me and my teammates. The problem statement for our team established that we had to design and implement an App to support self-learning students to find and connect to voluntary tutors in the tech field. Most of the high-level requirements were pre-defined by the program. I was the UX designer of my team and my duties involved going through the Defining, Ideating, Prototyping stages. I was also responsible for defining and designing the name and logo of the App. [See more info at Git Repository...](https://github.com/pradoprojects/Self-Learning-App)
+
+<br/>
+<br/>
+<br/>
 
 
 #### WorldCitizen DonActor App - 🎁👖🎁
