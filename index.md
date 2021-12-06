@@ -71,7 +71,7 @@ LetMHelp! was designed under the Reskill Americans Program as a team project car
 #### WorldCitizen DonActor App - 🎁👖🎁
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 
-<img src="DonActor.svg" alt="Seedlers Logo" style="width: 20%; height: auto; border-radius: 0%; float: center;"/>
+<img src="DonActor.png" alt="Seedlers Logo" style="width: 20%; height: auto; border-radius: 0%; float: center;"/>
 </p> 
 
 DonActor App was my first project at Reskill Americans Program. The app was intended to facilitate the donation process of clothes. In this project, I conducted the five design thinking stages (Empathize, Define, Ideate, Prototype, Test). I designed the UX/UI for the app itself as well as the name and Logo. All the artifacts in this repo were designed in a time window of four weeks (average hours rate: 2 hours/business day). [See more info at Git Repository...](https://github.com/pradoprojects/DonActor)
