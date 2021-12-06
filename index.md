@@ -43,8 +43,10 @@ Long story short, I was a young STEAM (Science, Technology, Engineering, and Mat
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;">  🐜 || 🎲 </p>
 
+<div style="text-align: justify">
 My professional history with UX remounts the beginning of the 2000s when, yet a teenager, I got my first job as a multimedia developer for high-school classes. It was a fantastic digital creativity experience that helped me fall in love with many activities that were later coined under the User Experience label. Time flew by at work in those times and the salary helped me pay my bills! It also gave me the confidence to course the Computer Science program two years later. During the CS program, I developed a lot of mathematical/programming skills. However, because the bachelor program lacked a Human-Computer Interaction professor at that time, I couldn’t pursue my former passion and ended up doing my final project in software testing – an area that arouse my interest both because of the supervision of my excellent advisor (Auri Vincenzi) and the load of problem-solving skills that software testing motivated me to obtain. This work opened up the opportunity for my Master's degree, where I could sharpen my scientific mindset and prepare for my Ph.D. During my Ph.D., I could observe that many of the testing tools were cumbersome to use and related in the literature to low effectiveness and efficacy of testing in practice. This instigated my curiosity to research the problem, in special the lack of cognitive support provided by unit testing tools. In parallel to the post-graduating studies, I developed a career as a CS teacher (teaching HCI, UX, Algorithms, Data Structures and Computing Foundations) with a small phase as Software Developer. To summarize, my years as a testing researcher and teacher slowly brought me back to the User Experience field -- and I am super thankful for this fate!
-     
+</div>
+
 <br/>
 <br/>
 <br/>
@@ -57,7 +59,9 @@ My professional history with UX remounts the beginning of the 2000s when, yet a 
 <img src="Seedlerslogo.png" alt="Seedlers Logo" style="width: 50%; height: auto; border-radius: 0%; float: center;"/>
 </p> 
 
+<div style="text-align: justify">
 This is an ongoing UX project to design an app that will let plants enthusiasts connect to each other and share seeds/cuttings/ tips of their plants with other gardeners. The idea is to leverage users' well-being and environmentally sustainable attitudes by nurturing communities that share a common interest in plants. [See more info at Git Repository...](https://github.com/pradoprojects/Seedlers)
+</div>
 
 <br/>
 <br/>
@@ -70,7 +74,9 @@ This is an ongoing UX project to design an app that will let plants enthusiasts 
 <img src="LetMhelp!.png" alt="Seedlers Logo" style="width: 50%; height: auto; border-radius: 0%; float: center;"/>
 </p> 
 
+<div style="text-align: justify">
 LetMHelp! was designed under the Reskill Americans Program as a team project carried by me and my teammates. The problem statement for our team established that we had to design and implement an App to support self-learning students to find and connect to voluntary tutors in the tech field. Most of the high-level requirements were pre-defined by the program. I was the UX designer of my team and my duties involved going through the Defining, Ideating, Prototyping stages. I was also responsible for defining and designing the name and logo of the App. [See more info at Git Repository...](https://github.com/pradoprojects/Self-Learning-App)
+</div>
 
 <br/>
 <br/>
@@ -83,14 +89,15 @@ LetMHelp! was designed under the Reskill Americans Program as a team project car
 <img src="DonActor.png" alt="Seedlers Logo" style="width: 20%; height: auto; border-radius: 0%; float: center;"/>
 </p> 
 
+<div style="text-align: justify">
 DonActor App was my first project at Reskill Americans Program. The app was intended to facilitate the donation process of clothes. In this project, I conducted the five design thinking stages (Empathize, Define, Ideate, Prototype, Test). I designed the UX/UI for the app itself as well as the name and Logo. All the artifacts in this repo were designed in a time window of four weeks (average hours rate: 2 hours/business day). [See more info at Git Repository...](https://github.com/pradoprojects/DonActor)
+</div>
 
-
-
+<div style="text-align: justify">
 <span> <a href="https://github.com/pradoprojects"> <img src="Octocat.svg" alt="GitHub icon" style= "margin:0; padding:0; float:bottom; width: 3%; height: auto;"/> You can also check other projects that I designed/wrote/coded along my career in my GitHub repository. </a> </span>
 
 <span> <a href="https://www.figma.com/@marllos"> <img src="Figma-logo.svg" alt="Figma icon" style= "margin:0; padding:0; float:bottom; width: 2%; height: auto;"/> My Figma profile with some recent works that I designed during my participation at the Reskill Americans Program. </a>  </span>
-
+</div>
 
 <br/>
 <br/>
@@ -101,27 +108,33 @@ DonActor App was my first project at Reskill Americans Program. The app was inte
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;">  👨‍🍳 && 👨‍🏫 </p>
 
+<div style="text-align: justify">
 The same way STEAM activities were a thing way before someone coined a name, I consider that User Experience took the same evolutionary route. Both are an amalgam of practical and multidisciplinary concepts that we finally have a name to designate.
 
 From my perspective, User Experience shares a lot of commonalities with gastronomy and teaching: It doesn’t matter the number of ingredients or load of theoretical knowledge you have at your disposal. If you can’t put things nicely together for YOUR audience you’ll fail to captivate them, convey your message and create a remarkable memory. I am not saying you must be awarded the equivalent to a Michelin or Global Teacher Prize before adventuring yourself into the UX field. But your UX design output must at least provoke similar feelings to that memorable dish that you tasted a decade ago during a trip, in a remote underrated restaurant -- or the classes of that teacher in your old school who immersed you and your classmates in a journey through space and time. In this sense, I’d risk saying that UX is part art, part science, but invariably driven by PURPOSE in every point of decision -- put in or taken out.  
 
 As precisely coined by Louis Sullivan: “form follows function”. This max should guide all the points of decisions in a project that considers UX. This means that the focus for modeling the solution should not be in the product or service alone, but in the story that the person will live when in contact with the designed experience. It can’t come before or after, but along and intertwined in the project. Thus, developing UX skills entail two major aspects: sharpening empathy and critical sense in ourselves. 
+</div>
 
 #### 👂 Empathy  
 
+<div style="text-align: justify">
 Empathy is directly connected to the artistic portion of UX. Without empathy, you can’t wear somebody’s shoes and truly access their necessities, emotions, aims, and claims. Put simply for Marvel fans, lack of empathy in UX design is your passport into Wandavision World. For non-marvel fans, lack of empathy is your passport for Wishful Thinking… You will fail in providing an effective experience because you will be mirroring your inner feelings in the design. It can sound true, vibrant, and energetic to you. But putting in perspective, it is as ineffective as you trying to recognize yourself in a mirror that reflects somebody else’s image.  This is easier said than done, especially in a world that discourages empathy in many areas. The good news is that you can always revive and channel empathy towards design if caring about people is something that triggers your self-reward mechanism. Surely, it does in me.
+</div>
 
 #### 🔬 Critical Sense
 
+<div style="text-align: justify">
 I tend to see critical sense as the main scientific skill demanded in UX design. By sharpening critical sense, you are mastering your ability to take different perspectives in the analyses of the problem. That means you must be relentlessly open to evaluate and reevaluate the problem and the methods employed. You shall visit past successes and failures in similar and opposite projects. You must be willing to break apart and recombine the original problem, flip it upside-down as many times as possible until the “form follows function” key is activated. True critical sense demands high-doses of persistence and resilience to failure. Of course, the “fail fast, learn fast” approach is always welcome when it fits the problem. But as history teaches us, Thomas Edison made around 1K unsuccessful attempts at inventing the light bulb. In such cases, recalibrating the speed of “fast” can be an exercise of humbleness and acknowledging boundaries. Nonetheless, no one can deny the impact that electrical light had on modern life experience.
-     
+</div>
 
 
 
 ## My Resume
 
+<div style="text-align: justify">
 <span> <a href="https://gist.github.com/pradoprojects/b6f758eb1b844dca07dc4c1b03f940b3"> <img src="resume-svgrepo-com.svg" alt="Resume icon" style= "margin:0; padding:0; float:bottom; width: 2%; height: auto;"/> This is my Resume. Some compare resumes to professional obituaries... I'd rather have a more positive view about it... I see my Resume as an ongoing script of my career journey and the footprints of my constant seek for knowledge and adaptation. </a> </span>
-
+</div>
 
 ## UX Books and Readings
 
