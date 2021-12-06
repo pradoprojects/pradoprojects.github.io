@@ -102,6 +102,8 @@ DonActor App was my first project at Reskill Americans Program. The app was inte
 <div style="text-align: justify">
 <span> <a href="https://github.com/pradoprojects"> <img src="Octocat.svg" alt="GitHub icon" style= "margin:0; padding:0; float:bottom; width: 3%; height: auto;"/> You can also check other projects that I designed/wrote/coded along my career in my GitHub repository. </a> </span>
 
+<br/>
+     
 <span> <a href="https://www.figma.com/@marllos"> <img src="Figma-logo.svg" alt="Figma icon" style= "margin:0; padding:0; float:bottom; width: 2%; height: auto;"/> My Figma profile with some recent works that I designed during my participation at the Reskill Americans Program. </a>  </span>
 </div>
 
@@ -136,13 +138,21 @@ Empathy is directly connected to the artistic portion of UX. Without empathy, yo
 I tend to see critical sense as the main scientific skill demanded in UX design. By sharpening critical sense, you are mastering your ability to take different perspectives in the analyses of the problem. That means you must be relentlessly open to evaluate and reevaluate the problem and the methods employed. You shall visit past successes and failures in similar and opposite projects. You must be willing to break apart and recombine the original problem, flip it upside-down as many times as possible until the “form follows function” key is activated. True critical sense demands high-doses of persistence and resilience to failure. Of course, the “fail fast, learn fast” approach is always welcome when it fits the problem. But as history teaches us, Thomas Edison made around 1K unsuccessful attempts at inventing the light bulb. In such cases, recalibrating the speed of “fast” can be an exercise of humbleness and acknowledging boundaries. Nonetheless, no one can deny the impact that electrical light had on modern life experience.
 </div>
 
+<br/>
+<br/>
+<br/>
 
 
 ## My Resume
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 👣👣👣 </p>
+
 <div style="text-align: justify">
-<span> <a href="https://gist.github.com/pradoprojects/b6f758eb1b844dca07dc4c1b03f940b3"> <img src="resume-svgrepo-com.svg" alt="Resume icon" style= "margin:0; padding:0; float:bottom; width: 2%; height: auto;"/> This is my Resume. Some compare resumes to professional obituaries... I'd rather have a more positive view about it... I see my Resume as an ongoing script of my career journey and the footprints of my constant seek for knowledge and adaptation. </a> </span>
+<span> <a href="https://gist.github.com/pradoprojects/b6f758eb1b844dca07dc4c1b03f940b3"> This is my Resume. Some compare resumes to professional obituaries... I'd rather have a more positive view about it... I see my Resume as an ongoing script of my career journey and the footprints of my constant seek for knowledge and adaptation. </a> </span>
 </div>
+
+<br/>
+<br/>
+<br/>
 
 ## UX Books and Readings
 
