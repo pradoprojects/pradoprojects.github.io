@@ -47,8 +47,9 @@ Long story short, I was a young STEAM (Science, Technology, Engineering, and Mat
 <div style="text-align: justify">
 My professional history with UX remounts the beginning of the 2000s when, yet a teenager, I got my first job as a multimedia developer for high-school classes. It was a fantastic digital creativity experience that helped me fall in love with many activities that were later coined under the User Experience label. Time flew by at work in those times and the salary helped me pay my bills! It also gave me the confidence to course the Computer Science program two years later. 
 <br/>     
+<br/>     
 During the CS program, I developed a lot of mathematical/programming skills. However, because the bachelor program lacked a Human-Computer Interaction professor at that time, I couldn’t pursue my former passion and ended up doing my final project in software testing – an area that arouse my interest both because of the supervision of my excellent advisor (Auri Vincenzi) and the load of problem-solving skills that software testing motivated me to obtain. This work opened up the opportunity for my Master's degree, where I could sharpen my scientific mindset and prepare for my Ph.D. 
-     
+<br/>          
 <br/>
 During my Ph.D., I could observe that many of the testing tools were cumbersome to use and related in the literature to low effectiveness and efficacy of testing in practice. This instigated my curiosity to research the problem, in special the lack of cognitive support provided by unit testing tools. In parallel to the post-graduating studies, I developed a career as a CS teacher (teaching HCI, UX, Algorithms, Data Structures and Computing Foundations) with a small phase as Software Developer. To summarize, my years as a testing researcher and teacher slowly brought me back to the User Experience field -- and I am super thankful for this fate!
 </div>
