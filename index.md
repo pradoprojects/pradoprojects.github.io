@@ -107,7 +107,7 @@ DonActor App was my first project at Reskill Americans Program. The app was inte
 #### Cognitive Support for Unit Testing - 🧠🧪🧠
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 
-<img src="graph.png" alt="Qualitative Study Coding Graph" style="width: 50%; height: auto; border-radius: 0%; float: center;"/>
+<img src="graph.PNG" alt="Qualitative Study Coding Graph" style="width: 50%; height: auto; border-radius: 0%; float: center;"/>
 </p> 
 
 <div style="text-align: justify">
