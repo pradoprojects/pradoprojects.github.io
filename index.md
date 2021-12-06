@@ -60,8 +60,9 @@ My professional history with UX remounts the beginning of the 2000s when, yet a 
 </p> 
 
 <div style="text-align: justify">
-This is an ongoing UX project to design an app that will let plants enthusiasts connect to each other and share seeds/cuttings/ tips of their plants with other gardeners. The idea is to leverage users' well-being and environmentally sustainable attitudes by nurturing communities that share a common interest in plants. [See more info at Git Repository...](https://github.com/pradoprojects/Seedlers)
+This is an ongoing UX project to design an app that will let plants enthusiasts connect to each other and share seeds/cuttings/ tips of their plants with other gardeners. The idea is to leverage users' well-being and environmentally sustainable attitudes by nurturing communities that share a common interest in plants.
 </div>
+[See more info at Git Repository...](https://github.com/pradoprojects/Seedlers)
 
 <br/>
 <br/>
@@ -75,8 +76,9 @@ This is an ongoing UX project to design an app that will let plants enthusiasts 
 </p> 
 
 <div style="text-align: justify">
-LetMHelp! was designed under the Reskill Americans Program as a team project carried by me and my teammates. The problem statement for our team established that we had to design and implement an App to support self-learning students to find and connect to voluntary tutors in the tech field. Most of the high-level requirements were pre-defined by the program. I was the UX designer of my team and my duties involved going through the Defining, Ideating, Prototyping stages. I was also responsible for defining and designing the name and logo of the App. [See more info at Git Repository...](https://github.com/pradoprojects/Self-Learning-App)
+LetMHelp! was designed under the Reskill Americans Program as a team project carried by me and my teammates. The problem statement for our team established that we had to design and implement an App to support self-learning students to find and connect to voluntary tutors in the tech field. Most of the high-level requirements were pre-defined by the program. I was the UX designer of my team and my duties involved going through the Defining, Ideating, Prototyping stages. I was also responsible for defining and designing the name and logo of the App. 
 </div>
+[See more info at Git Repository...](https://github.com/pradoprojects/Self-Learning-App)
 
 <br/>
 <br/>
@@ -90,8 +92,9 @@ LetMHelp! was designed under the Reskill Americans Program as a team project car
 </p> 
 
 <div style="text-align: justify">
-DonActor App was my first project at Reskill Americans Program. The app was intended to facilitate the donation process of clothes. In this project, I conducted the five design thinking stages (Empathize, Define, Ideate, Prototype, Test). I designed the UX/UI for the app itself as well as the name and Logo. All the artifacts in this repo were designed in a time window of four weeks (average hours rate: 2 hours/business day). [See more info at Git Repository...](https://github.com/pradoprojects/DonActor)
+DonActor App was my first project at Reskill Americans Program. The app was intended to facilitate the donation process of clothes. In this project, I conducted the five design thinking stages (Empathize, Define, Ideate, Prototype, Test). I designed the UX/UI for the app itself as well as the name and Logo. All the artifacts in this repo were designed in a time window of four weeks (average hours rate: 2 hours/business day).
 </div>
+[See more info at Git Repository...](https://github.com/pradoprojects/DonActor)
 
 <br/>
 <br/>
@@ -147,7 +150,7 @@ I tend to see critical sense as the main scientific skill demanded in UX design.
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 👣👣👣 </p>
 
 <div style="text-align: justify">
-<span> <a href="https://gist.github.com/pradoprojects/b6f758eb1b844dca07dc4c1b03f940b3"> This is my Resume. Some compare resumes to professional obituaries... I'd rather have a more positive view about it... I see my Resume as an ongoing script of my career journey and the footprints of my constant seek for knowledge and adaptation. </a> </span>
+<span> <a href="https://gist.github.com/pradoprojects/b6f758eb1b844dca07dc4c1b03f940b3"> This is my Resume</a>. Some compare resumes to professional obituaries... I'd rather have a more positive view about it... I see my Resume as an ongoing script of my career journey and the footprints of my constant seek for knowledge and adaptation. </span>
 </div>
 
 <br/>
