@@ -118,7 +118,7 @@ In this project I identified and characterized a research problem regarding the 
 <br/>
 <br/>
 
-#### Algorithms and Programming for Beginners: Preparing New Talents in the Language of Computing Technologies". - 👩‍💻🧩👨‍💻
+#### Algorithms and Programming for Beginners - 👩‍💻🧩👨‍💻
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 
 <img src="apb.jpg" alt="Project APB Photo" style="width: 70%; height: auto; border-radius: 100%; float: center;"/>
