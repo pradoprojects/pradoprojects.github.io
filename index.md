@@ -130,7 +130,7 @@ The project aimed at Brazilian high-school level students that wished to learn h
 <br/>
 The project encompassed playful activities such as handcrafting bracelets with the student's initials in binary ASCII representation, cardboard games, problem-solving challenges, team challenges mixed with computer programing.
 </div>
-[See more info at Git Repository...](https://github.com/pradoprojects/Phd_Artifacts)
+[See more info at Git Repository...](https://github.com/pradoprojects/Project-APB)
 
 <br/>
 <br/>
