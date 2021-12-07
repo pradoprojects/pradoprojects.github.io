@@ -118,6 +118,24 @@ In this project I identified and characterized a research problem regarding the 
 <br/>
 <br/>
 
+#### Algorithms and Programming for Beginners: Preparing New Talents in the Language of Computing Technologies". - 👩‍💻🧩👨‍💻
+
+<p style="padding: 30px; font-size: xx-large; text-align: center;"> 
+<img src="apb.jpg" alt="Project APB Photo" style="width: 70%; height: auto; border-radius: 100%; float: center;"/>
+</p> 
+
+<div style="text-align: justify">
+The project aimed at Brazilian high-school level students that wished to learn how to program. The project focused on developing their algorithmic thinking - rather than just learning a programming language in the traditional way.
+<br/>
+The project encompassed playful activities such as handcrafting bracelets with the student's initials in binary ASCII representation, cardboard games, problem-solving challenges, team challenges mixed with computer programing.
+</div>
+[See more info at Git Repository...](https://github.com/pradoprojects/Phd_Artifacts)
+
+<br/>
+<br/>
+
+
+
 #### Other Projects
 
 <div style="text-align: justify">
