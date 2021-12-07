@@ -125,7 +125,8 @@ In this project I identified and characterized a research problem regarding the 
 </p> 
 
 <div style="text-align: justify">
-The project aimed at Brazilian high-school level students that wished to learn how to program. The project focused on developing their algorithmic thinking - rather than just learning a programming language in the traditional way.
+The project aimed at Brazilian high-school level students that wished to learn how to program. The project focused on developing their algorithmic thinking in an innovative and unprecedented class experience - rather than just focusing on a programming language in the traditional way.
+<br/>
 <br/>
 The project encompassed playful activities such as handcrafting bracelets with the student's initials in binary ASCII representation, cardboard games, problem-solving challenges, team challenges mixed with computer programing.
 </div>
