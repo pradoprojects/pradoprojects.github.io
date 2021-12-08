@@ -125,7 +125,7 @@ In this project I identified and characterized a research problem regarding the 
 #### Algorithms and Programming for Beginners - 👩‍💻🧩👨‍💻
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 
-<img src="apb.jpg" alt="Project APB Photo" style="width: 70%; height: auto; border-radius: 50%; float: center;"/>
+<img src="apbnew.jpg" alt="Project APB Photo" style="width: 70%; height: auto; border-radius: 50%; float: center;"/>
 </p> 
 
 <div style="text-align: justify">
