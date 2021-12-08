@@ -6,7 +6,7 @@
      style="width: 30%;
             height: auto;
             border-radius: 50%;
-            float: center;
+            float: right;
             margin-lefts: 20px;"/>
 
             
