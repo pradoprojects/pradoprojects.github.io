@@ -10,7 +10,8 @@
             margin-lefts: 20px;"/>
 
             
-
+<br/>
+<br/>
 Welcome dear visitor! Here you'll find information about me and my work. You are also invited to connect to my social networks – for [feedback](mailto: marllosprado@gmail.com), [professional contact](https://www.linkedin.com/in/marllos-p-a383641b2), [tweets](https://twitter.com/marllosp), or just the old plain good friendship. <a href="https://icq.im/marllosp"> <img src="ICQ-icon.png" alt="ICQ icon" style= "margin:0; padding:0; float:bottom; width: 3%; height: auto;"/> </a>
 
 
