@@ -1,4 +1,4 @@
-#### UX Enthusiast \| Tech Passionate \| Learner.
+# UX Enthusiast \| Tech Passionate \| Learner.
 
 
 <img src="lZgWcQEQ_400x400.jpg"
