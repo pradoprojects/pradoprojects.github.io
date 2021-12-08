@@ -26,6 +26,7 @@ style="float: bottom; margin-right: 10px; width: 5%; height: auto;" /> -->
 <!--
 
 * * *
+---------------
 
 ## Me in less than 200 words
 #### A mix of curiosity, accessibility and avocados. 
