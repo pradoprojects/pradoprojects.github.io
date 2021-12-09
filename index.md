@@ -3,7 +3,7 @@
 
 <img src="lZgWcQEQ_400x400.jpg"
      alt="profile photo"
-     style="width: 20%;
+     style="width: 30%;
             height: auto;
             border-radius: 50%;
             float: right;
