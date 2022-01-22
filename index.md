@@ -193,7 +193,7 @@ I tend to see critical sense as the main scientific skill demanded in UX design.
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 👣👣👣 </p>
 
 <div style="text-align: justify">
-<span> <a href="https://gist.github.com/pradoprojects/b6f758eb1b844dca07dc4c1b03f940b3"> This is my Resume</a>. Some compare resumes to professional obituaries... I'd rather have a more positive view about it... I see my Resume as an ongoing script of my career journey and the footprints of my constant seek for knowledge and adaptation. </span>
+<span> <a href="https://gist.github.com/pradoprojects/9ed36262471eea849f9d188f1400c8c5"> This is my Resume</a>. Some compare resumes to professional obituaries... I'd rather have a more positive view about it... I see my Resume as an ongoing script of my career journey and the footprints of my constant seek for knowledge and adaptation. </span>
 </div>
 
 <br/>
