@@ -53,13 +53,13 @@ Long story short, I was a young STEAM (Science, Technology, Engineering, and Mat
 <p style="padding: 30px; font-size: xx-large; text-align: center;">  🐜 || 🎲 </p>
 
 <div style="text-align: justify">
-My professional story with UX remounts the beginning of the 2000s when, yet a teenager, I got my first job as a multimedia developer for high-school classes. It was a fantastic digital creativity experience that helped me fall in love with many activities that were later coined under the User Experience label. Time flew by at work in those times and the salary helped me pay my bills! It also gave me the confidence to course the Computer Science program two years later. 
+My professional story remounts the beginning of the 2000s when, yet a teenager, I got my first job as a multimedia developer for high-school classes. It was a fantastic digital creativity experience that helped me fall in love with many activities that were later coined under the User Experience label. Time flew by at work in those times and the salary helped me pay my bills! It also gave me the confidence to course the Computer Science program two years later. 
 <br/>     
 <br/>     
-During the CS program, I developed a lot of mathematical/programming skills. However, because the bachelor program lacked a Human-Computer Interaction professor at that time, I couldn’t pursue my former passion and ended up doing my final project in software testing – an area that arouse my interest both because of the supervision of my excellent advisor (Auri Vincenzi) and the load of problem-solving skills that software testing motivated me to obtain. This work opened up the opportunity for my Master's degree, where I could sharpen my scientific mindset and prepare for my Ph.D. 
+During the CS program, I developed a lot of mathematical/programming skills. However, because the bachelor program lacked a Human-Computer Interaction professor at that time, I couldn’t follow my former passion and ended up doing my final project in software testing – an area that arouse my interest both because of the supervision of my excellent advisor (Auri Vincenzi) and the load of problem-solving skills that software testing motivated me to obtain. This work opened up the opportunity for my Master's degree, where I could sharpen my scientific mindset and prepare for my Ph.D. 
 <br/>          
 <br/>
-During my Ph.D., I could observe that many of the testing tools were cumbersome to use and related in the literature to low effectiveness and efficacy of testing in practice. After a year working as a visiting researcher at the University of Victoria under the supervision of another excellent professor, Dr. Margaret-Anne Storey, I could orient my research efforts towards the lack of cognitive support provided by unit testing tools. In parallel to the post-graduating studies, I developed a career as a CS teacher (teaching HCI, UX, Algorithms, Data Structures, and Computing Foundations). To summarize, my years as a testing researcher and teacher slowly brought me back to the User Experience field -- and I am super thankful for this fate!
+During my Ph.D., I observed that many of the testing tools were cumbersome and related in the literature to low effectiveness and efficacy of testing in practice. After a year of working as a visiting researcher at the University of Victoria under the supervision of another excellent professor, Dr. Margaret-Anne Storey, I could orient my research efforts toward the lack of cognitive support provided by unit testing tools. In parallel to my post-graduating studies, I developed a career as a CS teacher (teaching HCI, UX, Algorithms, Data Structures, and Computing Foundations). To summarize, my years as a testing researcher and teacher slowly brought me back to the User Experience field -- and I am super thankful for this fate!
 </div>
 
 <br/>
@@ -74,7 +74,7 @@ During my Ph.D., I could observe that many of the testing tools were cumbersome 
 </p> 
 
 <div style="text-align: justify">
-This is an ongoing UX project to design an app that will let plants enthusiasts connect to each other and share seeds/cuttings/ tips of their plants with other gardeners. The idea is to leverage users' well-being and environmentally sustainable attitudes by nurturing communities that share a common interest in plants.
+This is an ongoing UX project to design an app that will let plant enthusiasts connect to each other and share seeds/cuttings/ tips of their plants with other gardeners. The idea is to leverage users' well-being and environmentally sustainable attitudes by nurturing communities that share a common interest in plants.
 </div>
 [See more info at Git Repository...](https://github.com/pradoprojects/Seedlers)
 
@@ -89,7 +89,7 @@ This is an ongoing UX project to design an app that will let plants enthusiasts 
 </p> 
 
 <div style="text-align: justify">
-LetMHelp! was designed under the Reskill Americans Program as a team project carried by me and my teammates. The problem statement for our team established that we had to design and implement an App to support self-learning students to find and connect to voluntary tutors in the tech field. Most of the high-level requirements were pre-defined by the program. I was the UX designer of my team and my duties involved going through the Defining, Ideating, Prototyping stages. I was also responsible for defining and designing the name and logo of the App. 
+LetMHelp! was designed under the Reskill Americans Program as a team project carried out by my teammates and me. The problem statement for our team established that we had to design and implement an App to support self-learning students to find and connect to voluntary tutors in the tech field. Most of the high-level requirements were pre-defined by the program. I was the UX designer of my team and my duties involved going through the Defining, Ideating, and Prototyping stages. I was also responsible for defining and designing the name and logo of the App. 
 </div>
 [See more info at Git Repository...](https://github.com/pradoprojects/Self-Learning-App)
 
@@ -104,7 +104,7 @@ LetMHelp! was designed under the Reskill Americans Program as a team project car
 </p> 
 
 <div style="text-align: justify">
-DonActor App was my first project at Reskill Americans Program. The app was intended to facilitate the donation process of clothes. In this project, I conducted the five design thinking stages (Empathize, Define, Ideate, Prototype, Test). I designed the UX/UI for the app itself as well as the name and Logo. All the artifacts in this repo were designed in a time window of four weeks (average hours rate: 2 hours/business day).
+DonActor App was my first project at Reskill Americans Program. The app was intended to facilitate the donation process of clothes. In this project, I conducted the five design thinking stages (Empathize, Define, Ideate, Prototype, Test). I designed the UX/UI for the app itself as well as the name and Logo. All the artifacts in this repo were designed in a time window of four weeks.
 </div>
 [See more info at Git Repository...](https://github.com/pradoprojects/DonActor)
 
@@ -119,7 +119,7 @@ DonActor App was my first project at Reskill Americans Program. The app was inte
 </p> 
 
 <div style="text-align: justify">
-In this project I identified and characterized a research problem regarding the lack of user research for testing tools. I planned, conducted, and analyzed a qualitative study of practitioners to further understand the problem in the unit testing domain. The project's results and contributions include a framework and research agenda. They serve as actionable instruments for the testing community to incorporate practical improvements in cognitive support provided by current and future testing tools. Cognitive support is a key concept in offloading the users' memory during tools usage and has a direct impact on the improvement of the user experience during the tasks performed.
+In this project, I identified and characterized a research problem regarding the lack of user research for testing tools. I planned, conducted, and analyzed a qualitative study of practitioners to further understand the problem in the unit testing domain. The project's results and contributions include a framework and research agenda. They serve as actionable instruments for the testing community to incorporate practical improvements in cognitive support provided by current and future testing tools. Cognitive support is a key concept in offloading the users' memory during tools usage and has a direct impact on the improvement of the user experience during the tasks performed.
 </div>
 [See more info at Git Repository...](https://github.com/pradoprojects/Phd_Artifacts)
 
@@ -136,7 +136,7 @@ In this project I identified and characterized a research problem regarding the 
 The project aimed at Brazilian high-school level students that wished to learn how to program. The project focused on developing their algorithmic thinking in an innovative and unprecedented class experience - rather than just focusing on a programming language in the traditional way.
 <br/>
 <br/>
-The project encompassed playful activities such as handcrafting bracelets with the student's initials in binary ASCII representation, cardboard games, problem-solving challenges, team challenges mixed with computer programing.
+The project encompassed playful activities such as handcrafting bracelets with the student's initials in binary ASCII representation, cardboard games, problem-solving challenges, and team challenges mixed with computer programing.
 </div>
 [See more info at Git Repository...](https://github.com/pradoprojects/Project-APB)
 
@@ -160,7 +160,7 @@ The project encompassed playful activities such as handcrafting bracelets with t
 <br/>
 <br/>
 
-## Becoming a UX designer
+## Becoming a UX researcher/designer
 #### Cuisine with a grain of Class.
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;">  👨‍🍳 && 👨‍🏫 </p>
@@ -194,9 +194,9 @@ I tend to see critical sense as the main scientific skill demanded in UX design.
 
 
 
-## UX Books and Readings
+## Books and Readings
 
-Below are some book references about UX/Human-Computer Interaction topics that I like to read, consult or skim through.
+Below are some book references that I like to read, consult or skim through.
 
 - [Human-Computer Interaction](https://www.amazon.com/dp/0130461091/ref=cm_sw_r_tw_dp_SJFH5RA08NZ6HE6WP983) 
 - [Interaction Design: Beyond Human-Computer Interaction by Helen Sharp](https://www.amazon.com/dp/1119547253/ref=cm_sw_r_tw_dp_PCHGZED2CQAB2C2DW180?_encoding=UTF8&psc=1) 
