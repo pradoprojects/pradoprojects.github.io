@@ -1,5 +1,5 @@
 # Marllos Paiva Prado 
-#### UX Enthusiast \| Software Engineer researcher \| Tech Passionate \| Learner.
+#### UX Enthusiast \| Software Engineer Researcher \| Tech Passionate \| Learner.
 
 
 <img src="lZgWcQEQ_400x400.jpg"
@@ -13,7 +13,7 @@
             
 <br/>
 <br/>
-Welcome dear visitor! Here you'll find information about me and my work. You are also invited to connect to my social networks – for [feedback](mailto: marllosprado@gmail.com), [professional contact](https://www.linkedin.com/in/marllos-p-a383641b2), [tweets](https://twitter.com/marllosp), or just the old plain good friendship.
+Welcome dear visitor! Here you'll find information about me and my work. You are also invited to connect to my social networks – for [feedback](mailto: marllosprado@gmail.com), [professional contact](https://www.linkedin.com/in/marllos-p-a383641b2), or just the old plain good friendship.
 
 
 
@@ -47,7 +47,7 @@ Long story short, I was a young STEAM (Science, Technology, Engineering, and Mat
 <br/>
 <br/>
 -->
-## My Route to UX
+## My Route to User eXperience
 #### ... a testing fate or a test of fate ...
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;">  🐜 || 🎲 </p>
