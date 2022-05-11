@@ -205,7 +205,7 @@ Below are some book references that I like to read, consult or skim through.
 - [Validating Product Ideas: Through Lean User Research](https://rosenfeldmedia.com/books/lean-user-research/)
 - [Card Sorting](https://rosenfeldmedia.com/books/card-sorting/)
 - [Interviewing Users](https://rosenfeldmedia.com/books/interviewing-users/)
-- [Cognitive Psychology](https://www.amazon.com/dp/1305644654/ref=cm_sw_r_tw_dp_RESXS179F7GXDDTC69WJ?_encoding=UTF8&psc=1)
+- [Cognitive Psychology](https://www.amazon.com/dp/1305644654/ref=cm_sw_r_tw_dp_RESXS179F7GXDDTC69WJ?_encoding=UTF8&psc=1) 
 
 
 
