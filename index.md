@@ -1,5 +1,5 @@
 # Marllos Paiva Prado 
-#### UX Enthusiast \| Software Engineer Researcher \| Tech Passionate \| Learner.
+#### UX Enthusiast \| Tech Passionate \| Learner.
 
 
 <img src="lZgWcQEQ_400x400.jpg"
@@ -47,19 +47,16 @@ Long story short, I was a young STEAM (Science, Technology, Engineering, and Mat
 <br/>
 <br/>
 -->
-## My Route to User eXperience
+## My under-construction route to UX
 #### ... a testing fate or a test of fate ...
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;">  🐜 || 🎲 </p>
 
 <div style="text-align: justify">
-My professional story remounts the beginning of the 2000s when, yet a teenager, I got my first job as a multimedia developer for high-school classes. It was a fantastic digital creativity experience that helped me fall in love with many activities that were later coined under the User Experience label. Time flew by at work in those times and the salary helped me pay my bills! It also gave me the confidence to course the Computer Science program two years later. 
+My professional story remounts the beginning of the 2000s when, yet a teenager, I got my first part-time job as a multimedia developer for high-school classes. It was a fantastic digital creativity experience that helped me fall in love with many activities that were later coined under the User Experience label. Time flew by at work in those times and the salary helped me pay my bills for some months! It also gave me the confidence to join the Computer Science program two years later. 
 <br/>     
 <br/>     
-During the CS program, I developed a lot of mathematical/programming skills. However, because the bachelor program lacked a Human-Computer Interaction professor at that time, I couldn’t follow my former passion and ended up doing my final project in software testing – an area that arouse my interest both because of the supervision of my excellent advisor (Auri Vincenzi) and the load of problem-solving skills that software testing motivated me to obtain. This work opened up the opportunity for my Master's degree, where I could sharpen my scientific mindset and prepare for my Ph.D. 
-<br/>          
-<br/>
-During my Ph.D., I observed that many of the testing tools were cumbersome and related in the literature to low effectiveness and efficacy of testing in practice. After a year of working as a visiting researcher at the University of Victoria under the supervision of another excellent professor, Dr. Margaret-Anne Storey, I could orient my research efforts toward the lack of cognitive support provided by unit testing tools. In parallel to my post-graduating studies, I developed a career as a CS teacher (teaching HCI, UX, Algorithms, Data Structures, and Computing Foundations). To summarize, my years as a testing researcher and teacher slowly brought me back to the User Experience field -- and I am super thankful for this fate!
+During the CS program, I developed a lot of mathematical/programming skills. However, because the bachelor program lacked a Human-Computer Interaction professor at that time, I couldn’t follow my career dream and ended up doing my final project in software testing – an area that arouse my interest both because of the supervision of my excellent advisor (Auri Vincenzi) and the load of problem-solving skills that software testing motivated me to obtain. This work opened up the opportunity for my Master's degree in Computer Science, where I could sharpen my scientific mindset and improve my problem-solving skills. After graduating, I developed a career as a CS teacher, with a small interval (11 months) as a java programmer. In 2021 I enrolled in Reskill Americans UX bootcamp, where I found an opportunity to go back to pursuing my career passion. During the programm I had the opportunity to meet new people that were immigrants like me I To summarize, my years as a testing researcher and teacher slowly brought me back to the User Experience field -- and I am super thankful for this fate!
 </div>
 
 <br/>
