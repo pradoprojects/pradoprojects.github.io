@@ -1,5 +1,5 @@
 # Marllos Paiva Prado 
-#### UX Enthusiast \| Tech and People Passionate \| Learner.
+#### UX Enthusiast \| People and Tech Passionate \| Learner.
 
 
 <img src="lZgWcQEQ_400x400.jpg"
