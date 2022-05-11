@@ -47,7 +47,7 @@ Long story short, I was a young STEAM (Science, Technology, Engineering, and Mat
 <br/>
 <br/>
 -->
-## My route to UX (under-construction)
+## My route to UX
 #### ... a testing fate or a test of fate ...
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;">  🐜 || 🎲 </p>
