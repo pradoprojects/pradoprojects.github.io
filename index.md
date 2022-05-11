@@ -144,7 +144,7 @@ The project encompassed playful activities such as handcrafting bracelets with t
 <br/>
 <br/>
 
-## Becoming a UX researcher/designer
+## My thoughts on the role of UX researcher/designer
 #### Cuisine with a grain of Class.
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;">  👨‍🍳 && 👨‍🏫 </p>
@@ -180,7 +180,7 @@ I tend to see critical sense as the main scientific skill demanded in UX design.
 
 ## Books and Readings
 
-Below are some book references that I like to read, consult or skim through.
+Below are some book references that I like to read, consult and skim through.
 
 - [Human-Computer Interaction](https://www.amazon.com/dp/0130461091/ref=cm_sw_r_tw_dp_SJFH5RA08NZ6HE6WP983) 
 - [Interaction Design: Beyond Human-Computer Interaction by Helen Sharp](https://www.amazon.com/dp/1119547253/ref=cm_sw_r_tw_dp_PCHGZED2CQAB2C2DW180?_encoding=UTF8&psc=1) 
