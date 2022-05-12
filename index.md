@@ -57,8 +57,9 @@ My professional story remounts the beginning of the 2000s when, yet a teenager, 
 <br/>     
 <br/>     
 During the CS program, I developed my  logical/programming skills. However, because the bachelor's program lacked a Human-Computer Interaction professor at that time, I ended up doing my final project in software testing – an area that aroused my interest thanks to the supervision of my excellent advisor (Auri Vincenzi), the interplay between software analysis/coding and the load of problem-solving skills that testing motivated me to obtain. This work opened up the opportunity for my post-graduate in Computer Science, where I could sharpen my scientific mindset and improve my problem-solving skills. After graduating, I developed a career as a teacher, with a small interval as a java programmer. 
-
-In 2021 I enrolled in the Reskill Americans UX Bootcamp, where I had the opportunity to get back to pursuing my career passion (UX design and research). During this seven-month program, I had the chance to learn from fantastic people from all sorts of backgrounds. Many of them are immigrants like me, eager for learning and preparing to make a career shift to the dream job. 
+<br/>     
+<br/>     
+After a career break, I enrolled in the Reskill Americans UX Bootcamp in 2021, where I had the opportunity to get back to pursuing my professional passion (UX design and research). During this seven-month program, I had the chance to learn from fantastic people from all sorts of backgrounds. Many of them are immigrants like me, eager to learn and in the process of making a career shift to their dream job.
 </div>
 
 <br/>
