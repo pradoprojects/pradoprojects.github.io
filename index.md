@@ -129,6 +129,19 @@ The project encompassed playful activities such as handcrafting bracelets with t
 <br/>
 
 
+#### Data Structure Classes
+
+<p style="padding: 30px; font-size: xx-large; text-align: center;"> 
+<img src="https://github.com/pradoprojects/DataStructures_Java/raw/main/dslogo.png" alt="Data Structure Logo" style="width: 50%; height: auto; border-radius: 0%; float: center;"/>
+</p> 
+
+<div style="text-align: justify">
+Here you can check materials and videos from my Data Structure Classes.
+</div>
+[See more info at Git Repository...](https://github.com/pradoprojects/DataStructures_Java)
+
+<br/>
+<br/>
 
 #### Other Projects
 
