@@ -1,5 +1,5 @@
 # Marllos Paiva Prado 
-#### People and Tech Passionate \| UX Researcher \| Learner.
+#### People and Tech Passionate \| User-Focused Software Engineer \| Learner.
 
 
 <img src="lZgWcQEQ_400x400.jpg"
@@ -47,7 +47,7 @@ Long story short, I was a young STEAM (Science, Technology, Engineering, and Mat
 <br/>
 <br/>
 -->
-## My route to UX
+## My route in Software Engineering and User Research
 #### ... a testing fate or a test of fate ...
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;">  🐜 || 🎲 </p>
@@ -56,10 +56,10 @@ Long story short, I was a young STEAM (Science, Technology, Engineering, and Mat
 My professional story remounts the beginning of the 2000s when, yet a teenager, I got my first part-time job as a multimedia developer for high-school classes. It was a fantastic digital creativity experience that helped me fall in love with many activities that were later coined under the User Experience label. Time flew by at work in those times and the salary helped me pay my bills for some months! It also gave me the confidence to join the Computer Science program two years later. 
 <br/>     
 <br/>     
-During the CS program, I developed my  logical/programming skills. During my undergrad, I chose to do my final project in software testing – an area that aroused my interest thanks to the supervision of my excellent advisor (Auri Vincenzi), the interplay between software analysis/coding and the load of problem-solving skills that this area motivated me to obtain. This work opened up the opportunity for my post-graduate in Computer Science, where I could sharpen my scientific mindset and improve my problem-solving skills. After graduating, I developed a career as a teacher, with a small interval as a java programmer. 
+During the CS program, I developed my  logical/programming skills. During my undergrad, I chose to do my final project in software testing – an area that aroused my interest thanks to the supervision of my excellent advisor (Auri Vincenzi), the interplay between software analysis/coding and the load of problem-solving skills that this area motivated me to obtain. This work opened up the opportunity for my post-graduate in Computer Science, where I could sharpen my scientific mindset and improve my problem-solving skills. Concurrent to my post-graduation, I developed a career as a teacher, with a small interval as a java programmer.
 <br/>     
 <br/>     
-After a career break, I enrolled in the Reskill Americans UX Bootcamp in 2021, where I had the opportunity to get back to pursuing my professional passion (User Experience Research). During this seven-month program, I had the enriching opportunity to learn from fantastic mentors and get to know people from diverse backgrounds.
+After a career break, I recently enrolled in the Reskill Americans Bootcamp in 2021, where I had the opportunity to obtain more practical knowledge on User Experience Research and Design. During this seven-month program, I had the enriching opportunity to learn from fantastic mentors and get to know people from diverse backgrounds.
 </div>
 
 <br/>
@@ -74,7 +74,7 @@ After a career break, I enrolled in the Reskill Americans UX Bootcamp in 2021, w
 </p> 
 
 <div style="text-align: justify">
-This is an ongoing UX project to design an app that will let plant enthusiasts connect to each other and share seeds/cuttings/ tips of their plants with other gardeners. The idea is to leverage users' well-being and environmentally sustainable attitudes by nurturing communities that share a common interest in plants.
+This is an ongoing project to design an app that will let plant enthusiasts connect to each other and share seeds/cuttings/ tips of their plants with other gardeners. The idea is to leverage users' well-being and environmentally sustainable attitudes by nurturing communities that share a common interest in plants.
 </div>
 [See more info at Git Repository...](https://github.com/pradoprojects/Seedlers)
 
@@ -172,7 +172,7 @@ Here you can check materials and videos from my Data Structure Classes.
 <br/>
 <br/>
 
-## My thoughts on the role of UX researcher/designer
+## My thoughts on the role of User Experience Research
 #### Cuisine with a grain of Class.
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;">  👨‍🍳 && 👨‍🏫 </p>
