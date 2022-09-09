@@ -53,7 +53,7 @@ Long story short, I was a young STEAM (Science, Technology, Engineering, and Mat
 <p style="padding: 30px; font-size: xx-large; text-align: center;">  🐜 || 🎲 </p>
 
 <div style="text-align: justify">
-My professional story remounts the beginning of the 2000s when, yet a teenager, I got my first part-time job as a multimedia developer for high-school classes. It was a fantastic digital creativity experience that helped me fall in love with many activities that were later coined under the User Experience label. Time flew by at work in those times and the salary helped me pay my bills! It also gave me the confidence to join the Computer Science program two years later. 
+My professional story remounts the beginning of the 2000s when, yet a teenager, I got my first part-time job as a multimedia developer for high-school classes. It was a fantastic digital creativity experience that helped me fall in love with many activities that were later coined under the User Experience label. It also gave me the confidence to join the Computer Science program two years later. 
 <br/>     
 <br/>     
 During the CS program, I developed my  logical/programming skills. During my undergrad, I did my final project in software testing – an area that aroused my interest thanks to the supervision of my excellent advisor (Auri Vincenzi), the interplay between analysis/coding and the load of problem-solving skills that this area motivated me to obtain. This work opened up the opportunity for my post-graduate in Computer Science, where I could sharpen my scientific mindset and improve my problem-solving skills. Concurrent to my post-graduation, I developed a career as a teacher, with a small interval as a java programmer.
