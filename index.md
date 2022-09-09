@@ -152,8 +152,9 @@ The project encompassed playful activities such as handcrafting bracelets with t
 </p> 
 
 <div style="text-align: justify">
-Here you can check multimedia/animation projects for educational purposes that I developed in the late 90s/ early 2000s.
+Here you can check multimedia/animation projects for educational purposes that I developed in the early 2000s.
 </div>  
+[See more info at Git Repository...](https://github.com/pradoprojects/Multimedia-Flash-Projects)
 
 
 
