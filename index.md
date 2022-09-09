@@ -47,7 +47,7 @@ Long story short, I was a young STEAM (Science, Technology, Engineering, and Mat
 <br/>
 <br/>
 -->
-## My route to Software Engineering and User Research
+## My route to User Experience and Software Engineering
 #### ... a testing fate or a test of fate ...
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;">  🐜 || 🎲 </p>
@@ -56,7 +56,7 @@ Long story short, I was a young STEAM (Science, Technology, Engineering, and Mat
 My professional story remounts the beginning of the 2000s when, yet a teenager, I got my first part-time job as a multimedia developer for high-school classes. It was a fantastic digital creativity experience that helped me fall in love with many activities that were later coined under the User Experience label. It also gave me the confidence to join the Computer Science program two years later. 
 <br/>     
 <br/>     
-During my undergrad, I developed my foundational and analytical skills in computer science. I did my final project in software testing. This area aroused my interest thanks to the interplay between analysis/coding, the load of problem-solving skills, and the great mentorship of my advisor (Auri Vincenzi). This work opened up the opportunity for my post-graduate studies, where I could sharpen my scientific mindset and improve my problem-solving skills.
+During my undergrad, I developed my foundational and analytical skills in computer science. I did my final project in software testing. This area aroused my interest thanks to the interplay between analysis/coding, the load of problem-solving skills, and the great mentorship of my advisor (Auri Vincenzi). This project opened up the opportunity for my post-graduate studies, where I could sharpen my scientific mindset and improve my problem-solving skills.
 <br/>     
 <br/>     
 During my post-graduation program, I observed that communities of practice often reported testing tools to be cumbersome and provided low support for test practitioners in their daily activities. To address this user-developer experience problem, I researched the lack of cognitive support provided by unit testing tools. The project included a qualitative study of real-world practitioners that led to a comprehensive understanding of the pain points and actionable recommendations for effectively addressing them. In parallel to my post-graduating studies, I spent one year as visiting researcher at the University of Victoria (UVic) under the excellent supervision of Professor Dr. Margaret-Anne Storey. Concurrent to my post-graduation, I developed a career as a teacher (teaching courses like HCI, UX, Algorithms, and Computing Foundations).
@@ -92,7 +92,7 @@ This is an ongoing project to design an app that will let plant enthusiasts conn
 </p> 
 
 <div style="text-align: justify">
-LetMHelp! was designed under the Reskill Americans Program as a team project carried out by my teammates and me. The problem statement for our team established that we had to design and implement an App to support self-learning students to find and connect to voluntary tutors in the tech field. Most of the high-level requirements were pre-defined by the program. I was the UX designer of my team and my duties involved going through the Defining, Ideating, and Prototyping stages. I was also responsible for defining and designing the name and logo of the App. 
+LetMHelp! was designed under the Reskill Americans Program as a team project carried out by my teammates and me. We had to design and implement an App to support self-learning students to find and connect to voluntary tutors in the tech field. I was the UX/UI designer of my team and my duties involved going through the Defining, Ideating, and Prototyping stages. I was also responsible for defining and designing the name and logo of the App. 
 </div>
 [See more info at Git Repository...](https://github.com/pradoprojects/Self-Learning-App)
 
