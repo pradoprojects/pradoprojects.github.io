@@ -145,10 +145,10 @@ The project encompassed playful activities such as handcrafting bracelets with t
 <br/>
 <br/>
 
-#### Macromedia Flash Projects
+#### Multimedia Flash Projects
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;">                                                    
-  <img  style="border-radius:50px;" src="https://github.com/pradoprojects/Pre-Undergrad/blob/main/animations.png" alt="Screens and characters animated in flash" style="width: 70%; height: auto; border-radius: 0%; float: center;"/>
+  <img  style="border-radius:50px;" src="animations.png" alt="Screens and characters animated in flash" style="width: 70%; height: auto; border-radius: 0%; float: center;"/>
 </p> 
 
 <div style="text-align: justify">
