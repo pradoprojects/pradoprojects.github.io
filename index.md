@@ -1,5 +1,5 @@
 # Marllos Paiva Prado 
-#### People and Tech Passionate \| User-Focused Software Engineer \| Learner.
+#### People and Tech Passionate \| User-Focused \| Learner.
 
 
 <img src="lZgWcQEQ_400x400.jpg"
@@ -56,21 +56,15 @@ Long story short, I was a young STEAM (Science, Technology, Engineering, and Mat
 My professional story remounts the beginning of the 2000s when, yet a teenager, I got my first part-time job as a multimedia developer for high-school classes. It was a fantastic digital creativity experience that helped me fall in love with many activities that were later coined under the User Experience label. It also gave me the confidence to join the Computer Science program two years later. 
 <br/>     
 <br/>     
-During the CS program, I developed my  logical/programming skills. During my undergrad, I did my final project in software testing – an area that aroused my interest thanks to the supervision of my excellent advisor (Auri Vincenzi), the interplay between analysis/coding and the load of problem-solving skills that this area motivated me to obtain. This work opened up the opportunity for my post-graduate in Computer Science, where I could sharpen my scientific mindset and improve my problem-solving skills. Concurrent to my post-graduation, I developed a career as a teacher, with a small interval as a java programmer.
+During my undergrad, I developed my foundational and analytical skills in computer science. I did my final project in software testing. This area aroused my interest thanks to the interplay between analysis/coding, the load of problem-solving skills, and the great mentorship of my advisor (Auri Vincenzi). This work opened up the opportunity for my post-graduate studies, where I could sharpen my scientific mindset and improve my problem-solving skills.
 <br/>     
 <br/>     
-During my post-graduation program, I observed that many testing tools were cumbersome to use and reported to provide low support for test practitioners in their daily acitivities.To address this developer experience problem, I researched the lack of cognitive support provided by unit testing tools. The results and contributions of my work include a framework and an actionable agenda derived from a qualitative study of real-world practitioners. In parallel to the post-graduating studies, I spent a year as visiting researcher at the University of Victoria under the supervision of Professor Dr. Margaret-Anne Storey. I also developed a career as a CS teacher (teaching HCI, UX, Algorithms and Computing Foundations).
+During my post-graduation program, I observed that communities of practice often reported testing tools to be cumbersome and provided low support for test practitioners in their daily activities. To address this user-developer experience problem, I researched the lack of cognitive support provided by unit testing tools. The contributions of my work include a framework and an actionable research agenda derived from a qualitative study of real-world practitioners. In parallel to my post-graduating studies, I spent one year as visiting researcher at the University of Victoria (UVic) under the excellent supervision of Professor Dr. Margaret-Anne Storey. Concurrent to my post-graduation, I developed a career as a teacher (teaching courses like HCI, UX, Algorithms, and Computing Foundations).
 <br/>     
 <br/>     
-     
-After a career break, I recently enrolled in the Reskill Americans Bootcamp in 2021, where I had the opportunity to obtain more practical knowledge on User Experience Research and Design. During this seven-month program, I had the enriching opportunity to learn from fantastic mentors and get to know people from diverse backgrounds.
+After a career break, I recently enrolled in the Reskill Americans Bootcamp in 2021. In this Bootcamp, I had the opportunity to develop more tacit knowledge of User Experience Research and Design practices. During this seven-month program, I had the enriching opportunity to learn from fantastic mentors and network with people from diverse backgrounds. To summarize, my career slowly shaped me into a UX Researcher/Designer professional-- and I am super thankful for this fate!
 <br/>     
 <br/>     
-     
-To summarize, my years as a testing researcher and teacher slowly brought me back to the User Experience field -- and I am super thankful for this fate!  
-</div>
-<br/>
-<br/>
 
 </div>
 
