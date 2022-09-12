@@ -67,6 +67,20 @@ After a career break, I recently enrolled in the Reskill Americans Bootcamp in 2
 
 ## My Portfolio
 
+#### Cognitive Support for Unit Testing - 🧠🧪🧠
+
+<p style="padding: 30px; font-size: xx-large; text-align: center;"> 
+<img src="graph.PNG" alt="Qualitative Study Coding Graph" style="width: 70%; height: auto; border-radius: 100%; float: center;"/>
+</p> 
+
+<div style="text-align: justify">
+In this project I identified and characterized a research problem regarding the lack of user research for testing tools. I planned, conducted, and analyzed a qualitative study of practitioners to further understand the problem in the unit testing domain. The project's results and contributions include a framework and research agenda. They serve as actionable instruments for the testing community to incorporate practical improvements in cognitive support provided by current and future testing tools. Cognitive support is a key concept in offloading the users' memory during tools usage and has a direct impact on the improvement of the user experience during the tasks performed.
+</div>
+[See more info at Git Repository...](https://github.com/pradoprojects/Publications)
+
+<br/>
+<br/>
+
 #### Seedlers App - 🍅🥕🥔 [In Progress]
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 
@@ -111,22 +125,6 @@ DonActor App was my first project at Reskill Americans Program. The app was inte
 <br/>
 <br/>
 
-#### Cognitive Support for Unit Testing - 🧠🧪🧠
-
-<p style="padding: 30px; font-size: xx-large; text-align: center;"> 
-<img src="graph.PNG" alt="Qualitative Study Coding Graph" style="width: 70%; height: auto; border-radius: 100%; float: center;"/>
-</p> 
-
-<div style="text-align: justify">
-In this project I identified and characterized a research problem regarding the lack of user research for testing tools. I planned, conducted, and analyzed a qualitative study of practitioners to further understand the problem in the unit testing domain. The project's results and contributions include a framework and research agenda. They serve as actionable instruments for the testing community to incorporate practical improvements in cognitive support provided by current and future testing tools. Cognitive support is a key concept in offloading the users' memory during tools usage and has a direct impact on the improvement of the user experience during the tasks performed.
-</div>
-[See more info at Git Repository...](https://github.com/pradoprojects/Publications)
-
-<br/>
-<br/>
-
-
-
 #### SiAC - 👩‍🌾🧪👨‍🌾 
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 
@@ -134,7 +132,7 @@ In this project I identified and characterized a research problem regarding the 
 </p> 
 
 <div style="text-align: justify">
-The purpose of the system was to help automate the process of evaluation between employees of a corporation that I worked for, in the Agricultural Research field.</div>
+I developed this system to help automate the process of evaluation between employees of a corporation that I worked for, in the Agricultural Research field.</div>
 [See more info at Git Repository...](https://github.com/pradoprojects/SiAC)
 
 <br/>
