@@ -130,7 +130,7 @@ In this project I identified and characterized a research problem regarding the 
 #### SiAC - 👩‍🌾🧪👨‍🌾 
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 
-<img src="siaclogo.jpg" alt="SiAC Logo" style="width: 70%; height: auto; border-radius: 100%; float: center;"/>
+<img src="siaclogo.jpg" alt="SiAC Logo" style="width: 40%; height: auto; border-radius: 100%; float: center;"/>
 </p> 
 
 <div style="text-align: justify">
