@@ -47,7 +47,7 @@ Long story short, I was a young STEAM (Science, Technology, Engineering, and Mat
 <br/>
 <br/>
 -->
-## My route to User Experience and Software Engineering
+## My route to Software Engineering and  User Experience
 #### ... a testing fate or a test of fate ...
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;">  🐜 || 🎲 </p>
@@ -59,7 +59,7 @@ My professional story remounts the beginning of the 2000s when, as a teenager, I
 During my post-graduation program, I observed that communities of practice often reported testing tools to be cumbersome and provided low support for test practitioners in their daily activities. To address this user-developer experience problem, I researched the lack of cognitive support provided by unit testing tools. The project included a qualitative study of real-world practitioners that led to a comprehensive understanding of the pain points and actionable recommendations for effectively addressing them. In parallel to my post-graduating studies, I spent one year as visiting researcher at the University of Victoria (UVic) under the excellent supervision of Professor Dr. Margaret-Anne Storey. Concurrent to my post-graduation, I developed a career as a teacher (teaching courses like HCI, UX, Algorithms, and Computing Foundations).
 <br/>     
 <br/>     
-After a career break, I recently enrolled in the Reskill Americans Bootcamp in 2021. In this Bootcamp, I had the opportunity to develop more tacit knowledge of User Experience Research and Design practices. During this seven-month program, I had the enriching opportunity to learn from fantastic mentors and network with people from diverse backgrounds. To summarize, my career slowly shaped me into a UX Researcher/Designer professional-- and I am super thankful for this fate!
+After a career break, I recently enrolled in the Reskill Americans Bootcamp in 2021. In this Bootcamp, I had the opportunity to develop more tacit knowledge of User Experience Research and Design practices. During this seven-month program, I learned from fantastic mentors and networked with people from diverse backgrounds. To summarize, my career slowly shaped me into a UX Researcher/Designer professional-- and I am super thankful for this fate!
 <br/>     
 <br/>     
 
@@ -118,7 +118,7 @@ LetMHelp! was designed under the Reskill Americans Program as a team project car
 </p> 
 
 <div style="text-align: justify">
-DonActor App was my first project at Reskill Americans Program. The app was intended to facilitate the donation process of clothes. In this project, I conducted the five design thinking stages (Empathize, Define, Ideate, Prototype, Test). I designed the UX/UI for the app itself as well as the name and Logo. All the artifacts in this repo were designed in a time window of four weeks.
+DonActor App was my first project at Reskill Americans Program. The app was intended to facilitate the donation process of clothes. In this project, I conducted the five design thinking stages (Empathize, Define, Ideate, Prototype, Test). I designed the UX/UI for the app as well as the name and Logo.
 </div>
 [See more info at Git Repository...](https://github.com/pradoprojects/DonActor)
 
