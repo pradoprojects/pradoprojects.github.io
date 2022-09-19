@@ -160,11 +160,11 @@ The project encompassed playful activities such as handcrafting bracelets with t
 #### Master Degree - 📚📚📚
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 
-<img src="https://github.com/pradoprojects/DataStructures_Java/raw/main/dslogo.png" alt="Data Structure Logo" style="width: 70%; height: auto; border-radius: 0%; float: center;"/>
+<img src="./Testing strategy.png" alt="Data Structure Logo" style="width: 70%; height: auto; border-radius: 0%; float: center;"/>
 </p> 
 
 <div style="text-align: justify">
-In this project (2007), I planned, designed, and conducted an experimental study to characterize and evaluate the cost and strength of white-box ( Structural criteria: Def-Use, All-Branchs and All-Nodes) and black-box testing criteria ( Functional criteria: Equivalence Partition and Boundary Value Analysis) comparing object-oriented and procedural programs.
+In this project (2007), I planned, designed, and conducted an experimental study to characterize and evaluate the cost and strength of white-box and black-box testing criteria, comparing object-oriented and procedural programs.
 </div>
 [See more info at Git Repository...](https://github.com/pradoprojects/MasterDegree_Artifacts)
 
