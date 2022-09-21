@@ -65,9 +65,9 @@ After a career break, I recently enrolled in the Reskill Americans Bootcamp in 2
 
 </div>
 
-## *My Portfolio*
+## My Portfolio
 
-#### *Cognitive Support for Unit Testing* - 🧠🧪🧠
+#### Cognitive Support for Unit Testing - 🧠🧪🧠
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 
 <img src="graph.PNG" alt="Qualitative Study Coding Graph" style="width: 70%; height: auto; border-radius: 100%; float: center;"/>
