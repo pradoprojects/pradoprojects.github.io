@@ -81,6 +81,21 @@ In this project I identified and characterized a research problem regarding the 
 <br/>
 <br/>
 
+#### HCI/UX Classes - 📚📚📚
+
+<p style="padding: 30px; font-size: xx-large; text-align: center;"> 
+<img src="https://github.com/pradoprojects/DataStructures_Java/raw/main/dslogo.png" alt="Data Structure Logo" style="width: 70%; height: auto; border-radius: 0%; float: center;"/>
+</p> 
+
+<div style="text-align: justify">
+Here you can check materials and videos from my HCI and UX classes.
+</div>
+[See more about this project...](https://github.com/pradoprojects/DataStructures_Java)
+
+<br/>
+<br/>
+
+
 #### Seedlers App - 🍅🥕🥔 [In Progress]
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 
