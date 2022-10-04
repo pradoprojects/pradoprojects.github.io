@@ -90,7 +90,7 @@ In this project I identified and characterized a research problem regarding the 
 <div style="text-align: justify">
 Here you can check materials and videos from my HCI and UX classes.
 </div>
-[See more about this project...](https://github.com/pradoprojects/DataStructures_Java)
+[See more about this project...](https://github.com/pradoprojects/UX-Classes)
 
 <br/>
 <br/>
