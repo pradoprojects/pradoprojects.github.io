@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+---
+
 # Marllos Paiva Prado 
 #### People and Tech Passionate \| User-Focused \| Learner.
 
