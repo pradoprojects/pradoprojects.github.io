@@ -5,6 +5,7 @@ description: Personal Website
 navbar-links:
   Home: ""
   Portfolio: "#portfolio"
+  Bio: "#bio"
 
 
 
