@@ -1,8 +1,9 @@
 ---
 title: Marllos Paiva Prado 
 subtitle: People and Tech Passionate | User-Focused | Learner.
+share-img: lZgWcQEQ_400x400.jpg
 ---
-
+<!--
 <img src="lZgWcQEQ_400x400.jpg"
      alt="profile photo"
      style="width: 30%;
@@ -10,7 +11,7 @@ subtitle: People and Tech Passionate | User-Focused | Learner.
             border-radius: 50%;
             float: right;
             margin-lefts: 20px;"/>
-
+-->
             
 <br/>
 <br/>
