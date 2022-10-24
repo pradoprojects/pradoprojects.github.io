@@ -53,8 +53,8 @@ Long story short, I was a young STEAM (Science, Technology, Engineering, and Mat
 <br/>
 <br/>
 <br/>
--->
-## My route to Software Engineering and  User Experience
+
+<h2 id="bio">My route to Software Engineering and  User Experience</h2>  
 #### ... a testing fate or a test of fate ...
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;">  🐜 || 🎲 </p>
