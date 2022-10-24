@@ -1,12 +1,10 @@
 ---
-title: Contact me
-subtitle: Here you'll find all the ways to get in touch with me
+title: Marllos Paiva Prado 
+subtitle: People and Tech Passionate \| User-Focused \| Learner.
 ---
 
-# Marllos Paiva Prado 
-#### People and Tech Passionate \| User-Focused \| Learner.
-
-
+# 
+#### 
 <img src="lZgWcQEQ_400x400.jpg"
      alt="profile photo"
      style="width: 30%;
