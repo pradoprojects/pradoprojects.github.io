@@ -23,12 +23,6 @@ use-site-title: true
 Welcome dear visitor! Here you'll find information about me and my work. Connect to my social networks – for <a href="mailto: marllosprado@gmail.com">feedback, </a> <a href="https://www.linkedin.com/in/marllos-p-a383641b2">professional contact</a>, or just the old good <a href="https://twitter.com/MarllosP">friendship</a>.
 </div>
 
-
-<!--If you landed here, you probably wish to know a bit about me and my work. If it was an accidental click however, no hard feelings… You are still welcome to skim through the page, get to know a bit about me, and connect to my social networks – for feedback, professional contact or just plain good old friendship. <img src="ICQ-icon.png" alt="ICQ icon"
-style="float: bottom; margin-right: 10px; width: 5%; height: auto;" />
- <a href="https://icq.im/marllosp"> <img src="ICQ-icon.png" alt="ICQ icon" style= "margin:0; padding:0; float:bottom; width: 3%; height: auto;"/> </a> 
--->
-
 <br/>
 <br/>
 <br/>
@@ -53,6 +47,7 @@ Long story short, I was a young STEAM (Science, Technology, Engineering, and Mat
 <br/>
 <br/>
 <br/>
+-->
 
 <h2 id="bio">My route to Software Engineering and  User Experience</h2>  
 #### ... a testing fate or a test of fate ...
