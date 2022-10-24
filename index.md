@@ -18,8 +18,10 @@ use-site-title: true
             
 <br/>
 <br/>
-Welcome dear visitor! Here you'll find information about me and my work. Connect to my social networks – for [feedback](mailto: marllosprado@gmail.com), [professional contact](https://www.linkedin.com/in/marllos-p-a383641b2), or just the old good [friendship](https://twitter.com/MarllosP).
 
+<div style="text-align: justify">
+Welcome dear visitor! Here you'll find information about me and my work. Connect to my social networks – for [feedback](mailto: marllosprado@gmail.com), [professional contact](https://www.linkedin.com/in/marllos-p-a383641b2), or just the old good [friendship](https://twitter.com/MarllosP).
+</div>
 
 
 <!--If you landed here, you probably wish to know a bit about me and my work. If it was an accidental click however, no hard feelings… You are still welcome to skim through the page, get to know a bit about me, and connect to my social networks – for feedback, professional contact or just plain good old friendship. <img src="ICQ-icon.png" alt="ICQ icon"
