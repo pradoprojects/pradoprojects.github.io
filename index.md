@@ -70,7 +70,7 @@ After moving to the USA and a career break, I recently enrolled in the Reskill A
 
 </div>
 
-## My Portfolio
+<h2 id="portfolio">My Portfolio</h2> 
 
 #### Cognitive Support for Unit Testing - 🧠🧪🧠
 
