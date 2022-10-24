@@ -18,7 +18,7 @@ use-site-title: true
             
 <br/>
 <br/>
-Welcome dear visitor! Here you'll find information about me and my work. You are also invited to connect to my social networks – for [feedback](mailto: marllosprado@gmail.com), [professional contact](https://www.linkedin.com/in/marllos-p-a383641b2), or just the old good [friendship](https://twitter.com/MarllosP).
+Welcome dear visitor! Here you'll find information about me and my work. Connect to my social networks – for [feedback](mailto: marllosprado@gmail.com), [professional contact](https://www.linkedin.com/in/marllos-p-a383641b2), or just the old good [friendship](https://twitter.com/MarllosP).
 
 
 
