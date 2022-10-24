@@ -2,4 +2,9 @@ remote_theme: daattali/beautiful-jekyll
 avatar: "lZgWcQEQ_400x400.jpg"
 description: Personal Website
 
+navbar-links:
+  Home: ""
+  Portfolio: "#portfolio"
+
+
 
