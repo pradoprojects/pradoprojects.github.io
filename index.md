@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Marllos Prado 
 subtitle: People and Tech Passionate | User-Focused | Learner.
 share-img: ./lZgWcQEQ_400x400.jpg
@@ -20,7 +20,7 @@ use-site-title: true
 <br/>
 
 <div style="text-align: justify">
-Welcome dear visitor! Here you'll find information about me and my work. Connect to my social networks – for <a href="mailto: marllosprado@gmail.com">feedback, </a> <a href="https://www.linkedin.com/in/marllos-p-a383641b2">professional contact</a>, or just the old good <a href="https://twitter.com/MarllosP">friendship</a>.
+Welcome visitor! Here you'll find information about me and my work. Connect to my social networks – for <a href="mailto: marllosprado@gmail.com">feedback, </a> <a href="https://www.linkedin.com/in/marllos-p-a383641b2">professional contact</a>, or just the old good <a href="https://twitter.com/MarllosP">friendship</a>.
 </div>
 
 <br/>
@@ -49,7 +49,7 @@ Long story short, I was a young STEAM (Science, Technology, Engineering, and Mat
 <br/>
 -->
 
-<h2 id="bio">My route to Software Engineering and  User Experience</h2>  
+<h2 id="bio">My route to Software Engineering and User Experience</h2>  
 #### ... a testing fate or a test of fate ...
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;">  🐜 || 🎲 </p>
@@ -235,7 +235,7 @@ Here you can check materials and videos from my Data Structure Classes.
 <br/>
 <br/>
 
-<h2 id="UX">My thoughts on the role of User Experience Research</h2> 
+<h2 id="UX">My thoughts on the role of User Experience</h2> 
 #### Cuisine with a grain of Class.
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;">  👨‍🍳 && 👨‍🏫 </p>
