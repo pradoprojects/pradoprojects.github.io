@@ -4,7 +4,6 @@ description: Personal Website
 title: Prado Projects
 
 navbar-links:
-  Home: "#top"
   Bio: "#bio"
   Portfolio: "#portfolio"
   What's UX: "#UX"
