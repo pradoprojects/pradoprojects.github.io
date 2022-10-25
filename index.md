@@ -94,7 +94,7 @@ In this project I identified and characterized a research problem regarding the 
 <div style="text-align: justify">
 Here you can check materials and videos from my HCI and UX classes.
 </div>
-[See more about this project...](https://github.com/pradoprojects/UX-Classes)
+<a target="_blank" href="https://github.com/pradoprojects/UX-Classes">See more about this project...</a>
 
 <br/>
 <br/>
@@ -109,7 +109,7 @@ Here you can check materials and videos from my HCI and UX classes.
 <div style="text-align: justify">
 This is an ongoing project to design an app that will let plant enthusiasts connect to each other and share seeds/cuttings/ tips of their plants with other gardeners. The idea is to leverage users' well-being and environmentally sustainable attitudes by nurturing communities that share a common interest in plants.
 </div>
-[See more about this project...](https://github.com/pradoprojects/Seedlers)
+<a target="_blank" href="https://github.com/pradoprojects/Seedlers">See more about this project...</a>
 
 <br/>
 <br/>
@@ -124,7 +124,8 @@ This is an ongoing project to design an app that will let plant enthusiasts conn
 <div style="text-align: justify">
 LetMHelp! was designed under the Reskill Americans Program as a team project carried out by my teammates and me. We had to design and implement an App to support self-learning students to find and connect to voluntary tutors in the tech field. I was the UX/UI designer of my team and my duties involved going through the Defining, Ideating, and Prototyping stages. I was also responsible for defining and designing the name and logo of the App. 
 </div>
-[See more about this project...](https://github.com/pradoprojects/Self-Learning-App)
+
+<a target="_blank" href="https://github.com/pradoprojects/Self-Learning-App">See more about this project...</a>
 
 <br/>
 <br/>
@@ -139,7 +140,8 @@ LetMHelp! was designed under the Reskill Americans Program as a team project car
 <div style="text-align: justify">
 DonActor App was my first project at Reskill Americans Program. The app was intended to facilitate the donation process of clothes. In this project, I conducted the five design thinking stages (Empathize, Define, Ideate, Prototype, Test). I designed the UX/UI for the app as well as the name and Logo.
 </div>
-[See more about this project...](https://github.com/pradoprojects/DonActor)
+<a target="_blank" href="https://github.com/pradoprojects/DonActor">See more about this project...</a>
+
 
 <br/>
 <br/>
@@ -152,7 +154,8 @@ DonActor App was my first project at Reskill Americans Program. The app was inte
 
 <div style="text-align: justify">
 I developed this system to help automate the process of evaluation between employees of a corporation that I worked for, in the Agricultural Research field.</div>
-[See more about this project...](https://github.com/pradoprojects/SiAC)
+
+<a target="_blank" href="https://github.com/pradoprojects/SiAC">See more about this project...</a>
 
 <br/>
 <br/>
@@ -171,7 +174,7 @@ The APB project was devoted to Brazilian high-school-level students that wished 
 <br/>
 The project encompassed playful activities such as handcrafting bracelets with the student's initials in binary ASCII representation, cardboard games, problem-solving challenges, and team challenges mixed with computer programing.
 </div>
-[See more about this project...](https://github.com/pradoprojects/Project-APB)
+<a target="_blank" href="https://github.com/pradoprojects/Project-APB">See more about this project...</a>
 
 <br/>
 <br/>
@@ -185,7 +188,8 @@ The project encompassed playful activities such as handcrafting bracelets with t
 <div style="text-align: justify">
 In this project (2007), I planned, designed, and conducted an experimental study to characterize and evaluate the cost and strength of white-box and black-box testing criteria, comparing object-oriented and procedural programs.
 </div>
-[See more about this project...](https://github.com/pradoprojects/MasterDegree_Artifacts)
+
+<a target="_blank" href="https://github.com/pradoprojects/MasterDegree_Artifacts">See more about this project...</a>
 
 <br/>
 <br/>
@@ -200,7 +204,7 @@ In this project (2007), I planned, designed, and conducted an experimental study
 <div style="text-align: justify">
 Here you can check multimedia/animation projects for educational purposes that I developed in the early 2000s.
 </div>  
-[See more about this project...](https://github.com/pradoprojects/Multimedia-Flash-Projects)
+<a target="_blank" href="https://github.com/pradoprojects/Multimedia-Flash-Projects">See more about this project...</a>
 
 
 <br/>
@@ -215,7 +219,7 @@ Here you can check multimedia/animation projects for educational purposes that I
 <div style="text-align: justify">
 Here you can check materials and videos from my Data Structure Classes.
 </div>
-[See more about this project...](https://github.com/pradoprojects/DataStructures_Java)
+<a target="_blank" href="https://github.com/pradoprojects/DataStructures_Java">See more about this project...</a>
 
 <br/>
 <br/>
@@ -223,12 +227,12 @@ Here you can check materials and videos from my Data Structure Classes.
 #### Other Projects
 
 <div style="text-align: justify">
-<span> <a href="https://github.com/pradoprojects"> <img src="Octocat.svg" alt="GitHub icon" style= "margin:0; padding:0; float:bottom; width: 3%; height: auto;"/> You can also check other projects that I designed/wrote/coded along my career in my GitHub repository. </a> </span>
+<span> <a target="_blank" href="https://github.com/pradoprojects"> <img src="Octocat.svg" alt="GitHub icon" style= "margin:0; padding:0; float:bottom; width: 3%; height: auto;"/> You can also check other projects that I designed/wrote/coded along my career in my GitHub repository. </a> </span>
 
 <br/>
 <br/>
      
-<span> <a href="https://www.figma.com/@marllos"> <img src="Figma-logo.svg" alt="Figma icon" style= "margin:0; padding:0; float:bottom; width: 2%; height: auto;"/> My Figma profile with some recent works that I designed during my participation at the Reskill Americans Program. </a>  </span>
+<span> <a target="_blank" href="https://www.figma.com/@marllos"> <img src="Figma-logo.svg" alt="Figma icon" style= "margin:0; padding:0; float:bottom; width: 2%; height: auto;"/> My Figma profile with some recent works that I designed during my participation at the Reskill Americans Program. </a>  </span>
 </div>
 
 <br/>
