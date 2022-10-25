@@ -1,7 +1,7 @@
 remote_theme: daattali/beautiful-jekyll
 avatar: "lZgWcQEQ_400x400.jpg"
 description: Personal Website
-Title: Prado Projects
+title: Prado Projects
 
 navbar-links:
   Home: "#top"
