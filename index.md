@@ -63,10 +63,12 @@ During my post-graduation program, I observed that communities of practice often
 <br/>     
 <br/>     
 After moving to the USA and a career break, I enrolled in the Reskill Americans Bootcamp in 2021. In this Bootcamp, I had the opportunity to develop more tacit knowledge of User Experience Research and Design practices. During this seven-month program, I learned from fantastic mentors and networked with people from diverse backgrounds. To summarize, my career slowly brought me back to the UX Researcher/Designer pathway-- and I am super thankful for this fate!
-<br/>     
-<br/>     
-
+   
 </div>
+
+<br/>     
+<br/>     
+<br/>  
 
 <h2 id="portfolio">My Portfolio</h2> 
 
