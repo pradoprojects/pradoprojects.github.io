@@ -1,5 +1,4 @@
-<div id="top"/>
-
+<!-- id="top"/>
 ---
 layout: page
 title: Marllos Prado 
@@ -8,6 +7,7 @@ share-img: ./lZgWcQEQ_400x400.jpg
 use-site-title: true
 
 ---
+
 <!--
 <img src="lZgWcQEQ_400x400.jpg"
      alt="profile photo"
