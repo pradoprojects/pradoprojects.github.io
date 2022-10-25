@@ -233,7 +233,7 @@ Here you can check materials and videos from my Data Structure Classes.
 <br/>
 <br/>
 
-## My thoughts on the role of User Experience Research
+<h2 id="UX">My thoughts on the role of User Experience Research</h2> 
 #### Cuisine with a grain of Class.
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;">  👨‍🍳 && 👨‍🏫 </p>
@@ -267,7 +267,7 @@ I tend to see critical sense as the main scientific skill demanded in User Exper
 
 
 
-## Books and Readings
+<h2 id="Readings">Books and Readings</h2> 
 
 Below are some book references that I like to read, consult and skim through.
 
