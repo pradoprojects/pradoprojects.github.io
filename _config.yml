@@ -3,12 +3,11 @@ avatar: "lZgWcQEQ_400x400.jpg"
 description: Personal Website
 
 navbar-links:
-  Home: ""
+  Home: "#top"
   Portfolio: "#portfolio"
   Bio: "#bio"
   What's UX: "#UX"
   Readings: "#Readings"
-  Top: "#top"
 
 
 
