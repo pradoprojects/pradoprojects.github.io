@@ -20,7 +20,7 @@ use-site-title: true
 <br/>
 
 <div style="text-align: justify">
-Welcome visitor! Here you'll find information about me and my work. Connect to my social networks – for <a href="mailto: marllosprado@gmail.com">feedback, </a> <a href="https://www.linkedin.com/in/marllos-p-a383641b2">professional contact</a>, or just the old good <a href="https://twitter.com/MarllosP">friendship</a>.
+Welcome visitor! Here you'll find information about me and my work. Connect to my social networks – for <a target="_blank" href="mailto: marllosprado@gmail.com">feedback, </a> <a target="_blank" href="https://www.linkedin.com/in/marllos-p-a383641b2">professional contact</a>, or just the old good <a target="_blank" href="https://twitter.com/MarllosP">friendship</a>.
 </div>
 
 <br/>
