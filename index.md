@@ -41,6 +41,18 @@ Welcome visitor! Here you'll find information about me and my work. Connect to m
 
 <div style="text-align: justify">
 Long story short, I was a young STEAM (Science, Technology, Engineering, and Mathematics) passionate boy, born in the 80/90’s, who grew up into a 36-year-old User Experience (UX) enthusiast, tech curious, and nature lover. So yes, the child alive inside me keeps bugging me to constantly analyze my numerous daily experiences as a user going from the new gadgets and packages on the market shelf to the accessibility issues in the closest pharmacy store -- which weirdly request that people have a car in order to get tested for Covid-19 (no, no pedestrian in the drive-thru, nor alternative option)! It is also this inner energy that motivates me to disassemble and reassemble my (and my friends') broken devices, just for the sake of curiosity and self-compensation if I succeed in bringing them back to life. Oh, and last but not least, there is a lot of this youth solicitude behind the many hours I spent along my life planting the seeds of my foods -- avocados in special, as they look too chock-full of life to be trashed away after giving me a delicious matinal avo-shake!
+
+
+
+My professional story remounts the beginning of the 2000s when, as a teenager, I got my first part-time job as a multimedia developer for high-school classes. It was a fantastic digital creativity experience that helped me fall in love with many activities later coined under the User Experience label. It also gave me the confidence to join the Computer Science program two years later. During my CS program, I could sharpen my scientific mindset and improve my problem-solving skills, which opened up the opportunity for my post-graduate studies.
+<br/>     
+<br/>     
+During my post-graduation program, I observed that communities of practice often reported testing tools to be cumbersome and provided low support for test practitioners in their daily activities. To address this user-developer experience problem, I researched the lack of cognitive support provided by unit testing tools. The project included a qualitative study of real-world practitioners that led to a comprehensive understanding of the pain points and actionable recommendations for effectively addressing them. In parallel to my post-graduating studies, I spent one year as visiting researcher at the University of Victoria (UVic) under the excellent supervision of Professor Dr. Margaret-Anne Storey. Concurrent to my post-graduation, I developed a career as a teacher (teaching courses like HCI, UX, Algorithms, and Computing Foundations).
+<br/>     
+<br/>     
+After moving to the USA and a career break, I enrolled in the Reskill Americans Bootcamp in 2021. In this Bootcamp, I had the opportunity to develop more tacit knowledge of User Experience Research and Design practices. During this seven-month program, I learned from fantastic mentors and networked with people from diverse backgrounds. To summarize, my career slowly brought me back to the UX Researcher/Designer pathway-- and I am super thankful for this fate!
+
+
 </div>
 
 
@@ -54,14 +66,10 @@ Long story short, I was a young STEAM (Science, Technology, Engineering, and Mat
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;">  🐜 || 🎲 </p>
 
-<div style="text-align: justify">
-My professional story remounts the beginning of the 2000s when, as a teenager, I got my first part-time job as a multimedia developer for high-school classes. It was a fantastic digital creativity experience that helped me fall in love with many activities later coined under the User Experience label. It also gave me the confidence to join the Computer Science program two years later. During my CS program, I could sharpen my scientific mindset and improve my problem-solving skills, which opened up the opportunity for my post-graduate studies.
+<div style="text-align: justify">My professional story remounts the beginning of the 2000s when, as a teenager, I got my first part-time job as a computer assistant for high-school classes in Brazil. It was a great experience that helped me fall in love with technology as a tool to support education. It also gave me the confidence to join the Computer Science (CS) program two years later. During my CS program, I could sharpen my scientific mindset and improve my problem-solving skills, which opened up the opportunity for my post-graduate studies. Concurrent with my post-graduation, I developed a career as a CS teacher.
 <br/>     
 <br/>     
-During my post-graduation program, I observed that communities of practice often reported testing tools to be cumbersome and provided low support for test practitioners in their daily activities. To address this user-developer experience problem, I researched the lack of cognitive support provided by unit testing tools. The project included a qualitative study of real-world practitioners that led to a comprehensive understanding of the pain points and actionable recommendations for effectively addressing them. In parallel to my post-graduating studies, I spent one year as visiting researcher at the University of Victoria (UVic) under the excellent supervision of Professor Dr. Margaret-Anne Storey. Concurrent to my post-graduation, I developed a career as a teacher (teaching courses like HCI, UX, Algorithms, and Computing Foundations).
-<br/>     
-<br/>     
-After moving to the USA and a career break, I enrolled in the Reskill Americans Bootcamp in 2021. In this Bootcamp, I had the opportunity to develop more tacit knowledge of User Experience Research and Design practices. During this seven-month program, I learned from fantastic mentors and networked with people from diverse backgrounds. To summarize, my career slowly brought me back to the UX Researcher/Designer pathway-- and I am super thankful for this fate!
+After moving to the USA and taking a career break as a teacher, I enrolled in the Reskill Americans Bootcamp in 2021. In this Bootcamp, I had the opportunity to learn more about User Experience and Design practices. During this seven-month program, I learned from fantastic mentors and networked with people from diverse backgrounds. The more I learn about UX Research and Design, the more I become passionate about how humans use technology to leverage their daily problems.
    
 </div>
 
@@ -78,13 +86,14 @@ After moving to the USA and a career break, I enrolled in the Reskill Americans 
 </p> 
 
 <div style="text-align: justify">
-In this project I identified and characterized a research problem regarding the lack of user research for testing tools. I planned, conducted, and analyzed a qualitative study of practitioners to further understand the problem in the unit testing domain. The project's results and contributions include a framework and research agenda. They serve as actionable instruments for the testing community to incorporate practical improvements in cognitive support provided by current and future testing tools. Cognitive support is a key concept in offloading the users' memory during tools usage and has a direct impact on the improvement of the user experience during the tasks performed.
+In this project I identified and characterized a research problem regarding the lack of user research for testing tools. I planned, conducted, and analyzed a qualitative study of practitioners to further understand the problem in the unit testing domain. The project's results and contributions include a framework and research agenda. They serve as actionable instruments for the testing community to incorporate practical improvements in cognitive support provided by current and future testing tools. Cognitive support is a key concept in offloading the users' memory during tools usage and has a direct impact on the improvement of their experience during the tasks performed.
 </div>
 <a target="_blank" href="https://github.com/pradoprojects/Publications">See more about this project...</a>
 
 <br/>
 <br/>
 
+<!--
 #### HCI/UX Classes - 📚📚📚
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 
@@ -98,7 +107,7 @@ Here you can check materials and videos from my HCI and UX classes.
 
 <br/>
 <br/>
-
+-->
 
 #### Seedlers App - 🍅🥕🥔 [In Progress]
 
@@ -194,7 +203,7 @@ In this project (2007), I planned, designed, and conducted an experimental study
 <br/>
 <br/>
 
-
+<!--
 #### Multimedia Flash Projects - 📚🎞🎨
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;">                                                    
@@ -209,6 +218,7 @@ Here you can check multimedia/animation projects for educational purposes that I
 
 <br/>
 <br/>
+-->
 
 #### Data Structure Classes - 📚📚📚
 
@@ -256,7 +266,7 @@ As precisely coined by Louis Sullivan: “form follows function”. This max sho
 #### 👂 Empathy  
 
 <div style="text-align: justify">
-Empathy is directly connected to the artistic portion of UX. Without empathy, you can’t wear somebody’s shoes and truly access their necessities, emotions, aims, and claims. Put simply for Marvel fans, lack of empathy in UX is your passport into Wandavision World. For non-marvel fans, lack of empathy is your passport for wishful thinking… You will fail in providing an effective experience because you will be mirroring your inner feelings in the design. It can sound true, vibrant, and energetic to you. But putting in perspective, it is as ineffective as you trying to recognize yourself in a mirror that reflects somebody else’s image.  This is easier said than done, especially in a world that discourages empathy in many areas. The good news is that you can always revive and channel empathy towards design if caring about people is something that triggers your self-reward mechanism. Surely, it does in me.
+Empathy is directly connected to the artistic portion of UX. Without empathy, you can’t wear somebody’s shoes and truly access their necessities, emotions, aims, and claims. Put simply for Marvel fans, lack of empathy in UX is your passport into Wandavision World. For non-marvel fans, lack of empathy is your passport for wishful thinking… You will fail in providing an effective experience because you will be mirroring your inner feelings in the design. It can sound true, vibrant, and energetic to you. But putting in perspective, it is as ineffective as you trying to recognize yourself in a mirror that reflects somebody else’s image.  This is easier said than done. The good news is that you can always revive and channel empathy towards design if caring about people is something that triggers your self-reward mechanism. Surely, it does in me.
 </div>
 
 <br/>
