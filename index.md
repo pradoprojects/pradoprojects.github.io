@@ -79,6 +79,7 @@ After moving to the USA and taking a career break as a teacher, I enrolled in th
 
 <h2 id="portfolio">My Portfolio</h2> 
 
+<!--
 #### Cognitive Support for Unit Testing - 🧠🧪🧠
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 
@@ -92,7 +93,7 @@ In this project I identified and characterized a research problem regarding the 
 
 <br/>
 <br/>
-
+-->
 <!--
 #### HCI/UX Classes - 📚📚📚
 
