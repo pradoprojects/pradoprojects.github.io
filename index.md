@@ -69,7 +69,7 @@ After moving to the USA and a career break, I enrolled in the Reskill Americans 
 <div style="text-align: justify">My professional story remounts the beginning of the 2000s when, as a teenager, I got my first part-time job as a computer assistant for high-school classes in Brazil. It was a great experience that helped me fall in love with technology as a tool to support education. It also gave me the confidence to join the Computer Science (CS) program two years later. During my CS program, I could sharpen my scientific mindset and improve my problem-solving skills, which opened up the opportunity for my post-graduate studies. Concurrent with my post-graduation, I developed a career as a CS teacher.
 <br/>     
 <br/>     
-After moving to the USA and taking a career break as a teacher, I enrolled in the Reskill Americans Bootcamp in 2021. In this Bootcamp, I had the opportunity to learn more about User Experience and Design practices. During this seven-month program, I learned from fantastic mentors and networked with people from diverse backgrounds. The more I learn about UX Research and Design, the more I become passionate about how humans use technology to leverage their solution to daily problems.
+After moving to the USA, I enrolled in the Reskill Americans Bootcamp in 2021. In this Bootcamp, I had the opportunity to learn more about User Experience and Design practices. During this seven-month program, I learned from great mentors and networked with people from diverse backgrounds. The more I learn about UX Research and Design, the more I become passionate about how humans use technology to leverage their solution to daily problems.
    
 </div>
 
