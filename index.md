@@ -79,7 +79,7 @@ After moving to the USA, I enrolled in the Reskill Americans Bootcamp in 2021. I
 
 <h2 id="portfolio">My Portfolio</h2> 
 
-<!--
+
 #### Cognitive Support for Unit Testing - 🧠🧪🧠
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 
@@ -93,7 +93,7 @@ In this project I identified and characterized a research problem regarding the 
 
 <br/>
 <br/>
--->
+
 <!--
 #### HCI/UX Classes - 📚📚📚
 
