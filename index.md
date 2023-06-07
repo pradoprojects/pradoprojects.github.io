@@ -94,11 +94,11 @@ In this project I identified and characterized a research problem regarding the 
 <br/>
 <br/>
 
-<!--
+
 #### HCI/UX Classes - 📚📚📚
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 
-<img src="./uxlogo.png" alt="Data Structure Logo" style="width: 70%; height: auto; border-radius: 0%; float: center;"/>
+<img src="./uxlogo.png" alt="UX Logo" style="width: 70%; height: auto; border-radius: 0%; float: center;"/>
 </p> 
 
 <div style="text-align: justify">
@@ -108,21 +108,7 @@ Here you can check materials and videos from my HCI and UX classes.
 
 <br/>
 <br/>
--->
 
-#### Seedlers App - 🍅🥕🥔 [In Progress]
-
-<p style="padding: 30px; font-size: xx-large; text-align: center;"> 
-<img src="Seedlerslogo.png" alt="Seedlers Logo" style="width: 50%; height: auto; border-radius: 0%; float: center;"/>
-</p> 
-
-<div style="text-align: justify">
-This is an ongoing project to design an app that will let plant enthusiasts connect to each other and share seeds/cuttings/ tips of their plants with other gardeners. The idea is to leverage users' well-being and environmentally sustainable attitudes by nurturing communities that share a common interest in plants.
-</div>
-<a target="_blank" href="https://github.com/pradoprojects/Seedlers">See more about this project...</a>
-
-<br/>
-<br/>
 
 
 #### LetMHelp! App - 📱🎓📱
@@ -170,7 +156,19 @@ I developed this system to help automate the process of evaluation between emplo
 <br/>
 <br/>
 
+#### Seedlers App - 🍅🥕🥔 [In Progress]
 
+<p style="padding: 30px; font-size: xx-large; text-align: center;"> 
+<img src="Seedlerslogo.png" alt="Seedlers Logo" style="width: 50%; height: auto; border-radius: 0%; float: center;"/>
+</p> 
+
+<div style="text-align: justify">
+This is an ongoing project to design an app that will let plant enthusiasts connect to each other and share seeds/cuttings/ tips of their plants with other gardeners. The idea is to leverage users' well-being and environmentally sustainable attitudes by nurturing communities that share a common interest in plants.
+</div>
+<a target="_blank" href="https://github.com/pradoprojects/Seedlers">See more about this project...</a>
+
+<br/>
+<br/>
 
 #### Algorithms and Programming for Beginners - 👩‍💻🧩👨‍💻
 
