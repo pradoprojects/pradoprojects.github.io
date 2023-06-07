@@ -64,7 +64,7 @@ After moving to the USA, I enrolled in the Reskill Americans Bootcamp in 2021. I
 <h2 id="bio">My route to Computer Science and User Experience</h2>  
 #### ... Systems and Humans always in the loop...
 
-<p style="padding: 30px; font-size: xx-large; text-align: center;">  🐜 || 🎲 </p>
+<p style="padding: 30px; font-size: xx-large; text-align: center;">  🧐 || 🤖 </p>
 
 <div style="text-align: justify">My professional story remounts the beginning of the 2000s when, as a teenager, I got my first part-time job as a multimedia developer for high-school classes in Brazil. It was a great first job experience that helped me fall in love with technology as a tool to support education. It also gave me the confidence to join the Computer Science (CS) program two years later. During my CS program, I could sharpen my analytical mindset and improve my problem-solving skills, which opened up the opportunity for my post-graduate studies. Concurrent with my post-graduation, I developed a career as a CS teacher.
 <br/>     
