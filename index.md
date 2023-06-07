@@ -202,7 +202,6 @@ In this project (2007), I planned, designed, and conducted an experimental study
 <br/>
 <br/>
 
-<!--
 #### Multimedia Flash Projects - 📚🎞🎨
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;">                                                    
@@ -217,7 +216,6 @@ Here you can check multimedia/animation projects for educational purposes that I
 
 <br/>
 <br/>
--->
 
 #### Data Structure Classes - 📚📚📚
 
