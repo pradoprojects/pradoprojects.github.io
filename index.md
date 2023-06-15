@@ -124,7 +124,7 @@ LetMHelp! was designed under the Reskill Americans Program as a team project car
 <br/>
 <br/>
 
-#### Oracle Health Case Study - 📚📚📚
+#### Oracle Health Case Study - 👨‍⚕💻👩‍⚕
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 
 <img src="./pehrsonaLogo.png" alt="Pehrsona Logo" style="width: 50%; height: auto; border-radius: 0%; float: center;"/>
@@ -133,7 +133,7 @@ LetMHelp! was designed under the Reskill Americans Program as a team project car
 <div style="text-align: justify">
 This is a high-fidelity landing page for a hypothetical solution that aligns with the ideas envisioned by Dr. David Feinberg, MD, based on the valuable patient data collected by him and his team over the years. This small-yet-applicable project aims to showcase some of my design dexterities in translating abstract concepts into tangible visual representations.
 </div>
-<a target="_blank" href="https://www.figma.com/file/u5t510VvPIcmgNc0QoopWi/Design-critique---Oracle-Sample?type=whiteboard&node-id=0-1&t=Bvo6T3NenlNTT88q-0" See more about this project...</a>
+<a target="_blank" href="https://www.figma.com/file/u5t510VvPIcmgNc0QoopWi/Design-critique---Oracle-Sample?type=whiteboard&node-id=0-1&t=Bvo6T3NenlNTT88q-0"> See more about this project...</a>
 
 <br/>
 <br/>
