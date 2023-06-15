@@ -127,7 +127,7 @@ LetMHelp! was designed under the Reskill Americans Program as a team project car
 #### Oracle Health Case Study - 👨‍⚕💻👩‍⚕
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 
-<img src="./pehrsonaLogo.png" alt="Pehrsona Logo" style="width: 50%; height: auto; border-radius: 0%; float: center;"/>
+<img src="./pehrsonaLogo.png" alt="Pehrsona Logo" style="width: 70%; height: auto; border-radius: 0%; float: center;"/>
 </p> 
 
 <div style="text-align: justify">
