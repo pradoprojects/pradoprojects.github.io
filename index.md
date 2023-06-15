@@ -249,13 +249,16 @@ Here you can check materials and videos from my Data Structure Classes.
 
 <br/>
 <br/>
-     
+
+<!--     
 <span> <a target="_blank" href="https://www.figma.com/@marllos"> <img src="Figma-logo.svg" alt="Figma icon" style= "margin:0; padding:0; float:bottom; width: 2%; height: auto;"/> My Figma profile with some recent works that I designed during my participation at the Reskill Americans Program. </a>  </span>
 </div>
 
 <br/>
 <br/>
 <br/>
+
+-->
 
 <h2 id="UX">My thoughts on the role of User Experience</h2> 
 #### Cuisine with a grain of Class.
