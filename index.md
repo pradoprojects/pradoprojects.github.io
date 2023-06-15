@@ -116,7 +116,7 @@ Here you can check materials and videos from my HCI and UX classes.
 </p> 
 
 <div style="text-align: justify">
-LetMHelp! was designed under the Reskill Americans Program as a team project carried out by my teammates and me. We had to design and implement an App to support self-learning students to find and connect to voluntary tutors in the tech field. I was the UX/UI designer of my team and my duties involved going through the Defining, Ideating, and Prototyping stages. I was also responsible for defining and designing the name and logo of the App. 
+LetMHelp! was designed under the Reskill Americans Program as a team project carried out by my teammates and me. We designed and implemented an App to support self-learning students to find and connect to voluntary tutors in the tech field. I was the UX/UI designer of my team and my duties involved going through the Defining, Ideating, and Prototyping stages. I was also responsible for defining and designing the name and logo of the App. 
 </div>
 
 <a target="_blank" href="https://github.com/pradoprojects/Self-Learning-App">See more about this project...</a>
