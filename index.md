@@ -188,7 +188,7 @@ This is an ongoing project to design an app that will let plant enthusiasts conn
 </p> 
 
 <div style="text-align: justify">
-The APB project was devoted to Brazilian high-school-level students that wished to learn how to program. The project focused on developing their algorithmic thinking in an innovative and unprecedented class experience - rather than just focusing on a programming language in the traditional way.
+The APB project was dedicated to Brazilian high-school-level students that wished to learn how to program. The project focused on developing their algorithmic thinking in an innovative and unprecedented class experience - rather than just focusing on a programming language in the traditional way.
 <br/>
 <br/>
 The project encompassed playful activities such as handcrafting bracelets with the student's initials in binary ASCII representation, cardboard games, problem-solving challenges, and team challenges mixed with computer programing.
