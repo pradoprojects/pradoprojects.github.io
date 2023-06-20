@@ -269,7 +269,15 @@ Here you can check materials and videos from my Data Structure Classes.
 <br/>
 <br/>
 
+</div>
+
+<br/>
+<br/>
+<br/>
+
+
 <h2 id="UX">My thoughts on the role of User Experience</h2> 
+
 #### Cuisine with a grain of Class.
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;">  👨‍🍳 && 👨‍🏫 </p>
