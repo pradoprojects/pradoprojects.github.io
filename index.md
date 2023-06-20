@@ -147,7 +147,7 @@ This is a high-fidelity landing page for a hypothetical solution that aligns wit
 <div style="text-align: justify">
 After visiting the Ford Pro web page, I noticed that the US version of the website was only provided in English. So I took this opportunity to redesign the landing page in Brazilian Portuguese, targeting the vibrant Portuguese-speaking community in the United States (including over 200,000 Portuguese-owned and 100,000 Brazilian-owned businesses). The objective was to provide a website copy and design that resonates with their culture and values, enabling them better to understand the innovative and technological concepts of Ford Pro. This idea can be easily extended to Spanish, the second language most spoken in the US. Next up, you can check the prototype showcasing this design.
 
-I also included comments indicating the reason behind some design decisions (Please log in to Figma to see the comment balloons). This proactive approach demonstrates my commitment to understanding and addressing user pain points with impactful design solutions. 
+I also included comments indicating the reason behind some design decisions (Please log in to Figma to see the comment balloons). This proactive approach demonstrates my commitment to understanding and addressing user pain points with impactful design solutions.
 
 </div>
 <a target="_blank" href="https://www.figma.com/proto/JiOtYwUav33eHLINfwTW83/Ford-Pro-Case-Study?type=design&node-id=69-49&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=69%3A3"> See more about this project...</a>
