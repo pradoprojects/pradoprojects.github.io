@@ -150,7 +150,7 @@ After visiting the Ford Pro web page, I noticed that the US version of the websi
 I also included comments indicating the reason behind some design decisions (Please log in to Figma to see the comment balloons). This proactive approach demonstrates my commitment to understanding and addressing user pain points with impactful design solutions.
 
 </div>
-<a target="_blank" href="https://www.figma.com/proto/JiOtYwUav33eHLINfwTW83/Ford-Pro-Case-Study?type=design&node-id=69-49&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=69%3A3"> See more about this project...</a>
+<a target="_blank" href="https://www.figma.com/proto/JiOtYwUav33eHLINfwTW83/Ford-Pro-Case-Study?type=design&node-id=69-3&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=69%3A3"> See more about this project...</a>
 
 <br/>
 <br/>
