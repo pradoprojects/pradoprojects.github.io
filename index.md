@@ -62,9 +62,9 @@ After moving to the USA, I enrolled in the Reskill Americans Bootcamp in 2021. I
 -->
 
 <h2 id="bio">My route to Computer Science and User Experience</h2>  
-#### ... Systems and Humans always in the loop...
+#### ... Systems and Humans, always in the loop...
 
-<p style="padding: 30px; font-size: xx-large; text-align: center;">  🧐 || 🤖 </p>
+<p style="padding: 30px; font-size: xx-large; text-align: center;"> 🤖 || 🧐 </p>
 
 <div style="text-align: justify">My professional story remounts the beginning of the 2000s when, as a teenager, I got my first part-time job as a multimedia developer for high-school classes in Brazil. It was a great first job experience that helped me fall in love with technology as a tool to support education. It also gave me the confidence to join the Computer Science (CS) program two years later. During my CS program, I could sharpen my analytical mindset and improve my problem-solving skills, which opened up the opportunity for my post-graduate studies. Concurrent with my post-graduation, I developed a career as a CS teacher.
 <br/>     
@@ -87,7 +87,7 @@ After moving to the USA, I got a CompTIA Project + certification and enrolled in
 </p> 
 
 <div style="text-align: justify">
-In this project I identified and characterized a research problem regarding the lack of user research for testing tools. I planned, conducted, and analyzed a qualitative study of practitioners to further understand the problem in the unit testing domain. The project's results and contributions include a framework and research agenda. They serve as actionable instruments for the testing community to incorporate practical improvements in cognitive support provided by current and future testing tools. Cognitive support is a key concept in offloading the users' memory during tools usage and has a direct impact on the improvement of their experience during the tasks performed.
+In this project, I identified and characterized a research problem regarding the lack of user research for testing tools. I planned, conducted, and analyzed a qualitative study of practitioners to further understand the problem in the unit testing domain. The project's results and contributions include a framework and research agenda. They serve as actionable instruments for the testing community to incorporate practical improvements in cognitive support provided by current and future testing tools. Cognitive support is a key concept in offloading the users' memory during tools usage and has a direct impact on the improvement of their experience during the tasks performed.
 </div>
 <a target="_blank" href="https://github.com/pradoprojects/Publications">See more about this project...</a>
 
@@ -116,7 +116,7 @@ Here you can check materials and videos from my HCI and UX classes.
 </p> 
 
 <div style="text-align: justify">
-LetMHelp! was designed under the Reskill Americans Program as a team project carried out by my teammates and me. We designed and implemented an App to support self-learning students to find and connect to voluntary tutors in the tech field. I was the UX/UI designer of my team and my duties involved going through the Defining, Ideating, and Prototyping stages. I was also responsible for defining and designing the name and logo of the App. 
+LetMHelp! was designed under the Reskill Americans Program as a team project carried out by my teammates and me. We designed and implemented an App to support self-learning students to find and connect to voluntary tutors in the tech field. I was the UX/UI designer of my team, and my duties involved going through the Defining, Ideating, and Prototyping stages. I was also responsible for defining and designing the name and logo of the App. 
 </div>
 
 <a target="_blank" href="https://github.com/pradoprojects/Self-Learning-App">See more about this project...</a>
