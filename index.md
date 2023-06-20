@@ -141,7 +141,7 @@ This is a high-fidelity landing page for a hypothetical solution that aligns wit
 #### Ford Pro Case Study - 👨‍⚕💻👩‍⚕
 
 <p style="padding: 30px; font-size: xx-large; text-align: center;"> 
-<img src="./Fordpro.png" alt="Fordpro Page" style="width: 70%; height: auto; border-radius: 0%; float: center;"/>
+<img src="./Fordpro.png" alt="Fordpro Page" style="width: 70%; height: auto; border-radius: 70%; float: center;"/>
 </p> 
 
 <div style="text-align: justify">
