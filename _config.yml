@@ -1,4 +1,4 @@
-remote_theme: daattali/beautiful-jekyll
+theme: jekyll-theme-minimal
 avatar: "lZgWcQEQ_400x400.jpg"
 description: Personal Website
 title: Home
