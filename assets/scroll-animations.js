@@ -6,9 +6,12 @@ document.addEventListener('DOMContentLoaded', () => {
   const options = { threshold: 0.1 };
 
   const appearOnScroll = new IntersectionObserver((entries, observer) => {
-    entries.forEach(entry => {
+    entries.forEach((entry, index) => {
       if(entry.isIntersecting){
-        entry.target.classList.add('visible');
+        // Delay progressivo baseado no index
+        setTimeout(() => {
+          entry.target.classList.add('visible');
+        }, index * 150); // 150ms de diferença entre cada card/section
         observer.unobserve(entry.target);
       }
     });
