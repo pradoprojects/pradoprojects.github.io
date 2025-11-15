@@ -5,14 +5,14 @@ const root = document.documentElement;
 // Load saved theme
 const savedTheme = localStorage.getItem('theme');
 
-if (savedTheme === 'dark') {
+if(savedTheme === 'dark'){
   root.classList.add('dark');
   icon.textContent = '☀️';
-} else if (savedTheme === 'light') {
+} else if(savedTheme === 'light'){
   root.classList.remove('dark');
   icon.textContent = '🌙';
 } else {
-  if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+  if(window.matchMedia('(prefers-color-scheme: dark)').matches){
     root.classList.add('dark');
     icon.textContent = '☀️';
   }
@@ -21,11 +21,6 @@ if (savedTheme === 'dark') {
 // Toggle on click
 toggleBtn.addEventListener('click', () => {
   const isDark = root.classList.toggle('dark');
-  if (isDark) {
-    localStorage.setItem('theme','dark');
-    icon.textContent = '☀️';
-  } else {
-    localStorage.setItem('theme','light');
-    icon.textContent = '🌙';
-  }
+  localStorage.setItem('theme', isDark ? 'dark' : 'light');
+  icon.textContent = isDark ? '☀️' : '🌙';
 });
