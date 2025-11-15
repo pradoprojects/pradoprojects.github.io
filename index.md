@@ -88,5 +88,7 @@ Figma • Miro • Basic HTML/CSS • GitHub • Pen & Paper
 Whether you’re a recruiter, designer, or someone curious about my work — welcome.  
 📩 marllospaiva@gmail.com • [LinkedIn](https://www.linkedin.com/in/marllos-p-a383641b2)
 
-<script src="assets/theme-toggle.js"></script>
+
 <script src="assets/scroll-animations.js"></script>
+<script src="assets/theme-toggle.js"></script>
+
