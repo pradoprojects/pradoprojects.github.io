@@ -3,11 +3,11 @@ layout: default
 title: Marllos Prado — UX Portfolio
 ---
 
+<link rel="stylesheet" href="assets/style.css">
+
 <button id="theme-toggle" aria-label="Toggle dark mode">
   <span class="toggle-icon">🌙</span>
 </button>
-
-<link rel="stylesheet" href="assets/style.css">
 
 # Hi, I’m Marllos  
 ### Early-career UX & Product Designer  
@@ -42,7 +42,7 @@ _Quick, visual, easy to scan. Full case studies coming soon._
 
 <div class="grid-container">
 
-<div class="card fade-in">
+<div class="card">
   <div class="thumb-wrap">
     <img src="assets/case-apb-thumb.png" alt="Project APB thumbnail">
   </div>
@@ -53,7 +53,7 @@ _Quick, visual, easy to scan. Full case studies coming soon._
   <span class="card-cta disabled">Case study coming soon</span>
 </div>
 
-<div class="card fade-in">
+<div class="card">
   <div class="thumb-wrap">
     <img src="assets/case-selfthumb.png" alt="Self-Learning App thumbnail">
   </div>
@@ -88,41 +88,5 @@ Figma • Miro • Basic HTML/CSS • GitHub • Pen & Paper
 Whether you’re a recruiter, designer, or someone curious about my work — welcome.  
 📩 marllospaiva@gmail.com • [LinkedIn](https://www.linkedin.com/in/marllos-p-a383641b2)
 
-
-
-<script>
-  const toggleBtn = document.getElementById('theme-toggle');
-  const icon = toggleBtn.querySelector('.toggle-icon');
-  const root = document.documentElement;
-
-  // 1. Load preference
-  const savedTheme = localStorage.getItem('theme');
-
-  if (savedTheme === 'dark') {
-    root.classList.add('dark');
-    icon.textContent = '☀️';
-  } else if (savedTheme === 'light') {
-    root.classList.remove('dark');
-    icon.textContent = '🌙';
-  } else {
-    // system preference
-    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-      root.classList.add('dark');
-      icon.textContent = '☀️';
-    }
-  }
-
-  // 2. Toggle on click
-  toggleBtn.addEventListener('click', () => {
-    const isDark = root.classList.toggle('dark');
-
-    if (isDark) {
-      localStorage.setItem('theme', 'dark');
-      icon.textContent = '☀️';
-    } else {
-      localStorage.setItem('theme', 'light');
-      icon.textContent = '🌙';
-    }
-  });
-</script>
+<script src="assets/theme-toggle.js"></script>
 
