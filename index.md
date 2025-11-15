@@ -3,11 +3,11 @@ layout: default
 title: Marllos Prado — UX Portfolio
 ---
 
+<link rel="stylesheet" href="assets/style.css">
+
 <button id="theme-toggle" aria-label="Toggle dark mode">
   <span class="toggle-icon">🌙</span>
 </button>
-
-<link rel="stylesheet" href="assets/style.css">
 
 # Hi, I’m Marllos  
 ### Early-career UX & Product Designer  
@@ -20,7 +20,6 @@ I care about creating interfaces that feel intuitive, calm, and accessible, espe
 
 ---
 
-<div class="section-label">Approach</div>
 ## How I Think
 
 ### Simplifying complexity  
@@ -36,7 +35,6 @@ but my design decisions always begin with people, not features.
 
 ---
 
-<div class="section-label">Projects</div>
 ## Featured Work  
 _Quick, visual, easy to scan. Full case studies coming soon._
 
@@ -68,7 +66,6 @@ _Quick, visual, easy to scan. Full case studies coming soon._
 
 ---
 
-<div class="section-label">Growth</div>
 ## What I’m Improving
 - Visual design fundamentals and layout clarity  
 - Faster, more intentional prototyping in Figma  
@@ -77,16 +74,14 @@ _Quick, visual, easy to scan. Full case studies coming soon._
 
 ---
 
-<div class="section-label">Tools</div>
 ## Tools
 Figma • Miro • Basic HTML/CSS • GitHub • Pen & Paper
 
 ---
 
-<div class="section-label">Contact</div>
 ## Let’s Connect  
 Whether you’re a recruiter, designer, or someone curious about my work — welcome.  
 📩 marllospaiva@gmail.com • [LinkedIn](https://www.linkedin.com/in/marllos-p-a383641b2)
 
-<script src="assets/theme-toggle.js"></script>
-<script src="assets/scroll-animations.js"></script>
+<script src="assets/theme-toggle.js" defer></script>
+<script src="assets/scroll-animations.js" defer></script>
