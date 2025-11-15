@@ -3,11 +3,12 @@ layout: default
 title: Marllos Prado — UX Portfolio
 ---
 
-<link rel="stylesheet" href="assets/style.css">
-
 <button id="theme-toggle" aria-label="Toggle dark mode">
   <span class="toggle-icon">🌙</span>
 </button>
+
+<link rel="stylesheet" href="assets/style.css">
+
 
 # Hi, I’m Marllos  
 ### Early-career UX & Product Designer  
