@@ -3,6 +3,7 @@ layout: default
 title: Marllos Prado — UX Portfolio
 ---
 
+<!-- Theme toggle button -->
 <button id="theme-toggle" aria-label="Toggle dark mode">
   <span class="toggle-icon">🌙</span>
 </button>
@@ -23,8 +24,6 @@ I care about creating interfaces that feel intuitive, calm, and accessible, espe
 <div class="section-label">Approach</div>
 ## How I Think
 
-<div class="fade-in-section">
-
 ### Simplifying complexity  
 Teaching programming to teenagers showed me how to break down abstract concepts into clear, approachable steps — a skill that directly shapes how I build interfaces and structure information.
 
@@ -36,7 +35,7 @@ These experiences help me identify friction and design for comfort, not just fun
 My computer science background helps me understand constraints and feasibility,  
 but my design decisions always begin with people, not features.
 
-</div>
+---
 
 <div class="section-label">Projects</div>
 ## Featured Work  
@@ -44,7 +43,7 @@ _Quick, visual, easy to scan. Full case studies coming soon._
 
 <div class="grid-container">
 
-<div class="card fade-in-card">
+<div class="card">
   <div class="thumb-wrap">
     <img src="assets/case-apb-thumb.png" alt="Project APB thumbnail">
   </div>
@@ -55,7 +54,7 @@ _Quick, visual, easy to scan. Full case studies coming soon._
   <span class="card-cta disabled">Case study coming soon</span>
 </div>
 
-<div class="card fade-in-card">
+<div class="card">
   <div class="thumb-wrap">
     <img src="assets/case-selfthumb.png" alt="Self-Learning App thumbnail">
   </div>
@@ -72,27 +71,45 @@ _Quick, visual, easy to scan. Full case studies coming soon._
 
 <div class="section-label">Growth</div>
 ## What I’m Improving
-<div class="fade-in-section">
 - Visual design fundamentals and layout clarity  
 - Faster, more intentional prototyping in Figma  
 - Usability testing → synthesis → decision-making  
 - Studying real products to understand interaction patterns  
-</div>
 
 ---
 
 <div class="section-label">Tools</div>
 ## Tools
-<div class="fade-in-section">Figma • Miro • Basic HTML/CSS • GitHub • Pen & Paper</div>
+Figma • Miro • Basic HTML/CSS • GitHub • Pen & Paper
 
 ---
 
 <div class="section-label">Contact</div>
 ## Let’s Connect  
-<div class="fade-in-section">
 Whether you’re a recruiter, designer, or someone curious about my work — welcome.  
 📩 marllospaiva@gmail.com • [LinkedIn](https://www.linkedin.com/in/marllos-p-a383641b2)
-</div>
 
-<script src="assets/theme-toggle.js"></script>
+<!-- Scripts -->
 <script src="assets/scroll-animations.js"></script>
+<script>
+  const toggleBtn = document.getElementById('theme-toggle');
+  const icon = toggleBtn.querySelector('.toggle-icon');
+  const root = document.documentElement;
+
+  // Load saved theme or system preference
+  const savedTheme = localStorage.getItem('theme');
+  if (savedTheme === 'dark') {
+    root.classList.add('dark'); icon.textContent = '☀️';
+  } else if (savedTheme === 'light') {
+    root.classList.remove('dark'); icon.textContent = '🌙';
+  } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    root.classList.add('dark'); icon.textContent = '☀️';
+  }
+
+  // Toggle on click
+  toggleBtn.addEventListener('click', () => {
+    const isDark = root.classList.toggle('dark');
+    if(isDark){ localStorage.setItem('theme','dark'); icon.textContent='☀️'; }
+    else { localStorage.setItem('theme','light'); icon.textContent='🌙'; }
+  });
+</script>
