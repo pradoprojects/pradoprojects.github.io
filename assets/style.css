@@ -1,4 +1,4 @@
-/* Modern Figma-Clean UX Portfolio — Final */
+/* Modern Figma-Clean UX Portfolio — Final Premium */
 
 /* Variables */
 :root{
@@ -32,7 +32,6 @@
 
 /* Reset & Body */
 * { box-sizing: border-box; }
-
 body{
   margin:0 auto;
   padding:40px 28px;
@@ -42,11 +41,7 @@ body{
   background:var(--bg);
   line-height:1.65;
   scroll-behavior: smooth;
-  opacity: 0;
-  animation: fadeInBody var(--fade-duration) ease forwards;
 }
-
-@keyframes fadeInBody { to { opacity:1; } }
 
 /* Headings */
 h1{ font-size:2.2rem; font-weight:700; margin-bottom:10px; line-height:1.22; letter-spacing:-0.02em; }
@@ -73,11 +68,16 @@ h3{ font-size:1.15rem; font-weight:600; margin:14px 0 10px; line-height:1.35; }
   box-shadow:0 8px 24px var(--shadow-light);
   display:flex;
   flex-direction:column;
-  transition:transform .25s ease, box-shadow .25s ease;
+  transition:transform .35s ease, box-shadow .35s ease, opacity .35s ease;
   opacity:0;
+  transform: scale(0.95);
 }
-.card.fade-in{ opacity:0; transform: scale(0.97); }
-.card:hover{ transform:translateY(-8px); box-shadow:0 12px 36px var(--shadow-hover); }
+
+/* Hover */
+.card:hover{
+  transform:translateY(-8px) scale(1.02);
+  box-shadow:0 12px 36px var(--shadow-hover);
+}
 
 /* Thumbnails */
 .thumb-wrap{
