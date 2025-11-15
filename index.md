@@ -39,8 +39,7 @@ but my design decisions always begin with people, not features.
 _Quick, visual, easy to scan. Full case studies coming soon._
 
 <div class="grid-container">
-
-<div class="card">
+<div class="card fade-in">
   <div class="thumb-wrap">
     <img src="assets/case-apb-thumb.png" alt="Project APB thumbnail">
   </div>
@@ -51,7 +50,7 @@ _Quick, visual, easy to scan. Full case studies coming soon._
   <span class="card-cta disabled">Case study coming soon</span>
 </div>
 
-<div class="card">
+<div class="card fade-in">
   <div class="thumb-wrap">
     <img src="assets/case-selfthumb.png" alt="Self-Learning App thumbnail">
   </div>
@@ -61,7 +60,6 @@ _Quick, visual, easy to scan. Full case studies coming soon._
   <p class="meta"><strong>Focus:</strong> how early feedback shaped the design</p>
   <span class="card-cta disabled">Case study coming soon</span>
 </div>
-
 </div>
 
 ---
