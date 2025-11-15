@@ -1,21 +1,13 @@
-document.addEventListener("DOMContentLoaded", () => {
-  const elements = document.querySelectorAll('.card, h1, h2');
+document.addEventListener('DOMContentLoaded', function(){
+  const elements = document.querySelectorAll('.card, h1, h2, h3');
 
-  const observerOptions = { threshold: 0.15 };
-
-  const observer = new IntersectionObserver((entries, obs) => {
-    entries.forEach(entry => {
+  const observer = new IntersectionObserver((entries)=>{
+    entries.forEach(entry=>{
       if(entry.isIntersecting){
-        entry.target.style.opacity = '1';
-        entry.target.style.transform = 'scale(1) translateY(0)';
-        obs.unobserve(entry.target);
+        entry.target.classList.add('show');
       }
     });
-  }, observerOptions);
+  }, { threshold:0.15 });
 
-  elements.forEach(el => {
-    el.style.opacity = '0';
-    el.style.transform = 'scale(0.95) translateY(10px)';
-    observer.observe(el);
-  });
+  elements.forEach(el => observer.observe(el));
 });
