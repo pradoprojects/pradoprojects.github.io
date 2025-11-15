@@ -1,13 +1,20 @@
-remote_theme: daattali/beautiful-jekyll
-avatar: "lZgWcQEQ_400x400.jpg"
-description: Personal Website
-title: Home
+title: "Marllos Prado — UX Portfolio"
+description: "UX & Product Designer — Portfólio profissional"
+baseurl: ""   # deixe vazio se este for o repositório principal do GitHub Pages
+url: "https://pradoprojects.github.io"  # troque pelo seu URL real
 
-navbar-links:
-  Bio: "#bio"
-  Portfolio: "#portfolio"
-  What's UX: "#UX"
-  Readings: "#Readings"
+theme: null   # importante: desativa o tema padrão do GitHub Pages
+markdown: kramdown
 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
+# Faz o Jekyll copiar a pasta assets
+include:
+  - assets
 
+# Deixa as URLs mais limpas
+permalink: pretty
+
+# Google Fonts ou outras configs opcionais no futuro
