@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+
+  <!-- SEO + Social -->
+  {% seo %}
+
+  <!-- Google Fonts: Inter (clean, moderno, usado em produtos reais) -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Main CSS -->
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+
+  <style>
+    /* Fade-in animation for modern feel */
+    body {
+      opacity: 0;
+      animation: fadeIn .6s ease forwards;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(6px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Global link hover underline animation */
+    a {
+      position: relative;
+    }
+    a::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: -2px;
+      width: 0%;
+      height: 2px;
+      background: var(--accent);
+      transition: width .25s ease;
+    }
+    a:hover::after {
+      width: 100%;
+    }
+  </style>
+</head>
+
+<body>
+
+  <main class="content">
+    {{ content }}
+  </main>
+
+  <footer style="margin-top: 60px; padding: 30px 0; color:#6b7280; font-size:0.9rem; text-align:center;">
+    © {{ site.time | date: '%Y' }} Marllos Prado • Built with care
+  </footer>
+
+</body>
+</html>
