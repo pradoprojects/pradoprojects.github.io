@@ -281,3 +281,93 @@ hr {
     font-size: 1.75rem;
   }
 }
+
+
+/* -------------------------------------------------
+   Dark Mode (Automatic)
+   Triggered via prefers-color-scheme: dark
+---------------------------------------------------- */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0f172a;              /* navy-900 */
+    --card-bg: #1e293b;         /* slate-800 */
+    --surface: #1c2535;         /* subtle layered surface */
+
+    --text: #f1f5f9;            /* slate-50 */
+    --muted: #94a3b8;           /* slate-400 */
+
+    --accent: #60a5fa;          /* blue-400 */
+    --accent-hover: #3b82f6;    /* blue-500 */
+
+    --shadow-xs: rgba(0, 0, 0, 0.25);
+    --shadow-sm: rgba(0, 0, 0, 0.35);
+    --shadow-md: rgba(0, 0, 0, 0.45);
+  }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+  }
+
+  h1, h2, h3 {
+    color: var(--text);
+  }
+
+  /* Accent underline in dark mode (less bright, smoother) */
+  h2::after {
+    background: var(--accent);
+    opacity: 0.85;
+  }
+
+  /* Card refinement */
+  .card {
+    background: var(--card-bg);
+    box-shadow: 0 6px 22px var(--shadow-sm);
+  }
+
+  .card:hover {
+    box-shadow: 0 12px 32px var(--shadow-md);
+  }
+
+  /* Thumbnails */
+  .thumb-wrap {
+    background: var(--surface);
+  }
+
+  /* Meta text */
+  .meta {
+    color: var(--muted);
+  }
+
+  /* CTA buttons */
+  .card-cta {
+    background: var(--accent);
+    color: #0f172a;
+  }
+
+  .card-cta:hover {
+    background: var(--accent-hover);
+  }
+
+  .card-cta.disabled {
+    background: rgba(148, 163, 184, 0.35);
+    color: var(--muted);
+  }
+
+  /* Divider */
+  hr {
+    border-top-color: #334155; /* slate-700 */
+  }
+
+  /* General links */
+  a {
+    color: var(--accent);
+  }
+  a:hover {
+    color: var(--accent-hover);
+  }
+
+  /* Focus ring (dark mode tuned) */
+  :focus-visible {
+    outline-color: var(--accent);
+  }
