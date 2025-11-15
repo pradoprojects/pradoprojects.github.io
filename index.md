@@ -65,4 +65,35 @@ _Quick, visual, easy to scan. Full case studies coming soon._
 
 <div class="card fade-in">
   <div class="thumb-wrap">
-    <i
+    <img src="assets/case-selfthumb.png" alt="Self-Learning App thumbnail">
+  </div>
+  <h3>Self-Learning App — Mobile UX</h3>
+  <p class="muted">A concept app that helps users learn new skills at their own pace through simple navigation and a clear task flow.</p>
+  <p class="meta"><strong>Skills:</strong> wireframes · flows · usability considerations</p>
+  <p class="meta"><strong>Focus:</strong> how early feedback shaped the design</p>
+  <span class="card-cta disabled">Case study coming soon</span>
+</div>
+</div>
+</section>
+
+<section id="growth">
+## What I’m Improving
+- Visual design fundamentals and layout clarity  
+- Faster, more intentional prototyping in Figma  
+- Usability testing → synthesis → decision-making  
+- Studying real products to understand interaction patterns  
+</section>
+
+<section id="tools">
+## Tools
+Figma • Miro • Basic HTML/CSS • GitHub • Pen & Paper
+</section>
+
+<section id="contact">
+## Let’s Connect  
+Whether you’re a recruiter, designer, or someone curious about my work — welcome.  
+📩 marllospaiva@gmail.com • [LinkedIn](https://www.linkedin.com/in/marllos-p-a383641b2)
+</section>
+
+<script src="assets/theme-toggle.js"></script>
+<script src="assets/scroll-animations.js"></script>
