@@ -9,19 +9,6 @@ title: Marllos Prado — UX Portfolio
 
 <link rel="stylesheet" href="assets/style.css">
 
-<!-- Top-bar menu -->
-<nav id="top-bar">
-  <ul>
-    <li><a href="#about" class="nav-link">About</a></li>
-    <li><a href="#approach" class="nav-link">Approach</a></li>
-    <li><a href="#projects" class="nav-link">Projects</a></li>
-    <li><a href="#growth" class="nav-link">Growth</a></li>
-    <li><a href="#tools" class="nav-link">Tools</a></li>
-    <li><a href="#contact" class="nav-link">Contact</a></li>
-  </ul>
-</nav>
-
-<section id="about">
 # Hi, I’m Marllos  
 ### Early-career UX & Product Designer  
 Focused on clarity, accessibility, and thoughtful problem-solving.
@@ -30,9 +17,9 @@ I’m building a design career shaped by hands-on learning, multicultural experi
 I’m drawn to roles with mentorship, collaboration, and real product impact — environments where curiosity and intention matter.
 
 I care about creating interfaces that feel intuitive, calm, and accessible, especially for people who don’t consider themselves “techy.”
-</section>
 
-<section id="approach">
+---
+
 ## How I Think
 
 ### Simplifying complexity  
@@ -45,14 +32,15 @@ These experiences help me identify friction and design for comfort, not just fun
 ### Human-first, tech-aware  
 My computer science background helps me understand constraints and feasibility,  
 but my design decisions always begin with people, not features.
-</section>
 
-<section id="projects">
+---
+
 ## Featured Work  
 _Quick, visual, easy to scan. Full case studies coming soon._
 
 <div class="grid-container">
-<div class="card fade-in">
+
+<div class="card">
   <div class="thumb-wrap">
     <img src="assets/case-apb-thumb.png" alt="Project APB thumbnail">
   </div>
@@ -63,7 +51,7 @@ _Quick, visual, easy to scan. Full case studies coming soon._
   <span class="card-cta disabled">Case study coming soon</span>
 </div>
 
-<div class="card fade-in">
+<div class="card">
   <div class="thumb-wrap">
     <img src="assets/case-selfthumb.png" alt="Self-Learning App thumbnail">
   </div>
@@ -73,27 +61,27 @@ _Quick, visual, easy to scan. Full case studies coming soon._
   <p class="meta"><strong>Focus:</strong> how early feedback shaped the design</p>
   <span class="card-cta disabled">Case study coming soon</span>
 </div>
-</div>
-</section>
 
-<section id="growth">
+</div>
+
+---
+
 ## What I’m Improving
 - Visual design fundamentals and layout clarity  
 - Faster, more intentional prototyping in Figma  
 - Usability testing → synthesis → decision-making  
 - Studying real products to understand interaction patterns  
-</section>
 
-<section id="tools">
+---
+
 ## Tools
 Figma • Miro • Basic HTML/CSS • GitHub • Pen & Paper
-</section>
 
-<section id="contact">
+---
+
 ## Let’s Connect  
 Whether you’re a recruiter, designer, or someone curious about my work — welcome.  
 📩 marllospaiva@gmail.com • [LinkedIn](https://www.linkedin.com/in/marllos-p-a383641b2)
-</section>
 
 <script src="assets/theme-toggle.js"></script>
 <script src="assets/scroll-animations.js"></script>
