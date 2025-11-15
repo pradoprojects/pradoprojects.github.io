@@ -20,8 +20,10 @@ I care about creating interfaces that feel intuitive, calm, and accessible, espe
 
 ---
 
-<div class="section-label fade-in-section">Approach</div>
+<div class="section-label">Approach</div>
 ## How I Think
+
+<div class="fade-in-section">
 
 ### Simplifying complexity  
 Teaching programming to teenagers showed me how to break down abstract concepts into clear, approachable steps — a skill that directly shapes how I build interfaces and structure information.
@@ -34,9 +36,9 @@ These experiences help me identify friction and design for comfort, not just fun
 My computer science background helps me understand constraints and feasibility,  
 but my design decisions always begin with people, not features.
 
----
+</div>
 
-<div class="section-label fade-in-section">Projects</div>
+<div class="section-label">Projects</div>
 ## Featured Work  
 _Quick, visual, easy to scan. Full case studies coming soon._
 
@@ -68,27 +70,29 @@ _Quick, visual, easy to scan. Full case studies coming soon._
 
 ---
 
-<div class="section-label fade-in-section">Growth</div>
+<div class="section-label">Growth</div>
 ## What I’m Improving
+<div class="fade-in-section">
 - Visual design fundamentals and layout clarity  
 - Faster, more intentional prototyping in Figma  
 - Usability testing → synthesis → decision-making  
 - Studying real products to understand interaction patterns  
+</div>
 
 ---
 
-<div class="section-label fade-in-section">Tools</div>
+<div class="section-label">Tools</div>
 ## Tools
-Figma • Miro • Basic HTML/CSS • GitHub • Pen & Paper
+<div class="fade-in-section">Figma • Miro • Basic HTML/CSS • GitHub • Pen & Paper</div>
 
 ---
 
-<div class="section-label fade-in-section">Contact</div>
+<div class="section-label">Contact</div>
 ## Let’s Connect  
+<div class="fade-in-section">
 Whether you’re a recruiter, designer, or someone curious about my work — welcome.  
 📩 marllospaiva@gmail.com • [LinkedIn](https://www.linkedin.com/in/marllos-p-a383641b2)
+</div>
 
-
-<script src="assets/scroll-animations.js"></script>
 <script src="assets/theme-toggle.js"></script>
-
+<script src="assets/scroll-animations.js"></script>
