@@ -9,6 +9,19 @@ title: Marllos Prado — UX Portfolio
 
 <link rel="stylesheet" href="assets/style.css">
 
+<!-- Top-bar menu -->
+<nav id="top-bar">
+  <ul>
+    <li><a href="#about" class="nav-link">About</a></li>
+    <li><a href="#approach" class="nav-link">Approach</a></li>
+    <li><a href="#projects" class="nav-link">Projects</a></li>
+    <li><a href="#growth" class="nav-link">Growth</a></li>
+    <li><a href="#tools" class="nav-link">Tools</a></li>
+    <li><a href="#contact" class="nav-link">Contact</a></li>
+  </ul>
+</nav>
+
+<section id="about">
 # Hi, I’m Marllos  
 ### Early-career UX & Product Designer  
 Focused on clarity, accessibility, and thoughtful problem-solving.
@@ -17,9 +30,9 @@ I’m building a design career shaped by hands-on learning, multicultural experi
 I’m drawn to roles with mentorship, collaboration, and real product impact — environments where curiosity and intention matter.
 
 I care about creating interfaces that feel intuitive, calm, and accessible, especially for people who don’t consider themselves “techy.”
+</section>
 
----
-
+<section id="approach">
 ## How I Think
 
 ### Simplifying complexity  
@@ -32,15 +45,14 @@ These experiences help me identify friction and design for comfort, not just fun
 ### Human-first, tech-aware  
 My computer science background helps me understand constraints and feasibility,  
 but my design decisions always begin with people, not features.
+</section>
 
----
-
+<section id="projects">
 ## Featured Work  
 _Quick, visual, easy to scan. Full case studies coming soon._
 
 <div class="grid-container">
-
-<div class="card">
+<div class="card fade-in">
   <div class="thumb-wrap">
     <img src="assets/case-apb-thumb.png" alt="Project APB thumbnail">
   </div>
@@ -51,37 +63,6 @@ _Quick, visual, easy to scan. Full case studies coming soon._
   <span class="card-cta disabled">Case study coming soon</span>
 </div>
 
-<div class="card">
+<div class="card fade-in">
   <div class="thumb-wrap">
-    <img src="assets/case-selfthumb.png" alt="Self-Learning App thumbnail">
-  </div>
-  <h3>Self-Learning App — Mobile UX</h3>
-  <p class="muted">A concept app that helps users learn new skills at their own pace through simple navigation and a clear task flow.</p>
-  <p class="meta"><strong>Skills:</strong> wireframes · flows · usability considerations</p>
-  <p class="meta"><strong>Focus:</strong> how early feedback shaped the design</p>
-  <span class="card-cta disabled">Case study coming soon</span>
-</div>
-
-</div>
-
----
-
-## What I’m Improving
-- Visual design fundamentals and layout clarity  
-- Faster, more intentional prototyping in Figma  
-- Usability testing → synthesis → decision-making  
-- Studying real products to understand interaction patterns  
-
----
-
-## Tools
-Figma • Miro • Basic HTML/CSS • GitHub • Pen & Paper
-
----
-
-## Let’s Connect  
-Whether you’re a recruiter, designer, or someone curious about my work — welcome.  
-📩 marllospaiva@gmail.com • [LinkedIn](https://www.linkedin.com/in/marllos-p-a383641b2)
-
-<script src="assets/theme-toggle.js"></script>
-<script src="assets/scroll-animations.js"></script>
+    <i
