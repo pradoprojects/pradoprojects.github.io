@@ -7,17 +7,15 @@
   <title>{{ page.title }} | {{ site.title }}</title>
   <meta name="description" content="{{ page.description | default: site.description }}">
 
-  <!-- SEO + Social -->
   {% seo %}
 
-  <!-- Google Fonts: Inter (clean, moderno, usado em produtos reais) -->
+  <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
   <!-- Main CSS -->
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 
   <style>
-    /* Fade-in animation for modern feel */
     body {
       opacity: 0;
       animation: fadeIn .6s ease forwards;
@@ -28,7 +26,6 @@
       to   { opacity: 1; transform: translateY(0); }
     }
 
-    /* Global link hover underline animation */
     a {
       position: relative;
     }
