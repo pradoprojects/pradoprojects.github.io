@@ -3,6 +3,10 @@ layout: default
 title: Marllos Prado — UX Portfolio
 ---
 
+<button id="theme-toggle" aria-label="Ativar tema escuro" aria-pressed="false">
+  <span class="toggle-icon">🌙</span>
+</button>
+
 <!-- TOP MENU -->
 <nav id="top-menu">
   <button id="menu-toggle" aria-label="Abrir menu">☰</button>
@@ -15,10 +19,6 @@ title: Marllos Prado — UX Portfolio
     <li><a href="#contact">Contact</a></li>
   </ul>
 </nav>
-
-<button id="theme-toggle" aria-label="Ativar tema escuro" aria-pressed="false">
-  <span class="toggle-icon">🌙</span>
-</button>
 
 <!-- HOME -->
 <section id="home">
