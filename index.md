@@ -23,15 +23,21 @@ title: Marllos Prado — UX Portfolio
 ## How I Think 💡
 
 ### Simplifying complexity
-<div class="card" align="center">
-  <img src="assets/logo_instructor.png" width="50%" />
-  <div> Teaching basic programming to teenagers showed me how to break down abstract concepts into clear, approachable steps — a skill that directly shapes how I build interfaces and structure information.</div>
+<div class="think-row">
+  <img src="assets/logo_instructor.png" class="think-img" />
+  <div class="think-text">
+    Teaching basic programming to teenagers showed me how to break down abstract concepts into clear, approachable steps — 
+    a skill that directly shapes how I build interfaces and structure information.
+  </div>
 </div>
 
 ### Designing with empathy
-<div class="card" align="center">
-  <img src="assets/logo_caregiver.png" width="50%" />
-  <div> Working with people of different ages and cognitive/physical needs strengthened my observation skills, patience, and adaptability. These experiences help me identify friction and design for comfort, not just functionality.</div>
+<div class="think-row">
+  <img src="assets/logo_caregiver.png" class="think-img" />
+  <div class="think-text">
+    Working with people of different ages and cognitive/physical needs strengthened my observation skills, patience, 
+    and adaptability. These experiences help me identify friction and design for comfort, not just functionality.
+  </div>
 </div>
 
 ### Human-first, tech-aware  
