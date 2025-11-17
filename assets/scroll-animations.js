@@ -44,16 +44,9 @@ document.addEventListener('DOMContentLoaded', () => {
     /* ------------------------------- */
     const menuToggle = document.getElementById('menu-toggle');
     const topMenuUl = document.querySelector('#top-menu ul');
-
     if(menuToggle){
         menuToggle.addEventListener('click', ()=>{
-            if(topMenuUl.classList.contains('show')){
-                topMenuUl.style.opacity = 0;
-                setTimeout(()=> topMenuUl.classList.remove('show'), 300);
-            } else {
-                topMenuUl.classList.add('show');
-                setTimeout(()=> topMenuUl.style.opacity = 1, 10);
-            }
+            topMenuUl.classList.toggle('show');
         });
     }
 });
