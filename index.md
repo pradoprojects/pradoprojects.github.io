@@ -31,7 +31,7 @@ title: Marllos Prado — UX Portfolio
 
 <div class="card" align="center">
   <img src="assets/logo_instructor.png" width="50%" align="right" />
-  <div>Teaching programming to teenagers showed me how to break down abstract concepts into clear, approachable steps — a skill that directly shapes how I build interfaces and structure information.</div>
+  <div> Teaching basic programming to teenagers showed me how to break down abstract concepts into clear, approachable steps — a skill that directly shapes how I build interfaces and structure information.</div>
 </div>
 
 
@@ -40,8 +40,7 @@ title: Marllos Prado — UX Portfolio
 
 <div class="card" align="center">
   <img src="assets/logo_caregiver.png" width="50%" align="right" />
-  <div>working with people of different ages and cognitive/physical needs strengthened my observation skills, patience, and adaptability.  
-These experiences help me identify friction and design for comfort, not just functionality.</div>
+  <div> Working with people of different ages and cognitive/physical needs strengthened my observation skills, patience, and adaptability. These experiences help me identify friction and design for comfort, not just functionality.</div>
 </div>
 
 
