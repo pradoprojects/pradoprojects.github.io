@@ -3,11 +3,23 @@ layout: default
 title: Marllos Prado — UX Portfolio
 ---
 
+<!-- Top Navigation Menu -->
+<nav id="top-menu">
+  <ul>
+    <li><a href="#home">Home</a></li>
+    <li><a href="#how-i-think">How I Think</a></li>
+    <li><a href="#featured-work">Featured Work</a></li>
+    <li><a href="#improving">Improving</a></li>
+    <li><a href="#tools">Tools</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</nav>
+
 <button id="theme-toggle" aria-label="Ativar tema escuro" aria-pressed="false">
   <span class="toggle-icon">🌙</span>
 </button>
 
-# Hi, I’m Marllos 👋
+<h1 id="home">Hi, I’m Marllos 👋</h1>
 ### Early-career UX & Product Designer | Focused on clarity and thoughtful problem-solving.
 
 > #### I’m building a career shaped by *continuous learning*, *multicultural experiences*, and bringing the *human front & center* to each decision.
@@ -22,6 +34,7 @@ title: Marllos Prado — UX Portfolio
 ---
 
 ## How I Think 💡
+<a id="how-i-think"></a>
 
 ### Simplifying complexity
 <div class="think-row">
@@ -50,6 +63,7 @@ title: Marllos Prado — UX Portfolio
 ---
 
 ## Featured Work 🎬
+<a id="featured-work"></a>
 _Quick, visual, easy to scan. Full case studies coming soon._
 
 <div class="grid-container">
@@ -81,6 +95,7 @@ _Quick, visual, easy to scan. Full case studies coming soon._
 ---
 
 ## What I’m Improving 🧱
+<a id="improving"></a>
 - Visual design fundamentals and layout clarity  
 - Faster, more intentional prototyping in Figma  
 - Usability testing → synthesis → decision-making  
@@ -89,11 +104,13 @@ _Quick, visual, easy to scan. Full case studies coming soon._
 ---
 
 ## Tools 🛠
+<a id="tools"></a>
 Figma • Miro • Basic HTML/CSS • GitHub • Pen & Paper  
 
 ---
 
 ## Let’s Connect 🤝
+<a id="contact"></a>
 Whether you’re a recruiter, designer, or someone curious about my work — welcome.
 
 marllospaiva@gmail.com • [LinkedIn](https://www.linkedin.com/in/marllos-p-a383641b2)
