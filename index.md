@@ -24,7 +24,7 @@ title: Marllos Prado — UX Portfolio
 
 
 #### *... But what does it mean?*
-> It means I care about crafting interfaces that feel intuitive, calm, and accessible, especially for people who don’t consider themselves “techy.”
+> It means I care about crafting UI/UX that feels intuitive, calm, and accessible — especially for people who don’t consider themselves “techy.”
 
 ---
 
