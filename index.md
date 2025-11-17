@@ -40,10 +40,11 @@ title: Marllos Prado — UX Portfolio
 
 <div class="card" align="center">
   <img src="assets/logo_caregiver.png" width="50%" align="right" />
+  <p> Working with people of different ages and cognitive/physical needs strengthened my observation skills, patience, and adaptability.  
+These experiences help me identify friction and design for comfort, not just functionality.</p>
 </div>
 
-Working with people of different ages and cognitive/physical needs strengthened my observation skills, patience, and adaptability.  
-These experiences help me identify friction and design for comfort, not just functionality.
+
 
 ### Human-first, tech-aware  
 My computer science background helps me understand constraints and feasibility,  
