@@ -12,18 +12,18 @@ title: Marllos Prado — UX Portfolio
 # Hi, I’m Marllos 👋 
 ### Early-career UX & Product Designer focused on clarity and thoughtful problem-solving.
 
-#### *_I’m building a career shaped by continuous learning, multicultural experiences, and bringing the human front & centered at each decision..._*  
-<div align="center">
+#### *I’m building a career shaped by continuous learning, multicultural experiences, and bringing the human front & centered at each decision...*  
+<div class="card" align="center">
 <img src="uxlogo.png" width="100%" align="right" />
 <p>  
-.
+
 </p>
 </div>
 
 
 
 
-#### *_... But what does it mean?_*
+#### *... But what does it mean?*
 > It means I care about crafting interfaces that feel intuitive, calm, and accessible, especially for people who don’t consider themselves “techy.”
 
 ---
