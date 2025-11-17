@@ -10,7 +10,7 @@ title: Marllos Prado — UX Portfolio
 </button>
 
 # Hi, I’m Marllos 👋 
-### Early-career UX & Product Designer focused on clarity and thoughtful problem-solving.
+### Early-career UX & Product Designer | Focused on clarity and thoughtful problem-solving.
 
 > #### I’m building a career shaped by *continuous learning*, *multicultural experiences*, and bringing the *human front & center* to each decision.  
 <div class="card" align="center">
