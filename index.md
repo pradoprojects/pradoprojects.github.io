@@ -27,11 +27,9 @@ title: Marllos Prado — UX Portfolio
   <blockquote>
     <h4>I’m building a career shaped by <em>continuous learning</em>, <em>multicultural experiences</em>, and bringing the <em>human front & center</em> to each decision.</h4>
   </blockquote>
-
   <div class="card" align="center">
     <img src="assets/uxlogo_r.png" width="100%" />
   </div>
-
   <h4><em>... But what does it mean?</em></h4>
   <blockquote>
     It means I care about crafting UI/UX that feels intuitive, calm, and accessible — especially for people who don’t consider themselves “techy.”
@@ -123,3 +121,4 @@ title: Marllos Prado — UX Portfolio
 
 <script src="assets/theme-toggle.js"></script>
 <script src="assets/scroll-animations.js"></script>
+
