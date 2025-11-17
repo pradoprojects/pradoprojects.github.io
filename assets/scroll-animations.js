@@ -12,36 +12,27 @@ document.addEventListener('DOMContentLoaded', () => {
         return;
     }
 
-    /* ------------------------------- */
-    /* CARD FADE/ZOOM EFFECT            */
-    /* ------------------------------- */
+    // Cards fade/zoom
     const cardObserver = new IntersectionObserver(entries => {
         entries.forEach(entry => {
             if (entry.isIntersecting) entry.target.classList.add('show');
         });
     }, { threshold: 0.15 });
-
     cards.forEach(card => cardObserver.observe(card));
 
-    /* ------------------------------- */
-    /* HOW I THINK SLIDE-IN            */
-    /* ------------------------------- */
+    // How I Think slide-in
     thinkRows.forEach((row, index) => {
         if (index % 2 === 0) row.classList.add('slide-in-left');
         else row.classList.add('slide-in-right');
     });
-
     const thinkObserver = new IntersectionObserver(entries => {
         entries.forEach(entry => {
             if (entry.isIntersecting) entry.target.classList.add('show');
         });
     }, { threshold: 0.2 });
-
     thinkRows.forEach(row => thinkObserver.observe(row));
 
-    /* ------------------------------- */
-    /* HAMBURGER MENU TOGGLE           */
-    /* ------------------------------- */
+    // Hamburger menu toggle
     const menuToggle = document.getElementById('menu-toggle');
     const topMenuUl = document.querySelector('#top-menu ul');
     if(menuToggle){
