@@ -30,12 +30,17 @@ title: Marllos Prado — UX Portfolio
 ### Simplifying complexity
 
 <div class="card" align="center">
-  <img src="assets/uxlogo_r.png" width="100%" align="right" />
+  <img src="assets/logo_instructor.png" width="50%" align="right" />
 </div>
 
 Teaching programming to teenagers showed me how to break down abstract concepts into clear, approachable steps — a skill that directly shapes how I build interfaces and structure information.
 
-### Designing with empathy  
+### Designing with empathy
+
+<div class="card" align="center">
+  <img src="assets/logo_caregiver.png" width="50%" align="right" />
+</div>
+
 Working with people of different ages and cognitive/physical needs strengthened my observation skills, patience, and adaptability.  
 These experiences help me identify friction and design for comfort, not just functionality.
 
