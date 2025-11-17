@@ -43,4 +43,18 @@ document.addEventListener('DOMContentLoaded', () => {
     }, { threshold: 0.2 });
 
     thinkRows.forEach(row => thinkObserver.observe(row));
+
+    /* -------------------------------------------- */
+    /* SMOOTH SCROLL FOR MENU LINKS                 */
+    /* -------------------------------------------- */
+    const menuLinks = document.querySelectorAll('#top-menu a');
+    menuLinks.forEach(link => {
+        link.addEventListener('click', e => {
+            e.preventDefault();
+            const target = document.querySelector(link.getAttribute('href'));
+            if(target){
+                target.scrollIntoView({ behavior:'smooth' });
+            }
+        });
+    });
 });
