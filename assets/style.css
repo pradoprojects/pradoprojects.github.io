@@ -173,4 +173,39 @@ hr{ border:0; border-top:1px solid #e5e7eb; margin:42px 0; }
 /* Utility */
 .align-right { float:right; margin-left:18px; max-width:48%; }
 
+/* ---------------------------------------- */
+/*  NEW: IMAGE → TEXT SIDE-BY-SIDE (How I Think) */
+/* ---------------------------------------- */
+
+.think-row{
+  display:flex;
+  align-items:center;
+  gap:18px;
+  margin:20px 0 36px;
+}
+
+.think-img{
+  width:140px;
+  max-width:45%;
+  border-radius:12px;
+}
+
+.think-text{
+  flex:1;
+  font-size:1rem;
+  line-height:1.55;
+}
+
+/* Mobile layout = stack */
+@media(max-width:768px){
+  .think-row{
+    flex-direction:column;
+    text-align:center;
+  }
+
+  .think-img{
+    width:60%;
+  }
+}
+
 /* End */
