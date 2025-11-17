@@ -3,9 +3,7 @@ layout: default
 title: Marllos Prado — UX Portfolio
 ---
 
-<link rel="stylesheet" href="assets/style.css">
-
-<button id="theme-toggle" aria-label="Toggle dark mode">
+<button id="theme-toggle" aria-label="Ativar tema escuro" aria-pressed="false">
   <span class="toggle-icon">🌙</span>
 </button>
 
@@ -14,11 +12,8 @@ title: Marllos Prado — UX Portfolio
 
 > #### I’m building a career shaped by *continuous learning*, *multicultural experiences*, and bringing the *human front & center* to each decision.  
 <div class="card" align="center">
-  <img src="assets/uxlogo_r.png" width="100%" align="right" />
+  <img src="assets/uxlogo_r.png" width="100%" />
 </div>
-
-
-
 
 #### *... But what does it mean?*
 > It means I care about crafting UI/UX that feels intuitive, calm, and accessible — especially for people who don’t consider themselves “techy.”
@@ -28,22 +23,16 @@ title: Marllos Prado — UX Portfolio
 ## How I Think 💡
 
 ### Simplifying complexity
-
 <div class="card" align="center">
-  <img src="assets/logo_instructor.png" width="50%" align="right" />
+  <img src="assets/logo_instructor.png" width="50%" />
   <div> Teaching basic programming to teenagers showed me how to break down abstract concepts into clear, approachable steps — a skill that directly shapes how I build interfaces and structure information.</div>
 </div>
 
-
-
 ### Designing with empathy
-
 <div class="card" align="center">
-  <img src="assets/logo_caregiver.png" width="50%" align="right" />
+  <img src="assets/logo_caregiver.png" width="50%" />
   <div> Working with people of different ages and cognitive/physical needs strengthened my observation skills, patience, and adaptability. These experiences help me identify friction and design for comfort, not just functionality.</div>
 </div>
-
-
 
 ### Human-first, tech-aware  
 My computer science background helps me understand constraints and feasibility,  
