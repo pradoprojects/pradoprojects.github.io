@@ -20,7 +20,6 @@ title: Marllos Prado — UX Portfolio
   </ul>
 </nav>
 
-<!-- HOME -->
 <section id="home">
   <h1>Hi, I’m Marllos 👋</h1>
   <h3>Early-career UX & Product Designer | Focused on clarity and thoughtful problem-solving.</h3>
@@ -38,7 +37,6 @@ title: Marllos Prado — UX Portfolio
   </blockquote>
 </section>
 
-<!-- HOW I THINK -->
 <section id="how-i-think">
   <h2>How I Think 💡</h2>
 
@@ -67,7 +65,6 @@ title: Marllos Prado — UX Portfolio
   </div>
 </section>
 
-<!-- FEATURED WORK -->
 <section id="featured-work">
   <h2>Featured Work 🎬</h2>
   <p><em>Quick, visual, easy to scan. Full case studies coming soon.</em></p>
@@ -97,7 +94,6 @@ title: Marllos Prado — UX Portfolio
   </div>
 </section>
 
-<!-- IMPROVING -->
 <section id="improving">
   <h2>What I’m Improving 🧱</h2>
   <ul>
@@ -108,13 +104,11 @@ title: Marllos Prado — UX Portfolio
   </ul>
 </section>
 
-<!-- TOOLS -->
 <section id="tools">
   <h2>Tools 🛠</h2>
   <p>Figma • Miro • Basic HTML/CSS • GitHub • Pen & Paper</p>
 </section>
 
-<!-- CONTACT -->
 <section id="contact">
   <h2>Let’s Connect 🤝</h2>
   <p>Whether you’re a recruiter, designer, or someone curious about my work — welcome.</p>
