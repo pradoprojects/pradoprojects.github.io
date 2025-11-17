@@ -1,98 +1,89 @@
-/* --- Mantém todo o CSS original --- */
+/* Original CSS + How I Think animations + Top Menu Hamburger */
 
-/* --- Top Menu Floating & Mobile Hamburger --- */
-#top-menu {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  background: rgba(255, 255, 255, 0.95);
-  backdrop-filter: blur(10px);
-  z-index: 999;
-  padding: 10px 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  box-shadow: 0 2px 6px var(--shadow-light);
-  transition: background 0.3s ease;
+/* Variables */
+:root{
+  --max-width: 1200px;
+  --bg: #f9f9f9;
+  --card-bg: #ffffff;
+  --muted: #6b7280;
+  --accent: #0f62fe;
+  --text: #111827;
+  --shadow-light: rgba(15,23,42,0.06);
+  --shadow-hover: rgba(15,23,42,0.12);
+  --radius-lg: 16px;
+  --radius-md: 12px;
+  --radius-sm: 8px;
 }
 
-:root.dark #top-menu {
-  background: rgba(30, 30, 30, 0.95);
+/* Dark mode */
+:root.dark {
+  --bg: #121212;
+  --card-bg: #1e1e1e;
+  --text: #f5f5f5;
+  --muted: #a1a1aa;
+  --accent: #3b82f6;
+  --shadow-light: rgba(0,0,0,0.2);
+  --shadow-hover: rgba(0,0,0,0.3);
 }
 
-#top-menu ul {
-  display: flex;
-  gap: 24px;
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  flex-wrap: wrap;
-  transition: opacity 0.35s ease;
+/* Reset & Body */
+*{ box-sizing:border-box; }
+body{
+  margin:0 auto;
+  padding:40px 28px;
+  max-width:var(--max-width);
+  font-family:'Inter', -apple-system, BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+  color:var(--text);
+  background:var(--bg);
+  line-height:1.65;
+  scroll-behavior:smooth;
 }
 
-#top-menu ul li a {
-  text-decoration: none;
-  color: var(--text);
-  font-weight: 600;
-  transition: color 0.2s ease;
-}
-#top-menu ul li a:hover { color: var(--accent); }
+/* Headings */
+h1{ font-size:2.2rem; font-weight:700; margin-bottom:10px; line-height:1.22; }
+h2{ margin-top:48px; font-size:1.55rem; font-weight:600; }
+h3{ font-size:1.15rem; font-weight:600; margin:14px 0 10px; line-height:1.35; }
+h4{ margin:10px 0; }
 
-#menu-toggle {
-  display: none;
-  position: fixed;
-  top: 16px;
-  left: 16px;
-  background: var(--card-bg);
-  border: none;
-  font-size: 1.5rem;
-  padding: 10px;
-  border-radius: 8px;
-  cursor: pointer;
-  z-index: 1000;
-  box-shadow: 0 4px 12px var(--shadow-light);
-  transition: transform 0.2s ease, box-shadow 0.25s ease;
-}
-#menu-toggle:hover {
-  transform: scale(1.1);
-  box-shadow: 0 6px 18px var(--shadow-hover);
+/* Muted text */
+.muted{ color:var(--muted); font-size:0.95rem; margin:6px 0 14px; }
+
+/* Grid */
+.grid-container{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+  gap:28px;
+  margin:28px 0 40px;
 }
 
-#theme-toggle {
-  position: fixed;
-  top: 16px;
-  right: 16px;
-  background: var(--card-bg);
-  border: none;
-  border-radius: 50%;
-  padding: 10px;
-  cursor: pointer;
-  font-size: 1.1rem;
-  box-shadow: 0 4px 12px var(--shadow-light);
-  z-index: 1000;
-  transition: background 0.3s ease, transform 0.2s ease, box-shadow 0.25s ease;
-}
-#theme-toggle:hover {
-  transform: scale(1.1);
-  box-shadow: 0 6px 18px var(--shadow-hover);
+/* Cards */
+.card{
+  background:var(--card-bg);
+  border-radius:var(--radius-lg);
+  padding:20px;
+  box-shadow:0 8px 24px var(--shadow-light);
+  display:flex;
+  flex-direction:column;
+  opacity:0;
+  transform: scale(0.95);
+  transition: transform .35s ease, opacity .35s ease, box-shadow .25s ease;
 }
 
-@media (max-width: 768px) {
-  #top-menu ul {
-    flex-direction: column;
-    text-align: center;
-    max-height: 0;
-    overflow: hidden;
-    opacity: 0;
-    pointer-events: none;
-  }
-  #top-menu ul.show {
-    max-height: 500px;
-    opacity: 1;
-    pointer-events: auto;
-    transition: max-height 0.35s ease, opacity 0.35s ease;
-  }
-  #top-menu { justify-content: flex-start; padding-left: 60px; }
-  #menu-toggle { display: block; }
+.card.show{
+  opacity:1;
+  transform: scale(1);
 }
+
+.card:hover{
+  transform: translateY(-8px) scale(1);
+  box-shadow:0 12px 36px var(--shadow-hover);
+}
+
+/* Thumbnails */
+.thumb-wrap{
+  width:100%;
+  aspect-ratio:16/9;
+  overflow:hidden;
+  border-radius:var(--radius-md);
+  display:flex;
+  align-items:cent
