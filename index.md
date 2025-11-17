@@ -31,9 +31,10 @@ title: Marllos Prado — UX Portfolio
 
 <div class="card" align="center">
   <img src="assets/logo_instructor.png" width="50%" align="right" />
+  <p>Teaching programming to teenagers showed me how to break down abstract concepts into clear, approachable steps — a skill that directly shapes how I build interfaces and structure information.</p>
 </div>
 
-Teaching programming to teenagers showed me how to break down abstract concepts into clear, approachable steps — a skill that directly shapes how I build interfaces and structure information.
+
 
 ### Designing with empathy
 
