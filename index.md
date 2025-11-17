@@ -14,7 +14,7 @@ title: Marllos Prado — UX Portfolio
 
 #### *I’m building a career shaped by continuous learning, multicultural experiences, and bringing the human front & centered at each decision...*  
 <div class="card" align="center">
-<img src="uxlogo.png" width="100%" align="right" />
+<img src="uxlogo_rounded" width="100%" align="right" />
 <p>  
 
 </p>
