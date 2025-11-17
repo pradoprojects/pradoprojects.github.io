@@ -20,10 +20,6 @@ title: Marllos Prado — UX Portfolio
   </ul>
 </nav>
 
-<button id="theme-toggle" aria-label="Ativar tema escuro" aria-pressed="false">
-  <span class="toggle-icon">🌙</span>
-</button>
-
 <!-- HOME -->
 <section id="home">
   <h1>Hi, I’m Marllos 👋</h1>
