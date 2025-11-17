@@ -28,7 +28,7 @@ title: Marllos Prado — UX Portfolio
 
 ---
 
-## How I Think
+## How I Think 💡
 
 ### Simplifying complexity  
 Teaching programming to teenagers showed me how to break down abstract concepts into clear, approachable steps — a skill that directly shapes how I build interfaces and structure information.
@@ -43,7 +43,7 @@ but my design decisions always begin with people, not features.
 
 ---
 
-## Featured Work  
+## Featured Work 🎬 
 _Quick, visual, easy to scan. Full case studies coming soon._
 
 <div class="grid-container">
@@ -74,7 +74,7 @@ _Quick, visual, easy to scan. Full case studies coming soon._
 
 ---
 
-## What I’m Improving
+## What I’m Improving 🧱
 - Visual design fundamentals and layout clarity  
 - Faster, more intentional prototyping in Figma  
 - Usability testing → synthesis → decision-making  
@@ -82,14 +82,14 @@ _Quick, visual, easy to scan. Full case studies coming soon._
 
 ---
 
-## Tools
+## Tools 🛠
 Figma • Miro • Basic HTML/CSS • GitHub • Pen & Paper
 
 ---
 
-## Let’s Connect  
+## Let’s Connect 🤝
 Whether you’re a recruiter, designer, or someone curious about my work — welcome.  
-📩 marllospaiva@gmail.com • [LinkedIn](https://www.linkedin.com/in/marllos-p-a383641b2)
+marllospaiva@gmail.com • [LinkedIn](https://www.linkedin.com/in/marllos-p-a383641b2)
 
 <script src="assets/theme-toggle.js"></script>
 <script src="assets/scroll-animations.js"></script>
