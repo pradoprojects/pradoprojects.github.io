@@ -1,4 +1,3 @@
-@@ -1,125 +1,125 @@
 ---
 layout: default
 title: Marllos Prado — UX Portfolio
