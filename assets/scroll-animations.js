@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     /* ------------------------------- */
-    /* EXISTING CARD FADE/ZOOM EFFECT  */
+    /* CARD FADE/ZOOM EFFECT            */
     /* ------------------------------- */
     const cardObserver = new IntersectionObserver(entries => {
         entries.forEach(entry => {
@@ -23,17 +23,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
     cards.forEach(card => cardObserver.observe(card));
 
-    /* -------------------------------------------- */
-    /* NEW: HOW I THINK — ALTERNATING SLIDE-IN       */
-    /* -------------------------------------------- */
-
-    // 1st = left, 2nd = right, 3rd = left
+    /* ------------------------------- */
+    /* HOW I THINK SLIDE-IN            */
+    /* ------------------------------- */
     thinkRows.forEach((row, index) => {
-        if (index % 2 === 0) {
-            row.classList.add('slide-in-left');
-        } else {
-            row.classList.add('slide-in-right');
-        }
+        if (index % 2 === 0) row.classList.add('slide-in-left');
+        else row.classList.add('slide-in-right');
     });
 
     const thinkObserver = new IntersectionObserver(entries => {
@@ -44,17 +39,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
     thinkRows.forEach(row => thinkObserver.observe(row));
 
-    /* -------------------------------------------- */
-    /* SMOOTH SCROLL FOR MENU LINKS                 */
-    /* -------------------------------------------- */
-    const menuLinks = document.querySelectorAll('#top-menu a');
-    menuLinks.forEach(link => {
-        link.addEventListener('click', e => {
-            e.preventDefault();
-            const target = document.querySelector(link.getAttribute('href'));
-            if(target){
-                target.scrollIntoView({ behavior:'smooth' });
-            }
+    /* ------------------------------- */
+    /* HAMBURGER MENU TOGGLE           */
+    /* ------------------------------- */
+    const menuToggle = document.getElementById('menu-toggle');
+    const topMenuUl = document.querySelector('#top-menu ul');
+    if(menuToggle){
+        menuToggle.addEventListener('click', ()=>{
+            topMenuUl.classList.toggle('show');
         });
-    });
+    }
 });
