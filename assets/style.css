@@ -101,9 +101,12 @@ section { margin-bottom: 3rem; }
 .think-row.slide-in-right { transform: translateX(40px); }
 .think-row.show { opacity: 1; transform: translateX(0); }
 
+/* ✅ FIXED IMAGE DISTORTION */
 .think-img {
-  width: 70px;
-  height: 70px;
+  width: 70px;          /* Keeps layout consistent */
+  height: auto;         /* Maintains proportions */
+  max-height: 70px;     /* Prevents oversized images */
+  object-fit: contain;  /* Ensures no distortion */
 }
 
 @media (max-width: 650px) {
@@ -188,5 +191,3 @@ section { margin-bottom: 3rem; }
 #theme-toggle:hover {
   background: var(--border);
 }
-
-/* ------------------------------- */
