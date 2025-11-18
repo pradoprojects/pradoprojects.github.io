@@ -44,6 +44,32 @@ h2 { margin-top: 2.5rem; font-size: 1.6rem; }
 section { margin-bottom: 3rem; }
 
 /* ------------------------------- */
+/* SKIP LINK */
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+.skip-link:focus,
+.skip-link:active {
+  position: static;
+  width: auto;
+  height: auto;
+  left: 1.5rem;
+  top: 1rem;
+  background: var(--card-bg);
+  color: var(--text);
+  padding: 8px 12px;
+  border-radius: 6px;
+  z-index: 10000;
+  box-shadow: 0 2px 8px var(--shadow);
+}
+
+/* ------------------------------- */
 /* CARD */
 /* ------------------------------- */
 .card {
@@ -103,7 +129,7 @@ section { margin-bottom: 3rem; }
 
 /* Enlarged but consistent images */
 .think-img {
-  width: 280px;        /* dobro do tamanho original */
+  width: 280px;        /* dobro do tamanho original (se desejar depois diminuímos) */
   height: auto;
   max-height: 140px;
   object-fit: contain;
@@ -152,6 +178,11 @@ section { margin-bottom: 3rem; }
   color: #f2f2f2;
 }
 
+/* ensure aria-hidden state actually hides visually on mobile */
+#top-menu ul[aria-hidden="true"] {
+  display: none;
+}
+
 /* Mobile */
 @media (max-width: 720px) {
   #menu-toggle {
@@ -175,6 +206,19 @@ section { margin-bottom: 3rem; }
   #top-menu ul.show {
     display: flex;
   }
+}
+
+/* ------------------------------- */
+/* FOCUS VISIBLE (keyboard users) */
+:focus {
+  outline: none;
+}
+
+button:focus-visible,
+a:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: 6px;
 }
 
 /* ------------------------------- */
