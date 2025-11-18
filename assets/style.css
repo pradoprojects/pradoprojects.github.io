@@ -103,7 +103,7 @@ section { margin-bottom: 3rem; }
 
 /* Enlarged but consistent images */
 .think-img {
-  width: 140px;        /* dobro do tamanho original */
+  width: 280px;        /* dobro do tamanho original */
   height: auto;
   max-height: 140px;
   object-fit: contain;
