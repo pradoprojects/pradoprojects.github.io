@@ -1,6 +1,7 @@
 /* ------------------------------- */
 /* VARIABLES */
 /* ------------------------------- */
+
 :root {
     --bg: #ffffff;
     --text: #111111;
@@ -24,6 +25,7 @@
 /* ------------------------------- */
 /* RESET */
 /* ------------------------------- */
+
 * {
     margin: 0;
     padding: 0;
@@ -41,7 +43,10 @@ body {
     transition: background 0.3s, color 0.3s;
 }
 
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
     font-weight: 600;
     margin-bottom: 0.75rem;
 }
@@ -62,9 +67,10 @@ section {
 /* ------------------------------- */
 /* ACCESSIBLE SKIP LINK */
 /* ------------------------------- */
+
 .skip-link {
     position: absolute;
-    top: -40px; /* escondido inicialmente */
+    top: -40px;
     left: 10px;
     background: var(--accent, #007bff);
     color: #fff;
@@ -78,12 +84,13 @@ section {
 }
 
 .skip-link:focus {
-    top: 10px; /* aparece apenas ao receber Tab */
+    top: 10px;
 }
 
 /* ------------------------------- */
 /* CARD */
 /* ------------------------------- */
+
 .card {
     background: var(--card-bg);
     border: 1px solid var(--border);
@@ -117,6 +124,7 @@ section {
 /* ------------------------------- */
 /* GRID (Featured Work) */
 /* ------------------------------- */
+
 .grid-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -132,6 +140,7 @@ section {
 /* ------------------------------- */
 /* HOW I THINK */
 /* ------------------------------- */
+
 .think-row {
     display: flex;
     gap: 1rem;
@@ -156,7 +165,7 @@ section {
 
 /* Enlarged but consistent images */
 .think-img {
-    width: 280px; /* dobro do tamanho original */
+    width: 280px;
     height: auto;
     max-height: 140px;
     object-fit: contain;
@@ -176,14 +185,15 @@ section {
 /* ------------------------------- */
 /* TOP MENU */
 /* ------------------------------- */
+
 #top-menu {
     display: flex;
     align-items: center;
-    justify-content: flex-start; /* corrigido para não esconder o menu */
+    justify-content: flex-start;
     gap: 1rem;
     margin-bottom: 1.8rem;
     position: relative;
-    z-index: 30; /* garante que o menu sempre apareça */
+    z-index: 30;
 }
 
 #top-menu ul {
@@ -214,7 +224,6 @@ section {
 
 /* Mobile */
 @media (max-width: 720px) {
-
     #menu-toggle {
         display: block;
     }
@@ -241,10 +250,11 @@ section {
 /* ------------------------------- */
 /* THEME TOGGLE */
 /* ------------------------------- */
+
 #theme-toggle {
     position: fixed;
     top: 15px;
-    right: 15px; /* TEMA à direita */
+    right: 15px;
     background: var(--card-bg);
     border: 1px solid var(--border);
     padding: 0.4rem 0.6rem;
