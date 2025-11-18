@@ -33,11 +33,49 @@ document.addEventListener('DOMContentLoaded', () => {
     thinkRows.forEach(row => thinkObserver.observe(row));
 
     const menuToggle = document.getElementById('menu-toggle');
-    const topMenuUl = document.querySelector('#top-menu ul');
+    const topMenuUl = document.getElementById('top-menu-list');
 
-    if (menuToggle) {
+    if (menuToggle && topMenuUl) {
+        // Ensure initial ARIA state
+        menuToggle.setAttribute('aria-expanded', 'false');
+        topMenuUl.setAttribute('aria-hidden', 'true');
+
         menuToggle.addEventListener('click', () => {
-            topMenuUl.classList.toggle('show');
+            const isOpen = topMenuUl.classList.toggle('show');
+            topMenuUl.setAttribute('aria-hidden', isOpen ? 'false' : 'true');
+            menuToggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+
+            if (isOpen) {
+                // move focus to first menu link
+                const firstLink = topMenuUl.querySelector('a');
+                if (firstLink) firstLink.focus();
+            } else {
+                menuToggle.focus();
+            }
+        });
+
+        // Close menu with Escape and manage focus
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                if (topMenuUl.classList.contains('show')) {
+                    topMenuUl.classList.remove('show');
+                    topMenuUl.setAttribute('aria-hidden', 'true');
+                    menuToggle.setAttribute('aria-expanded', 'false');
+                    menuToggle.focus();
+                }
+            }
+        });
+
+        // If user clicks outside the menu, close it
+        document.addEventListener('click', (e) => {
+            const target = e.target;
+            if (topMenuUl.classList.contains('show')) {
+                if (!topMenuUl.contains(target) && target !== menuToggle) {
+                    topMenuUl.classList.remove('show');
+                    topMenuUl.setAttribute('aria-hidden', 'true');
+                    menuToggle.setAttribute('aria-expanded', 'false');
+                }
+            }
         });
     }
 });
