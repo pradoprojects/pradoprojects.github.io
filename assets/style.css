@@ -24,7 +24,11 @@
 /* ------------------------------- */
 /* RESET */
 /* ------------------------------- */
-* { margin: 0; padding: 0; box-sizing: border-box; }
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
 body {
   background: var(--bg);
@@ -35,16 +39,25 @@ body {
   max-width: 920px;
   margin: auto;
   transition: background 0.3s, color 0.3s;
-
-  /* ✅ FIX para o skip-link */
-  position: relative;
 }
 
-h1, h2, h3, h4 { font-weight: 600; margin-bottom: 0.75rem; }
-h1 { font-size: 2rem; }
-h2 { margin-top: 2.5rem; font-size: 1.6rem; }
+h1, h2, h3, h4 {
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+}
 
-section { margin-bottom: 3rem; }
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  margin-top: 2.5rem;
+  font-size: 1.6rem;
+}
+
+section {
+  margin-bottom: 3rem;
+}
 
 /* ------------------------------- */
 /* ACCESSIBLE SKIP LINK */
@@ -92,8 +105,14 @@ section { margin-bottom: 3rem; }
   border-radius: 8px;
 }
 
-.meta { font-size: 0.9rem; color: var(--text-muted); }
-.muted { color: var(--text-muted); }
+.meta {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+
+.muted {
+  color: var(--text-muted);
+}
 
 /* ------------------------------- */
 /* GRID (Featured Work) */
@@ -101,4 +120,140 @@ section { margin-bottom: 3rem; }
 .grid-container {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap:
+  gap: 1.2rem;
+}
+
+@media (max-width: 720px) {
+  .grid-container {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ------------------------------- */
+/* HOW I THINK */
+/* ------------------------------- */
+.think-row {
+  display: flex;
+  gap: 1rem;
+  margin: 1.5rem 0;
+  opacity: 0;
+  transform: translateX(40px);
+  transition: opacity 0.7s ease, transform 0.7s ease;
+}
+
+.think-row.slide-in-left {
+  transform: translateX(-40px);
+}
+
+.think-row.slide-in-right {
+  transform: translateX(40px);
+}
+
+.think-row.show {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+/* Enlarged but consistent images */
+.think-img {
+  width: 280px; /* dobro do tamanho original */
+  height: auto;
+  max-height: 140px;
+  object-fit: contain;
+}
+
+@media (max-width: 650px) {
+  .think-row {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .think-img {
+    margin: auto;
+  }
+}
+
+/* ------------------------------- */
+/* TOP MENU */
+/* ------------------------------- */
+#top-menu {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start; /* corrigido para não esconder o menu */
+  gap: 1rem;
+  margin-bottom: 1.8rem;
+  position: relative;
+  z-index: 30; /* garante que o menu sempre apareça */
+}
+
+#top-menu ul {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+#top-menu a {
+  text-decoration: none;
+  color: var(--text);
+  font-weight: 500;
+}
+
+#menu-toggle {
+  display: none;
+  font-size: 1.6rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--text);
+}
+
+/* 🔥 FIX: mantém o menu hambúrguer visível no dark mode */
+:root.dark #menu-toggle {
+  color: #f2f2f2;
+}
+
+/* Mobile */
+@media (max-width: 720px) {
+  #menu-toggle {
+    display: block;
+  }
+
+  #top-menu ul {
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    top: 38px;
+    left: 0;
+    width: 180px;
+    background: var(--card-bg);
+    padding: 1rem;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    box-shadow: 0 4px 20px var(--shadow);
+  }
+
+  #top-menu ul.show {
+    display: flex;
+  }
+}
+
+/* ------------------------------- */
+/* THEME TOGGLE */
+/* ------------------------------- */
+#theme-toggle {
+  position: fixed;
+  top: 15px;
+  right: 15px; /* TEMA à direita */
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  padding: 0.4rem 0.6rem;
+  border-radius: 8px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  box-shadow: 0 2px 8px var(--shadow);
+  transition: background 0.3s, border 0.3s;
+}
+
+#theme-toggle:hover {
+  background: var(--border);
+}
