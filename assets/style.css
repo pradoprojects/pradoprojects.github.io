@@ -101,12 +101,12 @@ section { margin-bottom: 3rem; }
 .think-row.slide-in-right { transform: translateX(40px); }
 .think-row.show { opacity: 1; transform: translateX(0); }
 
-/* ✅ FIXED IMAGE DISTORTION */
+/* Enlarged but consistent images */
 .think-img {
-  width: 70px;          /* Keeps layout consistent */
-  height: auto;         /* Maintains proportions */
-  max-height: 70px;     /* Prevents oversized images */
-  object-fit: contain;  /* Ensures no distortion */
+  width: 140px;        /* dobro do tamanho original */
+  height: auto;
+  max-height: 140px;
+  object-fit: contain;
 }
 
 @media (max-width: 650px) {
@@ -144,6 +144,12 @@ section { margin-bottom: 3rem; }
   background: none;
   border: none;
   cursor: pointer;
+  color: var(--text);
+}
+
+/* 🔥 FIX: mantém o menu hambúrguer visível no dark mode */
+:root.dark #menu-toggle {
+  color: #f2f2f2;
 }
 
 /* Mobile */
@@ -178,16 +184,4 @@ section { margin-bottom: 3rem; }
   position: fixed;
   top: 15px;
   right: 15px; /* TEMA à direita */
-  background: var(--card-bg);
-  border: 1px solid var(--border);
-  padding: 0.4rem 0.6rem;
-  border-radius: 8px;
-  font-size: 1.2rem;
-  cursor: pointer;
-  box-shadow: 0 2px 8px var(--shadow);
-  transition: background 0.3s, border 0.3s;
-}
-
-#theme-toggle:hover {
-  background: var(--border);
-}
+  background: var(--card-bg
