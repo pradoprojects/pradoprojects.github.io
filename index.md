@@ -1,122 +1,193 @@
----
-layout: default
-title: Marllos Prado — UX Portfolio
----
+/* ------------------------------- */
+/* VARIABLES */
+/* ------------------------------- */
+:root {
+  --bg: #ffffff;
+  --text: #111111;
+  --text-muted: #555;
+  --accent: #0072ff;
+  --card-bg: #fafafa;
+  --border: #e5e5e5;
+  --shadow: rgba(0,0,0,0.08);
+}
 
-<!-- TOP MENU -->
-<nav id="top-menu">
-  <button id="menu-toggle" aria-label="Abrir menu">☰</button>
-  <ul>
-    <li><a href="#home">Home</a></li>
-    <li><a href="#how-i-think">How I Think</a></li>
-    <li><a href="#featured-work">Featured Work</a></li>
-    <li><a href="#improving">Improving</a></li>
-    <li><a href="#tools">Tools</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ul>
-</nav>
+:root.dark {
+  --bg: #0f0f0f;
+  --text: #f2f2f2;
+  --text-muted: #cccccc;
+  --accent: #7ab4ff;
+  --card-bg: #1a1a1a;
+  --border: #333;
+  --shadow: rgba(0,0,0,0.25);
+}
 
-<button id="theme-toggle" aria-label="Ativar tema escuro" aria-pressed="false">
-  <span class="toggle-icon">🌙</span>
-</button>
+/* ------------------------------- */
+/* RESET */
+/* ------------------------------- */
+* { margin: 0; padding: 0; box-sizing: border-box; }
 
-<!-- HOME -->
-<section id="home">
-  <h1>Hi, I’m Marllos 👋</h1>
-  <h3>Early-career UX & Product Designer | Focused on clarity and thoughtful problem-solving.</h3>
-  <blockquote>
-    <h4>I’m building a career shaped by <em>continuous learning</em>, <em>multicultural experiences</em>, and bringing the <em>human front & center</em> to each decision.</h4>
-  </blockquote>
-  <div class="card" align="center">
-    <img src="assets/uxlogo_r.png" width="100%" />
-  </div>
-  <h4><em>... But what does it mean?</em></h4>
-  <blockquote>
-    It means I care about crafting UI/UX that feels intuitive, calm, and accessible — especially for people who don’t consider themselves “techy.”
-  </blockquote>
-</section>
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Inter", sans-serif;
+  line-height: 1.6;
+  padding: 1.5rem;
+  max-width: 920px;
+  margin: auto;
+  transition: background 0.3s, color 0.3s;
+}
 
-<!-- HOW I THINK -->
-<section id="how-i-think">
-  <h2>How I Think 💡</h2>
-  <h3>Simplifying complexity</h3>
-  <div class="think-row">
-    <img src="assets/logo_instructor.png" class="think-img" />
-    <div class="think-text">
-      Teaching basic programming to teenagers showed me how to break down abstract concepts into clear, approachable steps — a skill that directly shapes how I build interfaces and structure information.
-    </div>
-  </div>
+h1, h2, h3, h4 { font-weight: 600; margin-bottom: 0.75rem; }
+h1 { font-size: 2rem; }
+h2 { margin-top: 2.5rem; font-size: 1.6rem; }
 
-  <h3>Designing with empathy</h3>
-  <div class="think-row">
-    <img src="assets/logo_caregiver.png" class="think-img" />
-    <div class="think-text">
-      Working with people of different ages and cognitive/physical needs strengthened my observation skills, patience, and adaptability. These experiences help me identify friction and design for comfort, not just functionality.
-    </div>
-  </div>
+section { margin-bottom: 3rem; }
 
-  <h3>Human-first, tech-aware</h3>
-  <div class="think-row">
-    <img src="assets/logo_cs.png" class="think-img" />
-    <div class="think-text">
-      My computer science background helps me understand constraints and feasibility, but my design decisions always begin with people, not features.
-    </div>
-  </div>
-</section>
+/* ------------------------------- */
+/* CARD */
+/* ------------------------------- */
+.card {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px var(--shadow);
+  opacity: 0;
+  transform: scale(0.97);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
 
-<!-- FEATURED WORK -->
-<section id="featured-work">
-  <h2>Featured Work 🎬</h2>
-  <p><em>Quick, visual, easy to scan. Full case studies coming soon.</em></p>
+.card.show {
+  opacity: 1;
+  transform: scale(1);
+}
 
-  <div class="grid-container">
-    <div class="card">
-      <div class="thumb-wrap">
-        <img src="assets/case-apb-thumb.png" alt="Project APB thumbnail">
-      </div>
-      <h3>Project APB — Learning Through Play</h3>
-      <p class="muted">A hands-on STEAM activity that helps teens explore computing concepts through creativity.</p>
-      <p class="meta"><strong>Skills:</strong> research · ideation · rapid prototyping · visual structure</p>
-      <p class="meta"><strong>Focus:</strong> why it was built · what I learned · what I’d improve</p>
-      <span class="card-cta disabled">Case study coming soon</span>
-    </div>
+.thumb-wrap img {
+  width: 100%;
+  border-radius: 8px;
+}
 
-    <div class="card">
-      <div class="thumb-wrap">
-        <img src="assets/case-selfthumb.png" alt="Self-Learning App thumbnail">
-      </div>
-      <h3>Self-Learning App — Mobile UX</h3>
-      <p class="muted">A concept app that helps users learn new skills at their own pace through simple navigation and a clear task flow.</p>
-      <p class="meta"><strong>Skills:</strong> wireframes · flows · usability considerations</p>
-      <p class="meta"><strong>Focus:</strong> how early feedback shaped the design</p>
-      <span class="card-cta disabled">Case study coming soon</span>
-    </div>
-  </div>
-</section>
+.meta { font-size: 0.9rem; color: var(--text-muted); }
+.muted { color: var(--text-muted); }
 
-<!-- IMPROVING -->
-<section id="improving">
-  <h2>What I’m Improving 🧱</h2>
-  <ul>
-    <li>Visual design fundamentals and layout clarity</li>
-    <li>Faster, more intentional prototyping in Figma</li>
-    <li>Usability testing → synthesis → decision-making</li>
-    <li>Studying real products to understand interaction patterns</li>
-  </ul>
-</section>
+/* ------------------------------- */
+/* GRID (Featured Work) */
+/* ------------------------------- */
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.2rem;
+}
 
-<!-- TOOLS -->
-<section id="tools">
-  <h2>Tools 🛠</h2>
-  <p>Figma • Miro • Basic HTML/CSS • GitHub • Pen & Paper</p>
-</section>
+@media (max-width: 720px) {
+  .grid-container {
+    grid-template-columns: 1fr;
+  }
+}
 
-<!-- CONTACT -->
-<section id="contact">
-  <h2>Let’s Connect 🤝</h2>
-  <p>Whether you’re a recruiter, designer, or someone curious about my work — welcome.</p>
-  <p>marllospaiva@gmail.com • <a href="https://www.linkedin.com/in/marllos-p-a383641b2">LinkedIn</a></p>
-</section>
+/* ------------------------------- */
+/* HOW I THINK */
+/* ------------------------------- */
+.think-row {
+  display: flex;
+  gap: 1rem;
+  margin: 1.5rem 0;
+  opacity: 0;
+  transform: translateX(40px);
+  transition: opacity 0.7s ease, transform 0.7s ease;
+}
 
-<script src="assets/theme-toggle.js"></script>
-<script src="assets/scroll-animations.js"></script>
+.think-row.slide-in-left { transform: translateX(-40px); }
+.think-row.slide-in-right { transform: translateX(40px); }
+.think-row.show { opacity: 1; transform: translateX(0); }
+
+/* ✅ FIXED IMAGE DISTORTION */
+.think-img {
+  width: 70px;          /* Keeps layout consistent */
+  height: auto;         /* Maintains proportions */
+  max-height: 70px;     /* Prevents oversized images */
+  object-fit: contain;  /* Ensures no distortion */
+}
+
+@media (max-width: 650px) {
+  .think-row { flex-direction: column; text-align: center; }
+  .think-img { margin: auto; }
+}
+
+/* ------------------------------- */
+/* TOP MENU */
+/* ------------------------------- */
+#top-menu {
+  display: flex;
+  align-items: center;
+  justify-content: left; /* MENU à esquerda */
+  gap: 1rem;
+  margin-bottom: 1.8rem;
+  position: relative;
+}
+
+#top-menu ul {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+#top-menu a {
+  text-decoration: none;
+  color: var(--text);
+  font-weight: 500;
+}
+
+#menu-toggle {
+  display: none;
+  font-size: 1.6rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+/* Mobile */
+@media (max-width: 720px) {
+  #menu-toggle {
+    display: block;
+  }
+
+  #top-menu ul {
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    top: 38px;
+    left: 0;
+    width: 180px;
+    background: var(--card-bg);
+    padding: 1rem;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    box-shadow: 0 4px 20px var(--shadow);
+  }
+
+  #top-menu ul.show {
+    display: flex;
+  }
+}
+
+/* ------------------------------- */
+/* THEME TOGGLE */
+/* ------------------------------- */
+#theme-toggle {
+  position: fixed;
+  top: 15px;
+  right: 15px; /* TEMA à direita */
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  padding: 0.4rem 0.6rem;
+  border-radius: 8px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  box-shadow: 0 2px 8px var(--shadow);
+  transition: background 0.3s, border 0.3s;
+}
+
+#theme-toggle:hover {
+  background: var(--border);
+}
