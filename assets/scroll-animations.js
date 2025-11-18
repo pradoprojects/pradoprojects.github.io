@@ -1,7 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const prefersReduced =
-        window.matchMedia &&
-        window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+        window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
     const cards = document.querySelectorAll('.card');
     const thinkRows = document.querySelectorAll('.think-row');
@@ -12,9 +11,6 @@ document.addEventListener('DOMContentLoaded', () => {
         return;
     }
 
-    /* ------------------------------- */
-    /* CARD FADE/ZOOM EFFECT            */
-    /* ------------------------------- */
     const cardObserver = new IntersectionObserver(entries => {
         entries.forEach(entry => {
             if (entry.isIntersecting) entry.target.classList.add('show');
@@ -23,9 +19,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     cards.forEach(card => cardObserver.observe(card));
 
-    /* ------------------------------- */
-    /* HOW I THINK SLIDE-IN            */
-    /* ------------------------------- */
     thinkRows.forEach((row, index) => {
         if (index % 2 === 0) row.classList.add('slide-in-left');
         else row.classList.add('slide-in-right');
@@ -39,13 +32,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     thinkRows.forEach(row => thinkObserver.observe(row));
 
-    /* ------------------------------- */
-    /* HAMBURGER MENU TOGGLE           */
-    /* ------------------------------- */
     const menuToggle = document.getElementById('menu-toggle');
     const topMenuUl = document.querySelector('#top-menu ul');
-    if(menuToggle){
-        menuToggle.addEventListener('click', ()=>{
+
+    if (menuToggle) {
+        menuToggle.addEventListener('click', () => {
             topMenuUl.classList.toggle('show');
         });
     }
