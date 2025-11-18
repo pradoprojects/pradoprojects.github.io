@@ -44,32 +44,6 @@ h2 { margin-top: 2.5rem; font-size: 1.6rem; }
 section { margin-bottom: 3rem; }
 
 /* ------------------------------- */
-/* SKIP LINK */
-.skip-link {
-  position: absolute;
-  left: -9999px;
-  top: auto;
-  width: 1px;
-  height: 1px;
-  overflow: hidden;
-}
-
-.skip-link:focus,
-.skip-link:active {
-  position: static;
-  width: auto;
-  height: auto;
-  left: 1.5rem;
-  top: 1rem;
-  background: var(--card-bg);
-  color: var(--text);
-  padding: 8px 12px;
-  border-radius: 6px;
-  z-index: 10000;
-  box-shadow: 0 2px 8px var(--shadow);
-}
-
-/* ------------------------------- */
 /* CARD */
 /* ------------------------------- */
 .card {
@@ -129,7 +103,7 @@ section { margin-bottom: 3rem; }
 
 /* Enlarged but consistent images */
 .think-img {
-  width: 280px;        /* conforme sua preferência (pode ajustar) */
+  width: 280px;        /* dobro do tamanho original */
   height: auto;
   max-height: 140px;
   object-fit: contain;
@@ -146,20 +120,19 @@ section { margin-bottom: 3rem; }
 #top-menu {
   display: flex;
   align-items: center;
-  justify-content: left; /* MENU à esquerda */
+  justify-content: flex-start; /* corrigido para não esconder o menu */
   gap: 1rem;
   margin-bottom: 1.8rem;
   position: relative;
+  z-index: 30; /* garante que o menu sempre apareça */
 }
 
-/* --- Desktop: menu list visible by default --- */
 #top-menu ul {
   list-style: none;
-  display: flex;      /* <--- importante: desktop mostra lista */
+  display: flex;
   gap: 1rem;
 }
 
-/* link styles */
 #top-menu a {
   text-decoration: none;
   color: var(--text);
@@ -167,7 +140,7 @@ section { margin-bottom: 3rem; }
 }
 
 #menu-toggle {
-  display: none; /* default hidden on desktop */
+  display: none;
   font-size: 1.6rem;
   background: none;
   border: none;
@@ -180,13 +153,12 @@ section { margin-bottom: 3rem; }
   color: #f2f2f2;
 }
 
-/* Mobile-specific overrides */
+/* Mobile */
 @media (max-width: 720px) {
   #menu-toggle {
     display: block;
   }
 
-  /* hide the list by default on small screens (aria-hidden will also be synced) */
   #top-menu ul {
     display: none;
     flex-direction: column;
@@ -201,28 +173,9 @@ section { margin-bottom: 3rem; }
     box-shadow: 0 4px 20px var(--shadow);
   }
 
-  /* when JS toggles .show the list becomes flex (vertical) */
   #top-menu ul.show {
     display: flex;
   }
-}
-
-/* ensure aria-hidden state actually hides visually (extra guard) */
-#top-menu ul[aria-hidden="true"] {
-  display: none;
-}
-
-/* ------------------------------- */
-/* FOCUS VISIBLE (keyboard users) */
-:focus {
-  outline: none;
-}
-
-button:focus-visible,
-a:focus-visible {
-  outline: 3px solid var(--accent);
-  outline-offset: 3px;
-  border-radius: 6px;
 }
 
 /* ------------------------------- */
