@@ -101,12 +101,12 @@ section { margin-bottom: 3rem; }
 .think-row.slide-in-right { transform: translateX(40px); }
 .think-row.show { opacity: 1; transform: translateX(0); }
 
-/* ✅ FIXED IMAGE DISTORTION */
+/* ✅ ENLARGED IMAGE SIZE (2× bigger, no distortion) */
 .think-img {
-  width: 70px;          /* Keeps layout consistent */
-  height: auto;         /* Maintains proportions */
-  max-height: 70px;     /* Prevents oversized images */
-  object-fit: contain;  /* Ensures no distortion */
+  width: 130px;        /* was 70px */
+  height: auto;
+  max-height: 130px;   /* keeps ratio + prevents overflow */
+  object-fit: contain;
 }
 
 @media (max-width: 650px) {
