@@ -36,11 +36,12 @@ document.addEventListener('DOMContentLoaded', () => {
     const topMenuUl = document.getElementById('top-menu-list');
 
     if (menuToggle && topMenuUl) {
-        // Ensure initial ARIA state
-        menuToggle.setAttribute('aria-expanded', 'false');
-        topMenuUl.setAttribute('aria-hidden', 'true');
+        // Ensure initial ARIA state (idempotent)
+        if (!menuToggle.hasAttribute('aria-expanded')) menuToggle.setAttribute('aria-expanded', 'false');
+        if (!topMenuUl.hasAttribute('aria-hidden')) topMenuUl.setAttribute('aria-hidden', 'true');
 
-        menuToggle.addEventListener('click', () => {
+        menuToggle.addEventListener('click', (e) => {
+            e.stopPropagation();
             const isOpen = topMenuUl.classList.toggle('show');
             topMenuUl.setAttribute('aria-hidden', isOpen ? 'false' : 'true');
             menuToggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
