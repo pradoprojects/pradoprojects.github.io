@@ -184,4 +184,16 @@ section { margin-bottom: 3rem; }
   position: fixed;
   top: 15px;
   right: 15px; /* TEMA à direita */
-  background: var(--card-bg
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  padding: 0.4rem 0.6rem;
+  border-radius: 8px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  box-shadow: 0 2px 8px var(--shadow);
+  transition: background 0.3s, border 0.3s;
+}
+
+#theme-toggle:hover {
+  background: var(--border);
+}
