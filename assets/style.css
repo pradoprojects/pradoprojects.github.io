@@ -1,241 +1,193 @@
+/* ------------------------------- */
+/* VARIABLES */
+/* ------------------------------- */
+:root {
+  --bg: #ffffff;
+  --text: #111111;
+  --text-muted: #555;
+  --accent: #0072ff;
+  --card-bg: #fafafa;
+  --border: #e5e5e5;
+  --shadow: rgba(0,0,0,0.08);
+}
+
+:root.dark {
+  --bg: #0f0f0f;
+  --text: #f2f2f2;
+  --text-muted: #cccccc;
+  --accent: #7ab4ff;
+  --card-bg: #1a1a1a;
+  --border: #333;
+  --shadow: rgba(0,0,0,0.25);
+}
+
+/* ------------------------------- */
 /* RESET */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+/* ------------------------------- */
+* { margin: 0; padding: 0; box-sizing: border-box; }
 
-html, body {
-  font-family: Arial, sans-serif;
-  background: #fff;
-  color: #111;
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Inter", sans-serif;
   line-height: 1.6;
+  padding: 1.5rem;
+  max-width: 920px;
+  margin: auto;
+  transition: background 0.3s, color 0.3s;
 }
 
-/* BASIC LAYOUT */
-main {
-  max-width: 860px;
-  margin: 0 auto;
-  padding: 20px;
+h1, h2, h3, h4 { font-weight: 600; margin-bottom: 0.75rem; }
+h1 { font-size: 2rem; }
+h2 { margin-top: 2.5rem; font-size: 1.6rem; }
+
+section { margin-bottom: 3rem; }
+
+/* ------------------------------- */
+/* CARD */
+/* ------------------------------- */
+.card {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px var(--shadow);
+  opacity: 0;
+  transform: scale(0.97);
+  transition: opacity 0.6s ease, transform 0.6s ease;
 }
 
-section {
-  margin-bottom: 60px;
+.card.show {
+  opacity: 1;
+  transform: scale(1);
 }
 
-/* NAVBAR */
-nav {
-  position: fixed;
-  top: 0;
-  left: 0;
+.thumb-wrap img {
   width: 100%;
-  background: #ffffffd9;
-  backdrop-filter: blur(10px);
-  padding: 10px 20px;
-  border-bottom: 1px solid #ddd;
-  z-index: 1000;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  border-radius: 8px;
 }
 
-nav .nav-left button#menu-toggle {
-  font-size: 1.4rem;
+.meta { font-size: 0.9rem; color: var(--text-muted); }
+.muted { color: var(--text-muted); }
+
+/* ------------------------------- */
+/* GRID (Featured Work) */
+/* ------------------------------- */
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.2rem;
+}
+
+@media (max-width: 720px) {
+  .grid-container {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ------------------------------- */
+/* HOW I THINK */
+/* ------------------------------- */
+.think-row {
+  display: flex;
+  gap: 1rem;
+  margin: 1.5rem 0;
+  opacity: 0;
+  transform: translateX(40px);
+  transition: opacity 0.7s ease, transform 0.7s ease;
+}
+
+.think-row.slide-in-left { transform: translateX(-40px); }
+.think-row.slide-in-right { transform: translateX(40px); }
+.think-row.show { opacity: 1; transform: translateX(0); }
+
+/* ✅ FIXED IMAGE DISTORTION */
+.think-img {
+  width: 70px;          /* Keeps layout consistent */
+  height: auto;         /* Maintains proportions */
+  max-height: 70px;     /* Prevents oversized images */
+  object-fit: contain;  /* Ensures no distortion */
+}
+
+@media (max-width: 650px) {
+  .think-row { flex-direction: column; text-align: center; }
+  .think-img { margin: auto; }
+}
+
+/* ------------------------------- */
+/* TOP MENU */
+/* ------------------------------- */
+#top-menu {
+  display: flex;
+  align-items: center;
+  justify-content: left; /* MENU à esquerda */
+  gap: 1rem;
+  margin-bottom: 1.8rem;
+  position: relative;
+}
+
+#top-menu ul {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+#top-menu a {
+  text-decoration: none;
+  color: var(--text);
+  font-weight: 500;
+}
+
+#menu-toggle {
+  display: none;
+  font-size: 1.6rem;
   background: none;
   border: none;
   cursor: pointer;
 }
 
-nav ul {
-  list-style: none;
-  display: flex;
-  gap: 20px;
-}
-
-nav ul li a {
-  text-decoration: none;
-  color: #111;
-  font-weight: bold;
-}
-
-nav ul li a:hover {
-  text-decoration: underline;
-}
-
-/* MOBILE MENU */
-#menu {
-  display: none;
-}
-
-@media (max-width: 800px) {
-  nav {
-    padding: 10px 16px;
-  }
-
+/* Mobile */
+@media (max-width: 720px) {
   #menu-toggle {
     display: block;
   }
 
-  #menu {
+  #top-menu ul {
     display: none;
     flex-direction: column;
-    margin-top: 10px;
+    position: absolute;
+    top: 38px;
+    left: 0;
+    width: 180px;
+    background: var(--card-bg);
+    padding: 1rem;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    box-shadow: 0 4px 20px var(--shadow);
   }
 
-  #menu.show {
+  #top-menu ul.show {
     display: flex;
   }
-
-  nav ul {
-    flex-direction: column;
-    width: 100%;
-    gap: 12px;
-  }
 }
 
-/* DARK MODE */
-body.dark {
-  background: #111;
-  color: #eee;
-}
-
-body.dark nav {
-  background: #111111d9;
-  border-bottom: 1px solid #333;
-}
-
-body.dark nav ul li a {
-  color: #fafafa;
-}
-
-/* THEME TOGGLE BUTTON */
+/* ------------------------------- */
+/* THEME TOGGLE */
+/* ------------------------------- */
 #theme-toggle {
-  background: none;
-  border: none;
-  font-size: 1.3rem;
-  cursor: pointer;
-}
-
-/* HERO */
-#home {
-  text-align: center;
-  padding-top: 90px;
-}
-
-#home h1 {
-  font-size: 2.4rem;
-  margin-bottom: 10px;
-}
-
-#home p {
+  position: fixed;
+  top: 15px;
+  right: 15px; /* TEMA à direita */
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  padding: 0.4rem 0.6rem;
+  border-radius: 8px;
   font-size: 1.2rem;
+  cursor: pointer;
+  box-shadow: 0 2px 8px var(--shadow);
+  transition: background 0.3s, border 0.3s;
 }
 
-/* HOW I THINK — SECTION GRID */
-.how-i-think-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 40px;
-  align-items: start;
-}
-
-@media (max-width: 760px) {
-  .how-i-think-grid {
-    grid-template-columns: 1fr;
-    text-align: center;
-  }
-}
-
-/* HOW I THINK — INDIVIDUAL BLOCK */
-.how-i-think-item {
-  opacity: 0;
-  transform: translateY(20px);
-  transition: opacity 0.6s ease, transform 0.6s ease;
-}
-
-.how-i-think-item.visible {
-  opacity: 1;
-  transform: translateY(0);
-}
-
-/* 🔥 HOW I THINK — IMAGES (AGORA MAIORES, SEM DISTORÇÃO) */
-.how-i-think-item img {
-  display: block;
-  width: 100%;
-  max-width: 260px;        /* ← 2× maior que antes */
-  height: auto;            /* ← evita distorção */
-  margin: 0 auto 16px auto;
-  border-radius: 18px;
-}
-
-/* FEATURED WORK */
-.featured-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 32px;
-}
-
-@media (max-width: 760px) {
-  .featured-grid {
-    grid-template-columns: 1fr;
-  }
-}
-
-.project-card {
-  padding: 20px;
-  border-radius: 18px;
-  border: 1px solid #ddd;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-body.dark .project-card {
-  border-color: #333;
-}
-
-.project-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 4px 16px #00000022;
-}
-
-.project-card h3 {
-  margin-bottom: 10px;
-}
-
-/* IMAGES DENTRO DOS CARDS */
-.project-card img {
-  width: 100%;
-  border-radius: 14px;
-  height: auto;
-  margin-bottom: 12px;
-}
-
-/* IMPROVING */
-#improving ul {
-  padding-left: 20px;
-}
-
-#improving li {
-  margin-bottom: 8px;
-}
-
-/* TOOLS */
-#tools img {
-  width: 55px;
-  height: auto;
-  margin: 8px;
-}
-
-/* CONTACT */
-#contact a {
-  color: #0070f3;
-  font-weight: bold;
-  text-decoration: none;
-}
-
-body.dark #contact a {
-  color: #6ab0ff;
-}
-
-#contact a:hover {
-  text-decoration: underline;
+#theme-toggle:hover {
+  background: var(--border);
 }
