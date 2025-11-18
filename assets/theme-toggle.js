@@ -10,13 +10,16 @@ function applyIcon(isDark){
     toggleBtn.setAttribute('aria-pressed', isDark ? 'true' : 'false');
     toggleBtn.setAttribute('aria-label', isDark ? 'Ativar tema claro' : 'Ativar tema escuro');
   }
+  try {
+    root.setAttribute('data-theme', isDark ? 'dark' : 'light');
+  } catch(e){}
 }
 
 try {
   const savedTheme = localStorage.getItem('theme');
   if(savedTheme === 'dark'){ root.classList.add('dark'); applyIcon(true); }
   else if(savedTheme === 'light'){ root.classList.remove('dark'); applyIcon(false); }
-  else if(window.matchMedia('(prefers-color-scheme: dark)').matches){ root.classList.add('dark'); applyIcon(true); }
+  else if(window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches){ root.classList.add('dark'); applyIcon(true); }
   else { applyIcon(false); }
 } catch(e){ applyIcon(root.classList.contains('dark')); }
 
