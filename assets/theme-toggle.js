@@ -12,32 +12,18 @@ function applyIcon(isDark){
   }
 }
 
-// Load saved preference
 try {
   const savedTheme = localStorage.getItem('theme');
-  if(savedTheme === 'dark'){
-    root.classList.add('dark');
-    applyIcon(true);
-  } else if(savedTheme === 'light'){
-    root.classList.remove('dark');
-    applyIcon(false);
-  } else if(window.matchMedia('(prefers-color-scheme: dark)').matches){
-    root.classList.add('dark');
-    applyIcon(true);
-  } else {
-    applyIcon(false);
-  }
-} catch(e){
-  applyIcon(root.classList.contains('dark'));
-}
+  if(savedTheme === 'dark'){ root.classList.add('dark'); applyIcon(true); }
+  else if(savedTheme === 'light'){ root.classList.remove('dark'); applyIcon(false); }
+  else if(window.matchMedia('(prefers-color-scheme: dark)').matches){ root.classList.add('dark'); applyIcon(true); }
+  else { applyIcon(false); }
+} catch(e){ applyIcon(root.classList.contains('dark')); }
 
-// Toggle on click
 if(toggleBtn){
   toggleBtn.addEventListener('click', ()=>{
     const isDark = root.classList.toggle('dark');
-    try {
-      localStorage.setItem('theme', isDark ? 'dark' : 'light');
-    } catch(e){}
+    try { localStorage.setItem('theme', isDark ? 'dark' : 'light'); } catch(e){}
     applyIcon(isDark);
   });
 }
