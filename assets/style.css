@@ -44,6 +44,28 @@ h2 { margin-top: 2.5rem; font-size: 1.6rem; }
 section { margin-bottom: 3rem; }
 
 /* ------------------------------- */
+/* ACCESSIBLE SKIP LINK */
+/* ------------------------------- */
+.skip-link {
+  position: absolute;
+  top: -40px; /* escondido inicialmente */
+  left: 10px;
+  background: var(--accent, #007bff);
+  color: #fff;
+  padding: 10px 14px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  z-index: 1500;
+  transition: top 0.3s ease;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+.skip-link:focus {
+  top: 10px; /* aparece apenas ao receber Tab */
+}
+
+/* ------------------------------- */
 /* CARD */
 /* ------------------------------- */
 .card {
