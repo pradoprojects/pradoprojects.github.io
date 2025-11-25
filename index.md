@@ -90,7 +90,7 @@ title: "Marllos — UX Portfolio"
     <!-- FEATURED WORK -->
     <section id="featured-work">
         <h2>Featured Work 🎬</h2>
-        <p><em>Quick, visual, easy to scan. Full case studies coming soon.</em></p>
+        <p><em>Full case studies coming soon.</em></p>
 
         <div class="grid-container">
 
