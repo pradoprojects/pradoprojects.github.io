@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Marllos Prado — UX Portfolio"
+title: "Marllos — UX Portfolio"
 ---
 
 <a class="skip-link" href="#main">Pular para o conteúdo</a>
