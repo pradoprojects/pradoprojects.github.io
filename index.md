@@ -127,7 +127,7 @@ title: "Marllos — UX Portfolio"
                     <img src="assets/case-localization-thumb.png"
                          alt="Thumbnail representing translation and localization work">
                 </div>
-                <h3>Translation, Localization & UX Writing — PT ↔ EN</h3>
+                <h3>Translation & Localization — PT ↔ EN</h3>
             
                 <p class="muted">
                     A curated selection of real translation, editing, and LQA work across academic, technical,
