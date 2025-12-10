@@ -94,22 +94,18 @@ title: "Marllos — UX Portfolio"
 
         <div class="grid-container">
 
-             <div class="card">
+            <div class="card">
                 <div class="thumb-wrap">
-                    <img src="assets/case-localization-thumb.png"
-                         alt="Thumbnail representing translation and localization work">
+                    <img src="assets/case-selfthumb.png"
+                         alt="Miniatura Self-Learning App">
                 </div>
-                <h3>Translation & Localization — PT ↔ EN</h3>
-            
+                <h3>Self-Learning App — Mobile UX</h3>
                 <p class="muted">
-                    A curated selection of real translation, editing, and LQA work across academic, technical,
-                    and UX-oriented content — always focusing on clarity, tone, and user understanding.
+                    A concept app that helps users learn new skills with guidance from volunteer mentors.
                 </p>
-            
-                <p class="meta"><strong>Skills:</strong> localization · terminology QA · UX writing · editing · clarity rewrites</p>
-                <p class="meta"><strong>Focus:</strong> user-centered tone · cultural adaptation · consistent microcopy · accuracy</p>
-            
-                <a class="card-cta" href="https://github.com/pradoprojects/Translation_QA_Projects/">View samples</a>
+                <p class="meta"><strong>Skills:</strong> wireframes · flows · usability considerations</p>
+                <p class="meta"><strong>Focus:</strong> how early feedback shaped the design</p>
+                <a class="card-cta" href="https://github.com/pradoprojects/Self-Learning-App">Learn More</a>
             </div>
 
             <div class="card">
@@ -129,16 +125,20 @@ title: "Marllos — UX Portfolio"
 
             <div class="card">
                 <div class="thumb-wrap">
-                    <img src="assets/case-selfthumb.png"
-                         alt="Miniatura Self-Learning App">
+                    <img src="assets/case-localization-thumb.png"
+                         alt="Thumbnail representing translation and localization work">
                 </div>
-                <h3>Self-Learning App — Mobile UX</h3>
+                <h3>Translation & Localization — PT ↔ EN</h3>
+            
                 <p class="muted">
-                    A concept app that helps users learn new skills with guidance from volunteer mentors.
+                    A curated selection of real translation, editing, and LQA work across academic, technical,
+                    and UX-oriented content — always focusing on clarity, tone, and user understanding.
                 </p>
-                <p class="meta"><strong>Skills:</strong> wireframes · flows · usability considerations</p>
-                <p class="meta"><strong>Focus:</strong> how early feedback shaped the design</p>
-                <a class="card-cta" href="https://github.com/pradoprojects/Self-Learning-App">Learn More</a>
+            
+                <p class="meta"><strong>Skills:</strong> localization · terminology QA · UX writing · editing · clarity rewrites</p>
+                <p class="meta"><strong>Focus:</strong> user-centered tone · cultural adaptation · consistent microcopy · accuracy</p>
+            
+                <a class="card-cta" href="https://github.com/pradoprojects/Translation_QA_Projects/">View samples</a>
             </div>
             
         </div>
