@@ -94,35 +94,7 @@ title: "Marllos — UX Portfolio"
 
         <div class="grid-container">
 
-            <div class="card">
-                <div class="thumb-wrap">
-                    <img src="assets/case-apb-thumb.png"
-                         alt="Miniatura do Project APB — Learning Through Play">
-                </div>
-                <h3>Project APB — Learning Through Play</h3>
-                <p class="muted">
-                    A hands-on STEAM activity that helps teens explore computing concepts through creativity.
-                </p>
-                <p class="meta"><strong>Skills:</strong> research · ideation · rapid prototyping · visual structure</p>
-                <p class="meta"><strong>Focus:</strong> why it was built · what I learned · what I’d improve</p>
-                <span class="card-cta disabled">Case study coming soon</span>
-            </div>
-
-            <div class="card">
-                <div class="thumb-wrap">
-                    <img src="assets/case-selfthumb.png"
-                         alt="Miniatura Self-Learning App">
-                </div>
-                <h3>Self-Learning App — Mobile UX</h3>
-                <p class="muted">
-                    A concept app that helps users learn new skills with guidance from volunteer mentors.
-                </p>
-                <p class="meta"><strong>Skills:</strong> wireframes · flows · usability considerations</p>
-                <p class="meta"><strong>Focus:</strong> how early feedback shaped the design</p>
-                <span class="card-cta disabled">Case study coming soon</span>
-            </div>
-
-            <div class="card">
+             <div class="card">
                 <div class="thumb-wrap">
                     <img src="assets/case-localization-thumb.png"
                          alt="Thumbnail representing translation and localization work">
@@ -140,7 +112,35 @@ title: "Marllos — UX Portfolio"
                 <a class="card-cta" href="https://github.com/pradoprojects/Translation_QA_Projects/">View samples</a>
             </div>
 
+            <div class="card">
+                <div class="thumb-wrap">
+                    <img src="assets/case-apb-thumb.png"
+                         alt="Miniatura do Project APB — Learning Through Play">
+                </div>
+                <h3>Project APB — Learning Through Play</h3>
+                <p class="muted">
+                    A hands-on STEAM activity that helps teens explore computing concepts through creativity.
+                </p>
+                <p class="meta"><strong>Skills:</strong> research · ideation · rapid prototyping · visual structure</p>
+                <p class="meta"><strong>Focus:</strong> why it was built · what I learned · what I’d improve</p>
+                <a class="card-cta" href="https://github.com/pradoprojects/Project-APB">Learn More</a>
+                <!-- <span class="card-cta disabled">Case study coming soon</span> -->
+            </div>
 
+            <div class="card">
+                <div class="thumb-wrap">
+                    <img src="assets/case-selfthumb.png"
+                         alt="Miniatura Self-Learning App">
+                </div>
+                <h3>Self-Learning App — Mobile UX</h3>
+                <p class="muted">
+                    A concept app that helps users learn new skills with guidance from volunteer mentors.
+                </p>
+                <p class="meta"><strong>Skills:</strong> wireframes · flows · usability considerations</p>
+                <p class="meta"><strong>Focus:</strong> how early feedback shaped the design</p>
+                <a class="card-cta" href="https://github.com/pradoprojects/Self-Learning-App">Learn More</a>
+            </div>
+            
         </div>
     </section>
 
