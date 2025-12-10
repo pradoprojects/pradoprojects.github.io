@@ -122,6 +122,25 @@ title: "Marllos — UX Portfolio"
                 <span class="card-cta disabled">Case study coming soon</span>
             </div>
 
+            <div class="card">
+                <div class="thumb-wrap">
+                    <img src="assets/case-localization-thumb.png"
+                         alt="Thumbnail representing translation and localization work">
+                </div>
+                <h3>Translation, Localization & UX Writing — PT ↔ EN</h3>
+            
+                <p class="muted">
+                    A curated selection of real translation, editing, and LQA work across academic, technical,
+                    and UX-oriented content — always focusing on clarity, tone, and user understanding.
+                </p>
+            
+                <p class="meta"><strong>Skills:</strong> localization · terminology QA · UX writing · editing · clarity rewrites</p>
+                <p class="meta"><strong>Focus:</strong> user-centered tone · cultural adaptation · consistent microcopy · accuracy</p>
+            
+                <a class="card-cta" href="https://github.com/pradoprojects/Translation_QA_Projects/">View samples</a>
+            </div>
+
+
         </div>
     </section>
 
