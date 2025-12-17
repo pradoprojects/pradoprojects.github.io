@@ -140,6 +140,33 @@ title: "Marllos — UX Portfolio"
             
                 <a class="card-cta" href="https://github.com/pradoprojects/Translation_QA_Projects/">View samples</a>
             </div>
+
+            <div class="card">
+                <div class="thumb-wrap">
+                    <img src="assets/case-donactor-thumb.png"
+                         alt="Thumbnail of DonActor — clothes donation UX project">
+                </div>
+            
+                <h3>DonActor — Clothes Donation App</h3>
+            
+                <p class="muted">
+                    An independent UX project I initiated to explore how design could simplify
+                    the process of donating clothes. The concept was later refined using methods
+                    and principles learned during the Google UX Design Certificate.
+                </p>
+            
+                <p class="meta">
+                    <strong>Skills:</strong> user research · design thinking · UX foundations · wireframes · prototyping
+                </p>
+            
+                <p class="meta">
+                    <strong>Focus:</strong> self-driven exploration · problem framing · applying UX methods in practice
+                </p>
+            
+                <a class="card-cta" href="https://github.com/pradoprojects/DonActor">Learn More</a>
+            </div>
+
+
             
         </div>
     </section>
