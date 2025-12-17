@@ -143,7 +143,7 @@ title: "Marllos — UX Portfolio"
 
             <div class="card">
                 <div class="thumb-wrap">
-                    <img src="assets/case-donactor-thumb.png"
+                    <img src="assets/case-donactor-thumb.jpeg"
                          alt="Thumbnail of DonActor — clothes donation UX project">
                 </div>
             
