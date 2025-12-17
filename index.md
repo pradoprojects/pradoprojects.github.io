@@ -150,7 +150,7 @@ title: "Marllos — UX Portfolio"
                 <h3>DonActor — Clothes Donation App</h3>
             
                 <p class="muted">
-                    An independent UX project I initiated to explore how design could simplify
+                    My first independent UX project. I initiated it to explore how design could simplify
                     the process of donating clothes. The concept was later refined using methods
                     and principles learned during the Google UX Design Certificate.
                 </p>
