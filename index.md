@@ -1,13 +1,11 @@
 ---
-
 layout: default
 title: "Marllos — UX & Localization Portfolio"
-----------------------------------------------
+---
 
 <a class="skip-link" href="#main">Pular para o conteúdo</a>
 
 <!-- TOP MENU -->
-
 <nav id="top-menu" role="navigation" aria-label="Menu principal">
     <button id="menu-toggle" aria-label="Abrir menu" aria-expanded="false" aria-controls="top-menu-list">
         ☰
@@ -28,7 +26,6 @@ title: "Marllos — UX & Localization Portfolio"
 
 <main id="main" tabindex="-1">
 
-```
 <!-- HOME -->
 <section id="home">
     <h1>Hi, I’m Marllos 👋</h1>
@@ -162,7 +159,7 @@ title: "Marllos — UX & Localization Portfolio"
             <p class="meta"><strong>Focus:</strong> self-driven exploration · problem framing · applied UX methods</p>
             <a class="card-cta" href="https://github.com/pradoprojects/DonActor">Learn More</a>
         </div>
-        
+
     </div>
 </section>
 
@@ -200,10 +197,8 @@ title: "Marllos — UX & Localization Portfolio"
         <a href="https://www.linkedin.com/in/marllos-p-a383641b2">LinkedIn</a>
     </p>
 </section>
-```
 
 </main>
 
 <script src="assets/theme-toggle.js"></script>
-
 <script src="assets/scroll-animations.js"></script>
