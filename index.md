@@ -79,7 +79,7 @@ title: "Marllos — UX & Localization Portfolio"
 
     <h3>Designing through language</h3>
     <div class="think-row">
-        <img src="assets/logo_localization.png" class="think-img" alt="Localization icon" />
+        <img src="assets/LocalizationBanner.png" class="think-img" alt="Localization icon" />
         <div class="think-text">
             Language shapes perception, trust, and usability. Localization trained me to see interfaces
             as linguistic systems where tone and clarity directly impact experience.
