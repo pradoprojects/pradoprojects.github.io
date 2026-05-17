@@ -44,8 +44,8 @@ title: "Marllos — UX & Localization Portfolio"
     <h4><em>... But what does that mean in practice?</em></h4>
 
     <blockquote>
-        I design, structure, and communicate information to improve clarity, usability, and decision-making.
-        My work sits at the intersection of user experience, content design, and knowledge management —
+        I design and communicate information to improve clarity, usability, and decision-making.
+        My work sits at the intersection of user experience, content, and knowledge management —
         from interfaces and learning materials to multilingual communication and digital systems.
     </blockquote>
 </section>
@@ -58,7 +58,7 @@ title: "Marllos — UX & Localization Portfolio"
         <img src="assets/logo_instructor.png" class="think-img" alt="Instructor icon" />
         <div class="think-text">
             Teaching programming taught me to break down abstract ideas into clear, approachable steps —
-            the same mindset I use to structure interfaces and reduce cognitive load.
+            the same mindset I use to design interfaces and reduce cognitive load.
         </div>
     </div>
 
@@ -85,7 +85,7 @@ title: "Marllos — UX & Localization Portfolio"
         <img src="assets/LocalizationBanner.png" class="think-img" alt="Localization icon" />
         <div class="think-text">
             Language shapes perception, trust, and usability. Localization trained me to see interfaces
-            as systems where clarity, tone, and structure directly impact experience.
+            as systems where clarity, tone, and communication directly impact experience.
         </div>
     </div>
 </section>
@@ -94,16 +94,16 @@ title: "Marllos — UX & Localization Portfolio"
     <h2>Information & Content Design 🧠</h2>
 
     <p>
-        I work with structuring and communicating information across digital and educational contexts,
+        I organize and communicate information across digital and educational contexts,
         focusing on clarity, consistency, and accessibility.
     </p>
 
     <ul>
-        <li>Structuring content, flows, and materials for better understanding</li>
-        <li>Designing forms and information systems for data collection and use</li>
-        <li>Standardizing terminology, tone, and communication patterns</li>
-        <li>Transforming complex concepts into accessible formats</li>
-        <li>Supporting knowledge dissemination through UX and content design</li>
+        <li>Designing content, flows, and materials for better understanding</li>
+        <li>Creating forms and systems to support data collection and use</li>
+        <li>Ensuring terminology, tone, and communication consistency</li>
+        <li>Translating complex concepts into accessible formats</li>
+        <li>Supporting knowledge sharing through UX and content design</li>
     </ul>
 </section>
 
@@ -117,7 +117,7 @@ title: "Marllos — UX & Localization Portfolio"
                 <img src="assets/case-selfthumb.png" alt="Self-Learning App">
             </div>
             <h3>Self-Learning App — Mobile UX</h3>
-            <p class="muted">A concept app focused on structuring learning flows and improving access to educational information.</p>
+            <p class="muted">A concept app focused on improving learning flows and access to educational content.</p>
             <p class="meta"><strong>Skills:</strong> wireframes · flows · usability</p>
             <a class="card-cta" href="https://github.com/pradoprojects/Self-Learning-App">Learn More</a>
         </div>
@@ -127,7 +127,7 @@ title: "Marllos — UX & Localization Portfolio"
                 <img src="assets/case-apb-thumb.png" alt="Project APB">
             </div>
             <h3>Project APB — Learning Through Play</h3>
-            <p class="muted">Educational project involving the design and structuring of learning experiences through accessible and engaging content formats.</p>
+            <p class="muted">Educational project involving accessible and engaging learning experiences.</p>
             <p class="meta"><strong>Skills:</strong> research · ideation · prototyping</p>
             <a class="card-cta" href="https://github.com/pradoprojects/Project-APB">Learn More</a>
         </div>
@@ -137,7 +137,7 @@ title: "Marllos — UX & Localization Portfolio"
                 <img src="assets/case-localization-thumb.png" alt="Localization projects">
             </div>
             <h3>Localization & Linguistic QA</h3>
-            <p class="muted">UX-driven localization and content structuring focused on clarity, consistency, and effective communication across languages and contexts.</p>
+            <p class="muted">UX-driven localization focused on clarity, consistency, and effective communication across languages.</p>
             <p class="meta"><strong>Skills:</strong> localization · UX writing · QA</p>
             <a class="card-cta" href="https://github.com/pradoprojects/Translation_QA_Projects/">View samples</a>
         </div>
@@ -147,7 +147,7 @@ title: "Marllos — UX & Localization Portfolio"
                 <img src="assets/case-donactor-thumb.jpeg" alt="DonActor UX project">
             </div>
             <h3>DonActor — Donation UX</h3>
-            <p class="muted">A UX project exploring how to reduce friction and improve clarity in donation flows.</p>
+            <p class="muted">A UX project exploring how to reduce friction and improve clarity in donation experiences.</p>
             <p class="meta"><strong>Skills:</strong> research · wireframes · prototyping</p>
             <a class="card-cta" href="https://github.com/pradoprojects/DonActor">Learn More</a>
         </div>
@@ -159,20 +159,20 @@ title: "Marllos — UX & Localization Portfolio"
     <h2>What I’m Improving 🧱</h2>
     <ul>
         <li>Improving visual design and layout clarity</li>
-        <li>Strengthening usability testing → synthesis → decision-making</li>
-        <li>Advancing UX writing and structured content workflows</li>
-        <li>Expanding knowledge in information design and data-driven communication</li>
+        <li>Strengthening usability testing → synthesis → decisions</li>
+        <li>Advancing UX writing and content workflows</li>
+        <li>Expanding knowledge in information design and data communication</li>
     </ul>
 </section>
 
 <section id="tools">
     <h2>Tools 🛠</h2>
     <p>
-        I use tools to structure, design, and communicate information effectively:
+        I use tools to design and communicate information effectively:
         <br><br>
         Figma, Miro, HTML/CSS, GitHub<br>
         MemoQ, MateCat (localization workflows)<br>
-        Google Docs, spreadsheets, and documentation tools for structured content
+        Google Docs, spreadsheets, and documentation tools
     </p>
 </section>
 
