@@ -12,8 +12,8 @@ title: "Marllos — UX & Localization Portfolio"
     <ul id="top-menu-list" aria-hidden="true">
         <li><a href="#home">Home</a></li>
         <li><a href="#how-i-think">How I Think</a></li>
-        <li><a href="#information-design">Information Design</a></li>
         <li><a href="#featured-work">Featured Work</a></li>
+        <li><a href="#information-design">Information Design</a></li>
         <li><a href="#improving">What I’m Improving</a></li>
         <li><a href="#tools">Tools</a></li>
         <li><a href="#contact">Contact</a></li>
@@ -32,7 +32,7 @@ title: "Marllos — UX & Localization Portfolio"
 
     <blockquote>
         <h4>
-            My career is shaped by <em>continuous learning</em>, <em>multicultural experiences</em>,
+            I’m building a career shaped by <em>continuous learning</em>, <em>multicultural experiences</em>,
             and the intersection between <em>user experience, language, and digital products</em>.
         </h4>
     </blockquote>
@@ -90,38 +90,12 @@ title: "Marllos — UX & Localization Portfolio"
     </div>
 </section>
 
-<section id="information-design">
-    <h2>Information & Content Design 🧠</h2>
-
-    <p>
-        I organize and communicate information across digital and educational contexts,
-        focusing on clarity, consistency, and accessibility.
-    </p>
-
-    <ul>
-        <li>Designing content, flows, and materials for better understanding</li>
-        <li>Creating forms and systems to support data collection and use</li>
-        <li>Ensuring terminology, tone, and communication consistency</li>
-        <li>Translating complex concepts into accessible formats</li>
-        <li>Supporting knowledge sharing through UX and content design</li>
-    </ul>
-</section>
-
 <section id="featured-work">
     <h2>Featured Work 🎬</h2>
 
     <div class="grid-container">
 
-        <div class="card">
-            <div class="thumb-wrap">
-                <img src="assets/case-selfthumb.png" alt="Self-Learning App">
-            </div>
-            <h3>Self-Learning App — Mobile UX</h3>
-            <p class="muted">A concept app focused on improving learning flows and access to educational content.</p>
-            <p class="meta"><strong>Skills:</strong> wireframes · flows · usability</p>
-            <a class="card-cta" href="https://github.com/pradoprojects/Self-Learning-App">Learn More</a>
-        </div>
-
+        <!-- 1. MAIS FORTE PARA O EDITAL -->
         <div class="card">
             <div class="thumb-wrap">
                 <img src="assets/case-apb-thumb.png" alt="Project APB">
@@ -132,6 +106,7 @@ title: "Marllos — UX & Localization Portfolio"
             <a class="card-cta" href="https://github.com/pradoprojects/Project-APB">Learn More</a>
         </div>
 
+        <!-- 2. CONSISTÊNCIA / CONTEÚDO -->
         <div class="card">
             <div class="thumb-wrap">
                 <img src="assets/case-localization-thumb.png" alt="Localization projects">
@@ -142,6 +117,18 @@ title: "Marllos — UX & Localization Portfolio"
             <a class="card-cta" href="https://github.com/pradoprojects/Translation_QA_Projects/">View samples</a>
         </div>
 
+        <!-- 3. FLUXO / ESTRUTURA -->
+        <div class="card">
+            <div class="thumb-wrap">
+                <img src="assets/case-selfthumb.png" alt="Self-Learning App">
+            </div>
+            <h3>Self-Learning App — Mobile UX</h3>
+            <p class="muted">A concept app focused on improving learning flows and access to educational content.</p>
+            <p class="meta"><strong>Skills:</strong> wireframes · flows · usability</p>
+            <a class="card-cta" href="https://github.com/pradoprojects/Self-Learning-App">Learn More</a>
+        </div>
+
+        <!-- 4. UX CLÁSSICO -->
         <div class="card">
             <div class="thumb-wrap">
                 <img src="assets/case-donactor-thumb.jpeg" alt="DonActor UX project">
@@ -153,6 +140,16 @@ title: "Marllos — UX & Localization Portfolio"
         </div>
 
     </div>
+</section>
+
+<section id="information-design">
+    <h2>Information & Content Design 🧠</h2>
+
+    <ul>
+        <li>Designing content, flows, and materials that improve clarity and understanding</li>
+        <li>Creating forms and systems to support data collection and information use</li>
+        <li>Translating complex concepts into clear, accessible communication</li>
+    </ul>
 </section>
 
 <section id="improving">
