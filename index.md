@@ -32,7 +32,7 @@ title: "Marllos — UX & Localization Portfolio"
 
     <blockquote>
         <h4>
-            I’m building a career shaped by <em>continuous learning</em>, <em>multicultural experiences</em>,
+            My career is shaped by <em>continuous learning</em>, <em>multicultural experiences</em>,
             and the intersection between <em>user experience, language, and digital products</em>.
         </h4>
     </blockquote>
