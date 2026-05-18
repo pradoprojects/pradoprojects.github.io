@@ -150,6 +150,17 @@ title: "Marllos — UX & Localization Portfolio"
             <a class="card-cta" href="https://github.com/pradoprojects/DonActor">Learn More</a>
         </div>
 
+        <!-- 6 -->
+        <div class="card">
+            <div class="thumb-wrap">
+                <img src="assets/case-explorations-thumb.png" alt="Additional UX and localization explorations">
+            </div>
+            <h3>Additional Explorations</h3>
+            <p class="muted">Smaller experiments and practice projects involving localization, interfaces, accessibility, subtitles, and UX thinking.</p>
+            <p class="meta"><strong>Skills:</strong> exploration · iteration · communication</p>
+            <a class="card-cta" href="https://github.com/pradoprojects">Explore More</a>
+        </div>
+
     </div>
 </section>
 
