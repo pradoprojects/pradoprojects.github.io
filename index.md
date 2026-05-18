@@ -95,7 +95,7 @@ title: "Marllos — UX & Localization Portfolio"
 
     <div class="grid-container">
 
-        <!-- 1. MAIS FORTE PARA O EDITAL -->
+        <!-- 1 -->
         <div class="card">
             <div class="thumb-wrap">
                 <img src="assets/case-apb-thumb.png" alt="Project APB">
@@ -106,7 +106,18 @@ title: "Marllos — UX & Localization Portfolio"
             <a class="card-cta" href="https://github.com/pradoprojects/Project-APB">Learn More</a>
         </div>
 
-        <!-- 2. CONSISTÊNCIA / CONTEÚDO -->
+        <!-- 2 -->
+        <div class="card">
+            <div class="thumb-wrap">
+                <img src="assets/case-catch-the-cup-thumb.png" alt="Catch the Cup localization case study">
+            </div>
+            <h3>Catch the Cup — Multilingual UX Through Music</h3>
+            <p class="muted">A multimedia localization case study exploring how subtitles, language, and timing shape user experience across languages.</p>
+            <p class="meta"><strong>Skills:</strong> localization · subtitles · UX · content strategy</p>
+            <a class="card-cta" href="https://github.com/pradoprojects/catch-the-cup-localization">Learn More</a>
+        </div>
+
+        <!-- 3 -->
         <div class="card">
             <div class="thumb-wrap">
                 <img src="assets/case-localization-thumb.png" alt="Localization projects">
@@ -117,7 +128,7 @@ title: "Marllos — UX & Localization Portfolio"
             <a class="card-cta" href="https://github.com/pradoprojects/Translation_QA_Projects/">View samples</a>
         </div>
 
-        <!-- 3. FLUXO / ESTRUTURA -->
+        <!-- 4 -->
         <div class="card">
             <div class="thumb-wrap">
                 <img src="assets/case-selfthumb.png" alt="Self-Learning App">
@@ -128,7 +139,7 @@ title: "Marllos — UX & Localization Portfolio"
             <a class="card-cta" href="https://github.com/pradoprojects/Self-Learning-App">Learn More</a>
         </div>
 
-        <!-- 4. UX CLÁSSICO -->
+        <!-- 5 -->
         <div class="card">
             <div class="thumb-wrap">
                 <img src="assets/case-donactor-thumb.jpeg" alt="DonActor UX project">
