@@ -153,7 +153,7 @@ title: "Marllos — UX & Localization Portfolio"
         <!-- 6 -->
         <div class="card">
             <div class="thumb-wrap">
-                <img src="assets/case-explorations-thumb.png" alt="Additional UX and localization explorations">
+                <img src="assets/additional-explorations-banner.png" alt="Additional UX and localization explorations">
             </div>
             <h3>Additional Explorations</h3>
             <p class="muted">Smaller experiments and practice projects involving localization, interfaces, accessibility, subtitles, and UX thinking.</p>
