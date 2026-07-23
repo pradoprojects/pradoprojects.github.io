@@ -101,7 +101,10 @@ title: "Marllos — UX & Localization Portfolio"
                 <img src="assets/case-catch-the-cup-thumb.png" alt="Catch the Cup localization case study">
             </div>
             <h3>Catch the Cup — Multilingual UX Through Music</h3>
-            <p class="muted">A multimedia localization case study exploring how subtitles, language, and timing shape user experience across languages.</p>
+            <p class="muted">
+                A multimedia localization case study exploring how subtitles, language,
+                and timing shape user experience across languages.
+            </p>
             <p class="meta"><strong>Skills:</strong> localization · subtitles · UX · content strategy</p>
             <a class="card-cta" href="https://github.com/pradoprojects/catch-the-cup-localization">Learn More</a>
         </div>
@@ -112,51 +115,75 @@ title: "Marllos — UX & Localization Portfolio"
                 <img src="assets/case-localization-thumb.png" alt="Localization projects">
             </div>
             <h3>Localization & Linguistic QA</h3>
-            <p class="muted">UX-driven localization focused on clarity, consistency, and effective communication across languages.</p>
+            <p class="muted">
+                UX-driven localization focused on clarity, consistency, and effective communication across languages.
+            </p>
             <p class="meta"><strong>Skills:</strong> localization · UX writing · QA</p>
-            <a class="card-cta" href="https://github.com/pradoprojects/Translation_QA_Projects/">View samples</a>
+            <a class="card-cta" href="https://github.com/pradoprojects/Translation_QA_Projects/">View Samples</a>
         </div>
 
         <!-- 3 -->
         <div class="card">
             <div class="thumb-wrap">
-                <img src="assets/case-selfthumb.png" alt="Self-Learning App">
+                <img src="assets/case-seedlers-thumb.png" alt="Seedlers UX research and product design project">
             </div>
-            <h3>Self-Learning App — Mobile UX</h3>
-            <p class="muted">A concept app focused on improving learning flows and access to educational content.</p>
-            <p class="meta"><strong>Skills:</strong> wireframes · flows · usability</p>
-            <a class="card-cta" href="https://github.com/pradoprojects/Self-Learning-App">Learn More</a>
+            <h3>Seedlers — UX Research & Product Design</h3>
+            <p class="muted">
+                An end-to-end UX case study exploring how research, synthesis, and iterative design can foster community engagement through a plant-sharing platform.
+            </p>
+            <p class="meta"><strong>Skills:</strong> UX research · personas · user flows · wireframes</p>
+            <a class="card-cta" href="https://github.com/pradoprojects/Seedlers">Learn More</a>
         </div>
 
         <!-- 4 -->
         <div class="card">
             <div class="thumb-wrap">
-                <img src="assets/case-donactor-thumb.jpeg" alt="DonActor UX project">
+                <img src="assets/case-selfthumb.png" alt="Self-Learning App">
             </div>
-            <h3>DonActor — Donation UX</h3>
-            <p class="muted">A UX project exploring how to reduce friction and improve clarity in donation experiences.</p>
-            <p class="meta"><strong>Skills:</strong> research · wireframes · prototyping</p>
-            <a class="card-cta" href="https://github.com/pradoprojects/DonActor">Learn More</a>
+            <h3>Self-Learning App — Mobile UX</h3>
+            <p class="muted">
+                A concept app focused on improving learning flows and access to educational content.
+            </p>
+            <p class="meta"><strong>Skills:</strong> wireframes · flows · usability</p>
+            <a class="card-cta" href="https://github.com/pradoprojects/Self-Learning-App">Learn More</a>
         </div>
 
         <!-- 5 -->
         <div class="card">
             <div class="thumb-wrap">
-                <img src="assets/case-apb-thumb.png" alt="Project APB">
+                <img src="assets/case-donactor-thumb.jpeg" alt="DonActor UX project">
             </div>
-            <h3>Project APB — Learning Through Play</h3>
-            <p class="muted">Educational project involving accessible and engaging learning experiences.</p>
-            <p class="meta"><strong>Skills:</strong> research · ideation · prototyping</p>
-            <a class="card-cta" href="https://github.com/pradoprojects/Project-APB">Learn More</a>
+            <h3>DonActor — Donation UX</h3>
+            <p class="muted">
+                A UX project exploring how to reduce friction and improve clarity in donation experiences.
+            </p>
+            <p class="meta"><strong>Skills:</strong> research · wireframes · prototyping</p>
+            <a class="card-cta" href="https://github.com/pradoprojects/DonActor">Learn More</a>
         </div>
 
         <!-- 6 -->
         <div class="card">
             <div class="thumb-wrap">
+                <img src="assets/case-apb-thumb.png" alt="Project APB">
+            </div>
+            <h3>Project APB — Learning Through Play</h3>
+            <p class="muted">
+                Educational project involving accessible and engaging learning experiences.
+            </p>
+            <p class="meta"><strong>Skills:</strong> research · ideation · prototyping</p>
+            <a class="card-cta" href="https://github.com/pradoprojects/Project-APB">Learn More</a>
+        </div>
+
+        <!-- 7 -->
+        <div class="card">
+            <div class="thumb-wrap">
                 <img src="assets/additional-explorations-banner.png" alt="Additional UX and localization explorations">
             </div>
             <h3>Additional Explorations</h3>
-            <p class="muted">Smaller experiments and practice projects involving localization, interfaces, accessibility, subtitles, and UX thinking.</p>
+            <p class="muted">
+                Smaller experiments and practice projects involving localization, interfaces,
+                accessibility, subtitles, and UX thinking.
+            </p>
             <p class="meta"><strong>Skills:</strong> exploration · iteration · communication</p>
             <a class="card-cta" href="https://github.com/pradoprojects">Explore More</a>
         </div>
